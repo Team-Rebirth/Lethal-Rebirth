@@ -12,7 +12,7 @@ jobs:
         with:
           token: ${{ secrets.THUNDERSTORE_TOKEN }}
           name: LethalRebirth
-          description: Large LC modpack focused on extending the gameplay, allowing experienced players to hit quota for more days to come.
+          description: ${{ github.event.repository.description }}
           version: ${{ github.ref_name }}
           namespace: Rebirth
           community: lethal-company
