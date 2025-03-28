@@ -1,0 +1,142 @@
+name: Publish to Thunderstore
+on: 
+  push:
+    tags:
+      - '*'
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: GreenTF/upload-thunderstore-package@v4.3
+        with:
+          token: ${{ secrets.THUNDERSTORE_TOKEN }}
+          name: LethalRebirth
+          description: Large LC modpack focused on extending the gameplay, allowing experienced players to hit quota for more days to come.
+          version: ${{ github.ref_name }}
+          namespace: Rebirth
+          community: lethal-company
+          categories: |
+            modpacks
+          deps: Alice-DungeonGenerationPlus-1.4.1 \
+            anormaltwig-LateCompany-1.0.18 \
+            AudioKnight-StarlancerAIFix-3.9.0 \
+            Badham_Mods-SCPFoundationDungeon-4.3.4 \
+            Barnitto-LightningItemSlot-0.0.1 \
+            BepInEx-BepInExPack-5.4.2100 \
+            Bobbie-NAudio-2.2.2 \
+            boxofbiscuits97-QuotaRollover-2.5.0 \
+            BunyaPineTree-ModelReplacementAPI-2.4.16 \
+            ButteryStancakes-AccurateStaminaDisplay-2.2.0 \
+            ButteryStancakes-Chameleon-2.1.2 \
+            ButteryStancakes-JetpackFixes-1.5.2 \
+            ButteryStancakes-MaskFixes-1.3.1 \
+            ButteryStancakes-MeleeFixes-1.4.0 \
+            ChooMcoo-MoreAdditionalSuits-1.0.2 \
+            coderCleric-Poltergeist-1.2.1 \
+            DaJadeNinja-EmployeeClasses-0.1.3 \
+            DemonMae-Rockwell_moon-2.1.1 \
+            den-Meltdown_Chance-2.8.2 \
+            Dev1A3-LobbyImprovements-1.0.9 \
+            DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher-1.0.0 \
+            DiggC-CruiserImproved-1.5.0 \
+            Drakorle-MoreItems-1.0.2 \
+            EliteMasterEric-Coroner-2.2.0 \
+            Evaisa-FixPluginTypesSerialization-1.1.2 \
+            Evaisa-HookGenPatcher-0.0.5 \
+            Evaisa-LethalLib-1.0.1 \
+            F4ilS4fe-MaskTheDead-1.0.6 \
+            FlipMods-BetterStamina-1.5.5 \
+            FlipMods-FasterItemDropship-1.3.1 \
+            FlipMods-ReservedFlashlightSlot-2.0.10 \
+            FlipMods-ReservedItemSlotCore-2.0.48 \
+            FlipMods-ReservedUtilitySlot-1.0.7 \
+            FlipMods-ReservedWalkieSlot-2.0.7 \
+            fumiko-CullFactory-1.7.0 \
+            FutureSavior-Hold_Scan_Button-1.1.2 \
+            Generic_GMD-Generic_Scraps-0.1.2 \
+            Hamunii-AutoHookGenPatcher-1.0.6 \
+            Hamunii-DetourContext_Dispose_Fix-1.0.4 \
+            Hardy-LCMaxSoundsFix-1.2.0 \
+            Hexnet111-SuitSaver-1.2.1 \
+            HGG-JigglePhysicsPlugin-1.1.21 \
+            Humyo-MoreCharacterSelector-1.1.3 \
+            IAmBatby-LethalLevelLoader-1.4.11 \
+            IntegrityChaos-LCCutscene-1.0.0 \
+            JacobG5-JLL-1.9.3 \
+            JulianMods-OpenMonitors-1.1.1 \
+            KawaiiBone-Remnants-1.4.1 \
+            kRYstall9-FastSwitchPlayerViewInRadar-1.3.4 \
+            LegoMaster3650-FairGiants-1.1.2 \
+            LethalCompanyModding-RuntimeIcons-0.3.2 \
+            LethalCompanyModding-VertexLibrary-1.1.0 \
+            loaforc-FacilityMeltdown-2.7.1 \
+            Lordfirespeed-OdinSerializer-2022.11.9 \
+            Magic_Wesley-WesleysInteriors-2.1.0 \
+            Magic_Wesley-Wesleys_Moons-5.1.5 \
+            malco-Lategame_Upgrades-3.12.2 \
+            MaxWasUnavailable-LethalModDataLib-1.2.2 \
+            MeatBallDemon-VileVendingMachine-1.1.2 \
+            MegaPiggy-BuyableShotgunShells-1.3.0 \
+            MegaPiggy-EnumUtils-1.0.5 \
+            Mhz-MoreHead-1.2.6 \
+            mrgrm7-LethalCasino-1.1.2 \
+            MrHydralisk-EnhancedLockpicker-1.1.6 \
+            MrHydralisk-EnhancedRadarBooster-1.7.1 \
+            mrov-MrovLib-0.2.24 \
+            mrov-TerminalFormatter-0.2.28 \
+            mrov-WeatherRegistry-0.5.5 \
+            necrowing-StopBeesOpeningDoors-1.1.0 \
+            NiceHairs-NuclearLibrary-1.0.7 \
+            NiceHairs-Symbiosis-1.0.8 \
+            NotAtomicBomb-TerminalApi-1.5.5 \
+            notnotnotswipez-MoreCompany-1.11.0 \
+            Nozz-Lethal_Missions-1.1.8 \
+            NutNutty-SellTracker-1.2.1 \
+            OfEden-ScavengerMaid-1.0.0 \
+            Piggy-JesterStompShake-1.0.11 \
+            Piggy-LC_Office-2.1.0 \
+            Pooble-LCBetterSaves-1.7.3 \
+            qwbarch-Concentus-2.3.0 \
+            qwbarch-Mirage-1.20.1 \
+            qwbarch-MirageCore-1.0.3 \
+            qwbarch-OpusDotNet-1.0.30 \
+            readthisifbad-SnatchinBracken-1.5.1 \
+            RosiePies-Gordion_Saga-0.2.1 \
+            Rune580-LethalCompany_InputUtils-0.7.10 \
+            Saradora-LethalMDK-1.2.0 \
+            Saradora-ScanTweaks-1.7.0 \
+            Saradora-UnityMDK-1.3.0 \
+            Scintesto-Monster_Plushies-1.2.9 \
+            sfDesat-ViewExtension-1.3.0 \
+            Sigurd-CSync-5.0.1 \
+            SillySquad-Arachnophilia-1.8.1 \
+            SillySquad-TakeThatMaskOff-2.1.6 \
+            SimonTendo-LCGoldScrapMod-2.2.0 \
+            Sparble-FacelessStalker-1.2.0 \
+            Suskitech-AlwaysHearActiveWalkies-1.4.5 \
+            taffyko-BetterSprayPaint-2.0.9 \
+            Terraformer9x-JesterDoorSlam-1.0.0 \
+            TestAccount666-AntiSlimeCamp-2.0.0 \
+            Verity-TooManySuits-2.0.1 \
+            VirusTLNR-MaskedInvisFix-0.0.2 \
+            ViViKo-NoSellLimit-1.0.1 \
+            WhiteSpike-Custom_Item_Behaviour_Library-1.2.6 \
+            WhiteSpike-Interactive_Terminal_API-1.2.0 \
+            WhiteSpike-Lategame_Company_Cruiser_Upgrades-1.1.4 \
+            WhiteSpike-Maneater_Damage_Patch-1.0.1 \
+            WhiteSpike-Moon_Day_Speed_Multiplier_Patcher-1.0.1 \
+            WhiteSpike-Wheelbarrow-1.0.3 \
+            willis81808-LethalSettings-1.4.1 \
+            woah25-FairBirds-1.0.1 \
+            x753-Mimics-2.6.4 \
+            x753-More_Suits-1.5.2 \
+            xilophor-LethalNetworkAPI-3.3.2 \
+            xilophor-StaticNetcodeLib-1.1.1 \
+            XuXiaolan-ImmersiveScrap-1.4.2 \
+            Yorimor-CustomStoryLogs-1.4.6 \
+            Zaggy1024-OpenBodyCams-3.0.5 \
+            zealsprince-Locker-1.6.1 \
+            zealsprince-Malfunctions-1.10.1 \
+            Zehs-RemoveInteriorFog-1.0.2 \
+            Zehs-WesleysInteriorsAddon-1.1.0
