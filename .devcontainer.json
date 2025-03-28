@@ -1,0 +1,29 @@
+{
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"DavidAnson.vscode-markdownlint",
+				"github.vscode-github-actions",
+				"kennylong.kubernetes-yaml-formatter"
+			],
+			"settings": {
+				"editor.formatOnSave": true,
+				"markdownlint.run": "onType"
+			}
+		}
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/github-cli:latest": {
+			"installDirectlyFromGitHubRelease": true,
+			"version": "latest"
+		}
+	},
+	"hostRequirements": {
+		"cpus": 1,
+		"gpu": false,
+		"memory": "512mb",
+		"storage": "64mb"
+	},
+	"image": "debian:stable-slim",
+	"name": "Lethal Rebirth"
+}
