@@ -15,7 +15,7 @@ jobs:
         id: format_name
         run: |
           NAME="${{ github.event.repository.name }}"
-          echo "result=${NAME//-/ }" >> $GITHUB_OUTPUT
+          echo "result=${NAME//-/_}" >> $GITHUB_OUTPUT
       - name: Upload to Thunderstore
         uses: GreenTF/upload-thunderstore-package@v4.3
         with:
