@@ -1,5 +1,9 @@
 *
 !.devcontainer.json
+!.github/
+!.github/workflows/
+!.github/workflows/upload.yml
 !.gitignore
+!icon.png
 !LICENSE
 !README.md
