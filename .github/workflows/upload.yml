@@ -21,7 +21,6 @@ jobs:
         with:
           categories: |
             bepinex
-            bugfixes
             cosmetics
             equipment
             hazards
