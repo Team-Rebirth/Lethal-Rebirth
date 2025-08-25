@@ -1,0 +1,37 @@
+{
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"DavidAnson.vscode-markdownlint",
+				"github.vscode-github-actions"
+			],
+			"settings": {
+				"markdownlint.run": "onType",
+				"[yaml]": {
+					"editor.insertSpaces": true,
+					"editor.tabSize": 2,
+					"editor.autoIndent": "advanced",
+					"diffEditor.ignoreTrimWhitespace": false,
+					"editor.defaultColorDecorators": "never",
+					"editor.quickSuggestions": {
+						"strings": "on"
+					}
+				}
+			}
+		}
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/github-cli:latest": {
+			"installDirectlyFromGitHubRelease": true,
+			"version": "latest"
+		}
+	},
+	"hostRequirements": {
+		"cpus": 1,
+		"gpu": false,
+		"memory": "512mb",
+		"storage": "256mb"
+	},
+	"image": "debian:stable-slim",
+	"name": "Lethal Rebirth"
+}
