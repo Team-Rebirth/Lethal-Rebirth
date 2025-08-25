@@ -9,8 +9,15 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: GreenTF/upload-thunderstore-package@v4.3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Format repository name
+        id: format_name
+        run: |
+          NAME="${{ github.event.repository.name }}"
+          echo "result=${NAME//-/ }" >> $GITHUB_OUTPUT
+      - name: Upload to Thunderstore
+        uses: GreenTF/upload-thunderstore-package@v4.3
         with:
           categories: |
             bepinex
@@ -29,7 +36,7 @@ jobs:
             weather
           namespace: Rebirth
           community: lethal-company
-          description: The same company. Reborn for profit.
+          description: ${{ github.event.repository.description }}
           deps: >
             AdiBTW-Loadstone@0.1.23
             Alice-DungeonGenerationPlus@1.4.1
@@ -183,7 +190,7 @@ jobs:
             Zehs-KidnapperFoxSettings@1.0.1
             Zehs-LCBetterSavesFix@1.0.0
             Zehs-WesleysInteriorsAddon@1.1.0
-          name: ${{ github.event.repository.name }} // WHITESPACE REPLACEMENT
+          name: ${{ steps.format_name.outputs.result }}
           repo: lethal-company.thunderstore.io
           token: ${{ secrets.THUNDERSTORE_TOKEN }}
           version: ${{ github.ref_name }}
