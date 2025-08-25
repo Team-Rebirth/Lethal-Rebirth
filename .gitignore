@@ -4,6 +4,7 @@
 !.github/workflows/
 !.github/workflows/upload.yml
 !.gitignore
+!categories.txt
 !config/
 !config/BepInEx.cfg
 !config/butterystancakes.lethalcompany.accuratestaminadisplay.cfg

@@ -16,6 +16,12 @@ jobs:
         run: |
           NAME="${{ github.event.repository.name }}"
           echo "result=${NAME//-/_}" >> $GITHUB_OUTPUT
+      - name: Read categories
+        id: categories
+        run: |
+          echo "list<<EOF" >> $GITHUB_OUTPUT
+          cat categories.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
       - name: Read dependencies
         id: dependencies
         run: |
@@ -23,20 +29,7 @@ jobs:
       - name: Upload to Thunderstore
         uses: GreenTF/upload-thunderstore-package@v4.3
         with:
-          categories: |
-            bepinex
-            cosmetics
-            equipment
-            hazards
-            interiors
-            items
-            misc
-            modpacks
-            monsters
-            performance
-            suits
-            tweaks-and-quality-of-life
-            weather
+          categories: ${{ steps.categories.outputs.list }}
           namespace: Rebirth
           community: lethal-company
           description: ${{ github.event.repository.description }}

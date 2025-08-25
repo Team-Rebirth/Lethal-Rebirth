@@ -1,0 +1,13 @@
+bepinex
+cosmetics
+equipment
+hazards
+interiors
+items
+misc
+modpacks
+monsters
+performance
+suits
+tweaks-and-quality-of-life
+weather
