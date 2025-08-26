@@ -143,8 +143,8 @@ xilophor-LethalNetworkAPI@3.3.2
 xilophor-StaticNetcodeLib@1.1.1
 XuXiaolan-ImmersiveScrap@1.4.2
 Zaggy1024-OpenBodyCams@3.0.7
-Zaggy1024-PathfindingLagFix@2.2.3
-Zaggy1024-PathfindingLib@2.2.2
+Zaggy1024-PathfindingLagFix@2.2.4
+Zaggy1024-PathfindingLib@2.3.0
 zealsprince-Locker@1.6.1
 zealsprince-Malfunctions@1.10.1
 Zehs-KidnapperFoxSettings@1.0.1
