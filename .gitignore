@@ -3,6 +3,7 @@
 !.github/
 !.github/ISSUE_TEMPLATE/
 !.github/ISSUE_TEMPLATE/bug_report.yml
+!.github/ISSUE_TEMPLATE/config.yml
 !.github/ISSUE_TEMPLATE/enhancement.yml
 !.github/ISSUE_TEMPLATE/mod_request.yml
 !.github/ISSUE_TEMPLATE/question.yml
