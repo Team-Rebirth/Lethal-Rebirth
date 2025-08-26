@@ -1,3 +1,4 @@
+4902-No_Console_Spam@1.8.0
 AdiBTW-Loadstone@0.1.23
 Alice-DungeonGenerationPlus@1.4.1
 AllToasters-SpectateEnemies@2.7.0
@@ -34,6 +35,7 @@ confusingus-LethalCasinoTweaks@1.2.1
 darmuh-darmuhsTerminalStuff@3.8.5
 darmuh-OpenLib@0.3.2
 DaXcess-NoJumpDelay@1.1.1
+DaXcess-NoMoreCompanyLogo@1.0.2
 den-Meltdown_Chance@2.8.2
 Dev1A3-LethalFixes@1.2.7
 Dev1A3-LobbyImprovements@1.1.1
@@ -47,16 +49,19 @@ dopadream-LLLHotreloadPatch@1.0.1
 dopadream-RebalancedMoonsBeta@1.15.6
 dopadream-SnowyWeeds@1.4.1
 EliteMasterEric-Coroner@2.3.0
+EliteMasterEric-SlimeTamingFix@1.0.2
 Evaisa-FixPluginTypesSerialization@1.1.2
 Evaisa-HookGenPatcher@0.0.5
 Evaisa-LethalLib@1.1.1
 F4ilS4fe-MaskTheDead@1.0.6
+falcodxb-LessLogs@1.0.1
 Fandovec03-SpiderPositionFix@1.5.3
 FlipMods-FasterItemDropship@1.3.1
 FlipMods-ReservedItemSlotCore@2.0.52
 FlipMods-ReservedUtilitySlot@1.0.7
 fumiko-CullFactory@1.7.0
 Furiante-WeedKillerTweaks@1.0.0
+FutureSavior-Boombox_Sync_Fix@1.1.3
 FutureSavior-Hold_Scan_Button@1.1.2
 Generic_GMD-Generic_Interiors@2.5.0
 Generic_GMD-Generic_Scraps@1.0.1
@@ -72,10 +77,13 @@ JacobG5-ReverbTriggerFix@0.3.0
 LethalCompanyModding-LCUltrawide_Community@1.2.2
 LethalCompanyModding-RuntimeIcons@0.3.2
 LethalCompanyModding-VertexLibrary@1.1.0
+linkoid-DissonanceLagFix@1.0.0
 loaforc-FacilityMeltdown@2.7.1
 Lordfirespeed-OdinSerializer@2024.2.2700
+Lugom-AstolfoPlushie@1.1.2
 Magic_Wesley-WesleysInteriors@3.0.8
 malco-Lategame_Upgrades@3.12.5
+ManiaBania-1000_Quota_Stare@1.0.0
 mattymatty-AsyncLoggers@2.1.4
 mattymatty-BagConfig@1.0.0
 mattymatty-LobbyControl@2.5.9
@@ -127,8 +135,10 @@ SpookyBuddy-SpikeTrapFixes@1.2.0
 swny-WalkieRevamped@1.4.6
 SylviBlossom-TerminalConflictFix@1.2.2
 taffyko-BetterSprayPaint@2.0.9
+TeamClark-SCP_Foundation_Suit@1.1.0
 Terraformer9x-JesterDoorSlam@1.0.0
 TestAccount666-AntiSlimeCamp@2.0.0
+ThePotato-scanForItemsFix@1.0.4
 TiltedTomb-The_Femmployee_Mod@1.1.6
 v0xx-TerraMesh@1.2.0
 VirusTLNR-MaskedInvisFix@0.0.2
