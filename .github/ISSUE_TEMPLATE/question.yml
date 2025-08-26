@@ -1,0 +1,47 @@
+name: "Ask a question"
+description: "Ask a question about the modpack or mods"
+title: "<Question>"
+labels: ["question"]
+
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: "Details"
+      description: "Provide all the details about your question"
+      placeholder: |
+        Please include:
+        - What you are trying to do
+        - What you've tried so far
+      validations:
+        required: true
+
+  - type: checkboxes
+    id: operating_system
+    attributes:
+      label: "Operating System"
+      description: "Select the operating system you are using"
+      options:
+        - label: "Windows 10"
+        - label: "Windows 11"
+        - label: "macOS"
+        - label: "Linux"
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Log Files"
+      description: "Paste relevant error logs, crash reports, or console output"
+      render: shell
+    validations:
+      required: false
+
+  - type: input
+    id: notes
+    attributes:
+      label: "Additional Notes"
+      description: "Anything else we should know?"
+    validations:
+      required: false
