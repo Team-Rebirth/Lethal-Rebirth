@@ -32,6 +32,21 @@ body:
       label: "Expected Behavior"
       description: "What did you expect to happen instead?"
       placeholder: "Flashlight should toggle on/off normally"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: operating_system
+    attributes:
+      label: "Operating System"
+      description: "Select the OS you are using"
+      options:
+        - label: "Windows 10"
+        - label: "Windows 11"
+        - label: "macOS"
+        - label: "Linux"
+    validations:
+      required: true
 
   - type: input
     id: game_version
