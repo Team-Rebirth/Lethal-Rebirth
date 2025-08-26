@@ -13,18 +13,18 @@ jobs:
         uses: actions/checkout@v4
       - name: Format repository name
         id: format_name
-        run: |
+        run: | # Hyphens are replaced with underscores.
           NAME="${{ github.event.repository.name }}"
           echo "result=${NAME//-/_}" >> $GITHUB_OUTPUT
       - name: Read categories
         id: categories
-        run: |
+        run: | # The file "categories.txt" is read as a list
           echo "list<<EOF" >> $GITHUB_OUTPUT
           cat categories.txt >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
       - name: Read dependencies
         id: dependencies
-        run: |
+        run: | # The file "dependencies.txt" is read as a list
           echo "list=$(tr '\n' ' ' < dependencies.txt)" >> $GITHUB_OUTPUT
       - name: Upload to Thunderstore
         uses: GreenTF/upload-thunderstore-package@v4.3
