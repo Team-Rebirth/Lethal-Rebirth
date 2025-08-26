@@ -5,7 +5,7 @@ labels: ["mod-request"]
 
 body:
   - type: input
-    id: mod_name
+    id: name
     attributes:
       label: "Name"
       description: "Enter the exact name of the mod"
@@ -23,7 +23,7 @@ body:
       required: true
 
   - type: input
-    id: mod_url
+    id: url
     attributes:
       label: "URL"
       description: "Provide a link to the mod (Thunderstore, GitHub, Nexus, etc.)"
@@ -40,10 +40,10 @@ body:
     validations:
       required: true
 
-  - type: textarea
+  - type: input
     id: notes
     attributes:
       label: "Additional Notes"
       description: "Anything else we should know?"
     validations:
-      required: true
+      required: false
