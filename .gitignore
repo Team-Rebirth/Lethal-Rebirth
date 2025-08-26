@@ -10,7 +10,9 @@
 !.github/workflows/
 !.github/workflows/upload.yml
 !.gitignore
+!CHANGELOG.md
 !categories.txt
+!CODE_OF_CONDUCT.md
 !config/
 !config/BepInEx.cfg
 !config/butterystancakes.lethalcompany.accuratestaminadisplay.cfg
@@ -79,6 +81,10 @@
 !config/x753.Mimics.cfg
 !config/Zaggy1024.OpenBodyCams.cfg
 !dependencies.txt
+!docs/
+!docs/BetterFog.md
+!docs/Mods.md
+!docs/Terminal.md
 !icon.png
 !LICENSE
 !README.md
