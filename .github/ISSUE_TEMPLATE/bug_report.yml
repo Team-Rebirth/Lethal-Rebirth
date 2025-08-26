@@ -1,0 +1,69 @@
+name: "Bug Report"
+description: "Report a problem with the modpack"
+title: "<Short description>"
+labels: ["bug"]
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Describe the Bug"
+      description: "Give a clear, concise description of what the bug is"
+      placeholder: "When I press F, the flashlight turns on and crashes the game..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Steps to Reproduce"
+      description: "List the steps needed to trigger the bug"
+      placeholder: |
+        1. Start the game
+        2. Equip flashlight
+        3. Press F
+        4. Game crashes
+    validations:
+      required: true
+
+  - type: input
+    id: expected
+    attributes:
+      label: "Expected Behavior"
+      description: "What did you expect to happen instead?"
+      placeholder: "Flashlight should toggle on/off normally"
+
+  - type: input
+    id: game_version
+    attributes:
+      label: "Game Version"
+      description: "Which version of the game are you using?"
+      placeholder: "Example: v47"
+    validations:
+      required: true
+
+  - type: input
+    id: modpack_version
+    attributes:
+      label: "Modpack Version"
+      description: "Which version of the modpack are you using?"
+      placeholder: "Example: v1.2.3"
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Log Files"
+      description: "Paste relevant error logs, crash reports, or console output"
+      render: shell
+    validations:
+      required: false
+
+  - type: input
+    id: notes
+    attributes:
+      label: "Additional Notes"
+      description: "Anything else we should know?"
+    validations:
+      required: false
