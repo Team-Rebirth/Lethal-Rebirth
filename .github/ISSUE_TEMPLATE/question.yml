@@ -13,8 +13,8 @@ body:
         Please include:
         - What you are trying to do
         - What you've tried so far
-      validations:
-        required: true
+    validations:
+      required: true
 
   - type: checkboxes
     id: operating_system
