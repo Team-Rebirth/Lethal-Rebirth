@@ -1,0 +1,49 @@
+name: "Mod Request"
+description: "Suggest a mod you'd like to see included in the modpack"
+title: "<Mod Name>"
+labels: ["mod-request"]
+
+body:
+  - type: input
+    id: mod_name
+    attributes:
+      label: "Name"
+      description: "Enter the exact name of the mod"
+      placeholder: "Example: BetterFog"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: "Briefly explain what the mod does and why it should be added"
+      placeholder: "This mod improves fog rendering and adds extra options..."
+    validations:
+      required: true
+
+  - type: input
+    id: mod_url
+    attributes:
+      label: "URL"
+      description: "Provide a link to the mod (Thunderstore, GitHub, Nexus, etc.)"
+      placeholder: "https://thunderstore.io/package/..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: "Reason for Request"
+      description: "Tell us why this mod would improve the modpack"
+      placeholder: "It adds useful gameplay mechanics..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Additional Notes"
+      description: "Anything else we should know?"
+    validations:
+      required: true
