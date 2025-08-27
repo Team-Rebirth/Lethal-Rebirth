@@ -28,7 +28,6 @@
 !config/butterystancakes.lethalcompany.maskfixes.cfg
 !config/butterystancakes.lethalcompany.snowyholidaydropship.cfg
 !config/com.adibtw.loadstone.cfg
-!config/com.atomic.shotgunsafety.cfg
 !config/com.elitemastereric.coroner.cfg
 !config/com.fumiko.CullFactory.cfg
 !config/com.github.lethalcompanymodding.runtimeicons.cfg
@@ -67,9 +66,9 @@
 !config/Ovchinikov.SnatchinBracken.Main.cfg
 !config/Piggy.LCOffice.cfg
 !config/quackandcheese.mirrordecor.cfg
+!config/ScienceBird.ScienceBirdTweaks.cfg
 !config/scin.monsterplushies.cfg
 !config/scin.scavengerPlush.cfg
-!config/SCPCBDunGen.cfg
 !config/ShaosilGaming.GeneralImprovements.cfg
 !config/SpikeTrapFixes.cfg
 !config/taffyko.BetterSprayPaint.cfg
@@ -78,12 +77,12 @@
 !config/uk.1a3.lethalfixes.cfg
 !config/uk.1a3.yesfox.cfg
 !config/WeedKillerAdjuster.cfg
-!config/windblownleaves.problematicpilotry.cfg
 !config/x753.Mimics.cfg
 !config/Zaggy1024.OpenBodyCams.cfg
 !dependencies.txt
 !docs/
 !docs/BetterFog.md
+!docs/Equipment.md
 !docs/Mods.md
 !docs/Terminal.md
 !icon.png

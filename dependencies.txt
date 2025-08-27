@@ -2,10 +2,12 @@
 AdiBTW-Loadstone@0.1.23
 Alice-DungeonGenerationPlus@1.4.1
 AllToasters-SpectateEnemies@2.7.0
-AtomicStudio-Better_Shotgun_Tooltip@1.6.0
+AtomicStudio-Atomics_Cosmetics-1.3.4
+AtomicStudio-Atomics_Suits-1.0.4
 AtomicStudio-Moved_Magnet_Switch@1.5.0
 AudioKnight-StarlancerAIFix@3.11.1
 BepInEx-BepInExPack@5.4.2100
+BigBadPigeon-PigeonsCosmeticsAddon-1.3.0
 BMX-LobbyCompatibility@1.5.1
 Bobbie-NAudio@2.2.2
 BunyaPineTree-ModelReplacementAPI@2.4.19
@@ -49,6 +51,7 @@ dopadream-LLLHotreloadPatch@1.0.1
 dopadream-RebalancedMoonsBeta@1.15.6
 dopadream-SnowyWeeds@1.4.1
 EliteMasterEric-Coroner@2.3.0
+EliteMasterEric-CoronerMimics-1.0.1
 EliteMasterEric-SlimeTamingFix@1.0.2
 Evaisa-FixPluginTypesSerialization@1.1.2
 Evaisa-HookGenPatcher@0.0.5
@@ -116,13 +119,15 @@ Piggy-LC_Office@2.3.3
 Pooble-LCBetterSaves@1.7.3
 quackandcheese-MirrorDecor@1.3.3
 qwbarch-Concentus@2.3.0
-qwbarch-Mirage@1.25.2
+qwbarch-Mirage-1.26.0
 qwbarch-MirageCore@1.0.4
 qwbarch-OpusDotNet@1.0.30
 readthisifbad-SnatchinBracken@1.5.1
 rectorado-FontUpdate@0.7.0
 Rminin-FinallyCorrectKeys@1.6.0
 Rune580-LethalCompany_InputUtils@0.7.10
+ScienceBird-Polished_Plushies_and_Silly_Scrap-1.0.4
+ScienceBird-ScienceBird_Tweaks-4.4.4
 ScienceBird-Universal_Radar@1.2.2
 Scintesto-Monster_Plushies@1.2.9
 Scintesto-Scavenger_Plushie@1.0.9
@@ -141,6 +146,7 @@ TestAccount666-AntiSlimeCamp@2.0.0
 ThePotato-scanForItemsFix@1.0.4
 TiltedTomb-The_Femmployee_Mod@1.1.6
 v0xx-TerraMesh@1.2.0
+Verity-TooManySuits-2.0.1
 VirusTLNR-MaskedInvisFix@0.0.2
 WhiteSpike-Custom_Item_Behaviour_Library@1.2.7
 WhiteSpike-Interactive_Terminal_API@1.2.0
