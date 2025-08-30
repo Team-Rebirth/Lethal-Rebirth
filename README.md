@@ -2,9 +2,10 @@
 
 Lethal Company is an efficient operation, but imperfections remain. Bugs, instability, and questionable balance are regrettable liabilities. This package aims to correct those faults, enhancing your tools, and expanding the catalog. All without compromising performance in any significant manner. Efficiency is mandatory. Profit is expected.
 
-- [README on GitHub](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/README.md)
+- [README on GitHub](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/README.md) (always latest version)
+- [Thunderstore Modpack](https://thunderstore.io/c/lethal-company/p/Rebirth/Lethal_Rebirth/)
 - [Company Code of Conduct](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/CODE_OF_CONDUCT.md)
-- [Contributing to the Company's Effort](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/CONTRIBUTING.md)
+- [Contributing to the Company's Effort](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/CONTRIBUTING.md) (WIP)
 - [Changelog](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/CHANGELOG.md)
 
 ## Operational Summary
@@ -17,7 +18,7 @@ The directive of Lethal Rebirth is simple: Preserve the integrity of standard Co
 
 - **Rebalanced Moons**: No new locations authorized. *Existing environments* have been adjusted for scrap yield, hostile presence, and navigation. Additional exits, traversal structures, and safety measures have been implemented where efficiency demanded.
 
-- **New Interiors**: Generic environments (including The Backrooms), Wesley’s extensions, the Lethal Office (inspired by [The Upturned](https://store.steampowered.com/app/1717770/The_Upturned/)), and the Slaughterhouse are accessible.
+- **New Interiors**: Generic environments (including The Backrooms), a Slaughter House, Wesley’s extensions, the Lethal Office (inspired by [The Upturned](https://store.steampowered.com/app/1717770/The_Upturned/)), and the Slaughterhouse are accessible.
 
 - **Better Immersion**: Cave variants, new fog, and prettier foliage have been discovered.
 
@@ -43,8 +44,8 @@ The directive of Lethal Rebirth is simple: Preserve the integrity of standard Co
 
 This package includes some major overhauls in your scavenging experience and thus the Company has compiled this list of guides to aid newcomers.
 
-- [Company Terminal Guide](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/docs/Terminal.md) (Placeholder, WIP)
-- [Company Equipment Guide](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/docs/Equipment.md) (Placeholder, WIP)
+- [Company Terminal Guide](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/docs/Terminal.md) (WIP)
+- [Company Equipment Guide](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/docs/Equipment.md) (WIP)
 - [LobbyControl Info (Thunderstore)](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/)
 
 ### Hotkeys
@@ -66,11 +67,14 @@ This package includes some major overhauls in your scavenging experience and thu
 - **General Desync**: Terminal purchases or similar functions may become unavailable to an operator.
   - **Directive**: Affected personnel must exit and rejoin the lobby.
 
+- **Messed up screen width**: LCUltrawide_Community most likely is responsible. Occurs more often on linux systems apparently.
+  - **Directive**: Disable the mod and restart. Wholly clientside, should not cause desync.
+
 ## Installation
 
 Two things are required:
 
-- [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/)
+- The game, [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/)
 - An approved mod management system ([Gale](https://kesomannen.com/gale) is recommended for efficiency)
 
 Acquisition is simple. [Download the package from Thunderstore](https://thunderstore.io/c/lethal-company/p/Rebirth/Lethal_Rebirth/) as you would any standard modification. Initiation will be immediate.
@@ -88,13 +92,23 @@ This package is made to work best *as is*, meaning the Company did not consider 
 - Additional Enemies
 - Additional Moons ([More info here](#moons))
 
-Thus, if you encounter errors while having installed a type of mod that is not **purely cosmetic**, please make sure that the error is not related to the added mod before reaching out to the Company support.
+If you encounter errors while having installed a type of mod that is not **purely cosmetic**, please make sure that the error is not related to the added mod before reaching out to the Company support.
 
 ### Known Incompatibilities
 
 - The [Female_Scavenger_Reskiner by TKronix](https://thunderstore.io/c/lethal-company/p/TKronix/Female_Scavenger_Reskiner/) is considered incompatible because of **severe issues** (game-breaking desync) in the past, probably caused by interaction with [The Femmployee Mod](https://thunderstore.io/c/lethal-company/p/TiltedTomb/The_Femmployee_Mod/) or the [ModelReplacementAPI](https://thunderstore.io/c/lethal-company/p/BunyaPineTree/ModelReplacementAPI/).
-- [Diversity by IntegrityChaos](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/) sadly is incompatible with some of the interiors added here and has generally been found to not work reliably enough in combination with the other mods to be recommended. Perhaps, if updated in the future, as planned by [IntegrityChaos](https://integritychaos.com/), it will be readded. **He is looking to have a maintainer for their mod.** Consider [joining their discord](https://discord.gg/W8YSVRdv2B) if you are interested.
-- [LethalCompanyVR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) is incompatible with [CruiserImproved](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/) currently and has been rather unstable with older pre-release versions of this modpack.
+- [Diversity by IntegrityChaos](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/) sadly is incompatible with some of the interiors added here and has generally been found to not work reliably enough in combination with the other mods to be recommended. Perhaps, if updated in the future, as planned by [IntegrityChaos](https://integritychaos.com/), it will be readded. **He is looking to have a maintainer for their mod.** Consider [joining his discord](https://discord.gg/W8YSVRdv2B) if you are interested.
+- [LethalCompanyVR by DaXcess](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) is incompatible with [CruiserImproved by DiggC](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/) currently and has been rather unstable with older pre-release versions of this modpack.
+- [HDLCPatch](https://thunderstore.io/c/lethal-company/p/MintyMods/HDLCPatch/) can work but has been shown to work unreliably and cause issues.
+
+### Recommended Mods
+
+If you want to extend your experience in certain ways, here are additional packages we have found that should both be compatible and might appeal to you!
+
+- [DisableHelmetVisor by DeathWrench](https://thunderstore.io/c/lethal-company/p/DeathWrench/DisableHelmetVisor/): Annoyed by the visor? Remove it.
+- [SafeSoloScrap by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/SafeSoloScrap/): Solo scavenging too hard? Retain past day's scrap.
+- [LethalThings by Evaisa](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/): Random but fun stuff like a rocket launcher, plushies, and a remote radar (which makes the already added remote mapper redundant...)
+- [EmergencyDiceUpdated by slayer6409](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/): Want to gamble for luck or absolute chaos? Your chance lays here.s
 
 ### Moons
 
@@ -112,6 +126,6 @@ Last acknowledgment is, of course, directed to all the mod creators and their wo
 
 ### Acknowledged Contributions
 
-**Configuration & modpack conceptualization done by [Shaydelity](https://github.com/Shaydelity), member of [Team Rebirth](https://github.com/Team-Rebirth).**
+**Most of the Configuration & modpack conceptualization done by [Shaydelity](https://github.com/Shaydelity), member of [Team Rebirth](https://github.com/Team-Rebirth).**
 
 **Technical execution of the modpack and its publishing, done by [Nando Lawson](https://github.com/nandolawson), member of [Team Rebirth](https://github.com/Team-Rebirth).**
