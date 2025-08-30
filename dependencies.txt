@@ -80,7 +80,6 @@ JacobG5-ReverbTriggerFix@0.3.0
 LethalCompanyModding-LCUltrawide_Community@1.2.2
 LethalCompanyModding-RuntimeIcons@0.3.2
 LethalCompanyModding-VertexLibrary@1.1.0
-linkoid-DissonanceLagFix@1.0.0
 loaforc-FacilityMeltdown@2.7.1
 Lordfirespeed-OdinSerializer@2024.2.2700
 Lugom-AstolfoPlushie@1.1.2
