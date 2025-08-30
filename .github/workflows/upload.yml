@@ -1,9 +1,12 @@
 name: Publish Modpack
 
-on: 
+on:
   push:
     tags:
       - '*'
+    branches:
+      - main
+      - experimental
 
 jobs:
   publish:
@@ -13,9 +16,12 @@ jobs:
         uses: actions/checkout@v4
       - name: Format repository name
         id: format_name
-        run: | # Hyphens are replaced with underscores.
+        run: |
           NAME="${{ github.event.repository.name }}"
-          echo "result=${NAME//-/_}" >> $GITHUB_OUTPUT
+          if [[ "${GITHUB_REF_NAME}" == "experimental" ]]; then # Add "_EXPERIMENTAL" to the modpack name if the package comes from the experimental branch
+            NAME="${NAME}_EXPERIMENTAL"
+          fi
+          echo "${NAME//-/_}" >> $GITHUB_OUTPUT # Hyphens are replaced with underscores (placeholder for spaces in the Thunderstore)
       - name: Read categories
         id: categories
         run: | # The file "categories.txt" is read as a list
@@ -31,11 +37,12 @@ jobs:
         uses: GreenTF/upload-thunderstore-package@v4.3
         with:
           categories: ${{ steps.categories.outputs.list }}
-          namespace: Rebirth
-          community: lethal-company
+          dev: false
+          namespace: ${{ vars.NAMESPACE }}
+          community: ${{ vars.GAME_NAME }}
           description: ${{ github.event.repository.description }}
           deps: ${{ steps.dependencies.outputs.list }}
           name: ${{ steps.format_name.outputs.result }}
-          repo: lethal-company.thunderstore.io
+          repo: ${{ vars.THUNDERSTORE_REPOSITORY }}
           token: ${{ secrets.THUNDERSTORE_TOKEN }}
           version: ${{ github.ref_name }}
