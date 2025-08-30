@@ -1,14 +1,12 @@
 # Mod & Feature List
 
-> ⚠️ WIP
+> ⚠️ WIP:
 > This list as of now is not finished yet.
-> Last mod added (alphabetically): SnowyWeeds
 > Expand on ButteRyBalance, ButteryFixes, GeneralImprovements, and CruiserImprovements, LGU
 
 Here is a list of every **gameplay-relevant mod** in this modpack, sorted into [feature mods](#major-features), [QoL/minor feature mods](#minor-features), and [patch mods](#patch-mods).
 All other dependencies, such as libraries or APIs, are not featured on this list as it serves to also show all the implemented features.
 
-> [!info]
 > The descriptions of the mods on this list describe the way they are used/configured for this modpack.
 > Many mods have self-explanatory names and thus have no descriptions.
 
@@ -31,14 +29,18 @@ All other dependencies, such as libraries or APIs, are not featured on this list
 - [RebalancedMoonsBeta by dopadream](https://thunderstore.io/c/lethal-company/p/dopadream/RebalancedMoonsBeta/): Reworks moon environments, adding new ways of traversal, navigation aiding structures, and similar.
 - [ReservedUtilitySlot by FlipMods](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedUtilitySlot/): Adds purchasable extra slots for all kinds of equipment.
 - [RuntimeIcons by LethalCompanyModding](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/RuntimeIcons/): Generate Icons for all (also modded) scrap at runtime, replacing the gear icon.
+- [ScienceBird_Tweaks by ScienceBird](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/): Better Shotgun tooltips, worthless scrap being retained (like beloved plushies to collect), minor ship clean-up & collision fixes, proper blackouts on Apparatus removal, and proper hazard deactivation signals.
 - [Slaughterhouse by Nikki](https://thunderstore.io/c/lethal-company/p/Nikki/Slaughterhouse/): Adds a gory, slaughterhouse from [DEVOUR](https://store.steampowered.com/app/1274570/DEVOUR/), which has special mechanics.
+- [WesleysInteriors by Magic_Wesley](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/): Adds the RubberRooms, the Toy Store, the Grand Amory, the Atlantean Citadel, the Factured Complex, the Greenhouse, and the Art Gallery.
 
 ## Minor Features
 
+- [1000_Quota_Stare by ManiaBania](https://thunderstore.io/c/lethal-company/p/ManiaBania/1000_Quota_Stare/): A Suit.
 - [AccurateStaminaDisplay by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/): Might desync with Lategame Upgrades regarding health.
 - [ArtificeBlizzard by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ArtificeBlizzard/): Adds a change for Artifice to be a snowy/blizzard moon as originally intended by [Zeekerss](https://bsky.app/profile/zeekerss.bsky.social).
 - [AstolfoPlushie by Lugom](https://thunderstore.io/c/lethal-company/p/Lugom/AstolfoPlushie/): It's cuddly.
-- [BetterShotgunTooltip by AtomicStudio](https://thunderstore.io/c/lethal-company/p/AtomicStudio/Better_Shotgun_Tooltip/)
+- [Atomics_Cosmetics by AtomicStudio](https://thunderstore.io/c/lethal-company/p/AtomicStudio/Atomics_Cosmetics/)
+- [Atomics_Suits by AtomicStudio](https://thunderstore.io/c/lethal-company/p/AtomicStudio/Atomics_Suits/)
 - [BetterSprayPaint by taffyko](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/): Also makes Spray Paint capacity infinite.
 - [ButteRyBalance by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/): Balance changes to all moons and many enemies. Reverts Zap Gun to v9 (122s use time, 200 credits). [See here for Details](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/).
 - [BuyableShotgunShells by MegaPiggy](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/)
@@ -57,6 +59,7 @@ All other dependencies, such as libraries or APIs, are not featured on this list
 - [JesterDoorSlam](https://thunderstore.io/c/lethal-company/p/Terraformer9x/JesterDoorSlam/): Doors fear the Jester.
 - [JesterStompShake](https://thunderstore.io/c/lethal-company/p/Piggy/JesterStompShake/): Now even more stressful!
 - [KidnapperFoxSettings by Zehs](https://thunderstore.io/c/lethal-company/p/Zehs/KidnapperFoxSettings/): Now only has 5 health, does not insta kill; Three-hit (45 dmg).
+- [LessLogs by facodxb](https://thunderstore.io/c/lethal-company/p/falcodxb/LessLogs/)
 - [Lethal_Missions by Nozz](https://thunderstore.io/c/lethal-company/p/Nozz/Lethal_Missions/): Adds missions to the game as [EmployeeAssignments by amnsoft](https://thunderstore.io/c/lethal-company/p/amnsoft/EmployeeAssignments/) is sadly deprecated.
 - [LethalSettings by willis81808](https://thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/): Allows you to change mod specific settings. Currently only used by [Mirage by qwbarch](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/).
 - [LobbyCompatibility by BMX](https://thunderstore.io/c/lethal-company/p/BMX/LobbyCompatibility/):Let's you know when a lobby is incompatible and why and also adds modded Leaderboards.
@@ -72,14 +75,29 @@ All other dependencies, such as libraries or APIs, are not featured on this list
 - [Monster_Plushies by Scintesto by Scintesto](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/): Collect the plushies.
 - [More_Suits by x753](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/): Enjoy extra suits.
 - [Moved_Magnet_Switch by AtomicStudio](https://thunderstore.io/c/lethal-company/p/AtomicStudio/Moved_Magnet_Switch/): Now at the back, next to the ship door.
+- [No_Console_Spam by 4902](https://thunderstore.io/c/lethal-company/p/4902/No_Console_Spam/)
+- [NoMoreCompanyLogo by DaXcess](https://thunderstore.io/c/lethal-company/p/DaXcess/NoMoreCompanyLogo/)
+- [PigeonsCosmeticsAddon by BigBadPigeon](https://thunderstore.io/c/lethal-company/p/BigBadPigeon/PigeonsCosmeticsAddon/)
+- [Polished_Plushies_and_Silly_Scrap by ScienceBird](https://thunderstore.io/c/lethal-company/p/ScienceBird/Polished_Plushies_and_Silly_Scrap/): Miku, Teto, Frieren and more!
 - [RestoreMapper by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/RestoreMapper/): Adds the unused Mapper item (manually updated remote terminal radar).
 - [RevisitStingers by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/RevisitStingers/): Allow an interior's unique stinger music track to replay under certain circumstances.
 - [Scavenger_Plushie by Scintesto](https://thunderstore.io/c/lethal-company/p/Scintesto/Scavenger_Plushie/)
+- [SCP_Foundation_Suit](https://thunderstore.io/c/lethal-company/p/TeamClark/SCP_Foundation_Suit/)
 - [SlaughterhouseScraps by Nikki](https://thunderstore.io/c/lethal-company/p/Nikki/SlaughterhouseScraps/): Adds scraps fitting the [Slaughterhouse interior](https://thunderstore.io/c/lethal-company/p/Nikki/Slaughterhouse/).
 - [SnatchinBracken by readthisifbad](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/): Gives the Bracken a chance to drag you along in a panic without snapping your neck first, allowing for a rescue by your teammates.
 - [SnowyHolidayDropship by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/SnowyHolidayDropship/): Brings back the holiday dropship with a high chance on snowy moons, a very small chance elsewhere, and also adds a small chance for the old music from an early teaser video.
 - [SnowyWeeds by dopadream](https://thunderstore.io/c/lethal-company/p/dopadream/SnowyWeeds/): Snowy vain shrouds on snowy moons.
 - [SpectateEnemies by AllToasters](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/)
+- [Symbiosis by NiceHairs](https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/): Allows Hoarding Bugs to occasionally use items.
+- [TerminalFormatter by mrov](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/): Reworks the terminal's pages visually and makes moons page display weather.
+- [The_Femmployee_Mod](https://thunderstore.io/c/lethal-company/p/TiltedTomb/The_Femmployee_Mod/): Adds a customizable androgenous-feminine suit with multiple body parts, proportion sliders, and similar.
+- [TooManySuits by Verity](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/): Adds pages to the suit racket.
+- [UpturnedVariety by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/UpturnedVariety/): Adds item skins based on the [The Upturned](https://store.steampowered.com/app/1717770/The_Upturned/).
+- [WeatherRegistry by mrov](https://thunderstore.io/c/lethal-company/p/mrov/WeatherRegistry/): Used to alter weather distribution and progression.
+- [WeedKillerAdjuster by OniroDev](https://thunderstore.io/c/lethal-company/p/OniroDev/WeedKillerAdjuster/): Vain Shroud kill rate times 15.
+- [WeedKillerTweaks by Furiante](https://thunderstore.io/c/lethal-company/p/Furiante/WeedKillerTweaks/): Multiplies capacity by 10 and reduces price to 30 credits.
+- [Wheelbarrow by WhiteSpike](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Wheelbarrow/): Adds a wheelbarrow to carry items around with, reducing their weight. Can be bought in the store.
+- [YesFox by Dev1A3](https://thunderstore.io/c/lethal-company/p/Dev1A3/YesFox/): Re-enables vain shroud spawning and the kidnapper fox.
 
 ## Patch Mods
 
@@ -88,6 +106,7 @@ All other dependencies, such as libraries or APIs, are not featured on this list
 - [BagConfig by mattymatty](https://thunderstore.io/c/lethal-company/p/mattymatty/BagConfig/): Also fixes a meriad of bugs.
 - [BarberFixes by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/BarberFixes/): Enables intended spawn behavior.
 - [BarberMaterialTweaks by dopadream](https://thunderstore.io/c/lethal-company/p/dopadream/BarberMaterialTweaks/): Makes their material/texture display as intended.
+- [Boombox_Sync_Fix by FutureSavior](https://thunderstore.io/c/lethal-company/p/FutureSavior/Boombox_Sync_Fix/)
 - [ButteryFixes by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/): Several basic fixes & patches.
 - [EnemySoundFixes by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/): Makes sure you always get to hear them.
 - [MaskFixes by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/)
@@ -105,5 +124,11 @@ All other dependencies, such as libraries or APIs, are not featured on this list
 - [Matty_Fixes by mattymatty](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/): Meriad of bug fixes.
 - [MeleeFixes by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MeleeFixes/): Fixes several gamebreaking bugs with shovels and knives.
 - [NoJumpDelay by DaXcess](https://thunderstore.io/c/lethal-company/p/DaXcess/NoJumpDelay/)
+- [scanForItemsFix by ThePotato](https://thunderstore.io/c/lethal-company/p/ThePotato/scanForItemsFix)
 - [SpiederPositionFix](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/)
 - [SpikeTrapFixes by SpookyBuddy](https://thunderstore.io/c/lethal-company/p/SpookyBuddy/SpikeTrapFixes/): Decreases interval and removes detection spike traps. Adds a scan node.
+- [SlimeTamingFix by EliteMasterEric](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/SlimeTamingFix/): Slimes can now be tamed per Boombox.
+- [TerminalConflictFix by SylviBlossom](https://thunderstore.io/c/lethal-company/p/SylviBlossom/TerminalConflictFix/): Better shortcuts accessing for the terminal. More in our [Terminal Guide](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/docs/Terminal.md) (WIP).
+- [VentSpawnFix](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/VentSpawnFix/): Allows indoor enemies to spawn in groups of 2 and more (used for the Barber).
+- [WalkieRevamped by swny](https://thunderstore.io/c/lethal-company/p/swny/WalkieRevamped/): Changes the Walkie-Talkie Sound effects.
+- [WeedKillerFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/WeedKillerFixes/): Fixes several gamebreaking issues with weed killer.

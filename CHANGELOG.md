@@ -29,6 +29,6 @@ Delayed arrival due to minor technical difficulties.
 - Proper ReadMe & Documentation on the mods included and specific configurations on our [GitHub Repository](https://github.com/Team-Rebirth/Lethal-Rebirth/tree/main)!
 - We now have a changelog.
 
-## 1.0.0 - Release (2025-08-25)
+## 1.0.0 - Initial Release (2025-08-25)
 
 The initial upload of the modpack. We hope to provide you with the best Lethal Company experience thus far! Let us know if you have feedback per Issue or other in the [README](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/README.md) outlined way in the future :3
