@@ -19,8 +19,9 @@ jobs:
       - name: Read categories
         id: categories
         run: | # The file "categories.txt" is read as a list
+          CATEGORIES=$(cat categories.txt)
           echo "list<<EOF" >> $GITHUB_OUTPUT
-          cat categories.txt >> $GITHUB_OUTPUT
+          echo "$CATEGORIES" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
       - name: Read dependencies
         id: dependencies
