@@ -22,6 +22,14 @@ jobs:
             NAME="${NAME}_EXPERIMENTAL"
           fi
           echo "${NAME//-/_}" >> $GITHUB_OUTPUT # Hyphens are replaced with underscores (placeholder for spaces in the Thunderstore)
+      - name: Set dev flag
+        id: dev_flag
+        run: | # Check if it is a release or experimental
+          if [ "${GITHUB_REF_NAME}" = "experimental" ]; then
+            echo "boolean=true" >> $GITHUB_OUTPUT # experimental branch
+          else
+            echo "boolean=false" >> $GITHUB_OUTPUT # main branch
+          fi
       - name: Read categories
         id: categories
         run: | # The file "categories.txt" is read as a list
@@ -36,13 +44,13 @@ jobs:
       - name: Upload to Thunderstore
         uses: GreenTF/upload-thunderstore-package@v4.3
         with:
-          categories: ${{ steps.categories.outputs.list }}
-          dev: false
-          namespace: ${{ vars.NAMESPACE }}
-          community: ${{ vars.GAME_NAME }}
-          description: ${{ github.event.repository.description }}
-          deps: ${{ steps.dependencies.outputs.list }}
-          name: ${{ steps.format_name.outputs.result }}
-          repo: ${{ vars.THUNDERSTORE_REPOSITORY }}
-          token: ${{ secrets.THUNDERSTORE_TOKEN }}
-          version: ${{ github.ref_name }}
+          categories: ${{ steps.categories.outputs.list }} # Obtained from "categories.txt"
+          dev: ${{ steps.dev_flag.outputs.boolean }} # For the main branch, this is set to false, while for the experimental branch, it is set to true.
+          namespace: ${{ vars.NAMESPACE }} # Obtained from repository variable
+          community: ${{ vars.GAME_NAME }} # Obtained from repository variable
+          description: ${{ github.event.repository.description }} # Obtained from the repository description
+          deps: ${{ steps.dependencies.outputs.list }} # Optained from "dependencies.txt"
+          name: ${{ steps.format_name.outputs.result }} # Derived from the repository name
+          repo: ${{ vars.THUNDERSTORE_REPOSITORY }} # Obtained from repository variable
+          token: ${{ secrets.THUNDERSTORE_TOKEN }} # Obtained from repository secret
+          version: ${{ github.ref_name }} # Obtained from tag
