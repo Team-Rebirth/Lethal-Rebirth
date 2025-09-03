@@ -1,7 +1,7 @@
 name: Publish Modpack
 
 on:
-  push:
+  create:
     tags:
       - '*'
     branches:
@@ -21,7 +21,8 @@ jobs:
           if [[ "${GITHUB_REF_NAME}" == "experimental" ]]; then # Add "_EXPERIMENTAL" to the modpack name if the package comes from the experimental branch
             NAME="${NAME}_EXPERIMENTAL"
           fi
-          echo "${NAME//-/_}" >> $GITHUB_OUTPUT # Hyphens are replaced with underscores (placeholder for spaces in the Thunderstore)
+          NAME="${NAME//-/_}" # Hyphens are replaced with underscores (placeholder for spaces in the Thunderstore)
+          echo "result=$NAME" >> $GITHUB_OUTPUT
       - name: Set dev flag
         id: dev_flag
         run: | # Check if it is a release or experimental
