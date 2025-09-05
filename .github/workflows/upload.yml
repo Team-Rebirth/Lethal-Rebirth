@@ -35,7 +35,7 @@ jobs:
         id: format_name
         run: |
           NAME="${{ github.event.repository.name }}"
-          if [[ "${GITHUB_REF_NAME}" == "experimental" ]]; then # Add "_EXPERIMENTAL" to the modpack name if the package comes from the experimental branch
+          if [[ "$(git branch --contains $GITHUB_SHA | grep -v 'HEAD' | tr -d ' *')" == "experimental" ]]; then # Add "_EXPERIMENTAL" to the modpack name if the package comes from the experimental branch
             NAME="${NAME}_EXPERIMENTAL"
           fi
           NAME="${NAME//-/_}" # Hyphens are replaced with underscores (placeholder for spaces in the Thunderstore)
