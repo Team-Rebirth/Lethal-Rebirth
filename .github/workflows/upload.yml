@@ -16,7 +16,6 @@ jobs:
       categories: ${{ steps.categories.outputs.list }}
       continue: ${{ steps.check_tag.outputs.continue }}
       dependencies: ${{ steps.dependencies.outputs.list }}
-      dev_flag: ${{ steps.dev_flag.outputs.boolean }}
       formatted_name: ${{ steps.format_name.outputs.result }}
     steps:
       - name: Checkout repository
@@ -35,19 +34,11 @@ jobs:
         id: format_name
         run: |
           NAME="${{ github.event.repository.name }}"
-          if [[ "$(git branch --contains $GITHUB_SHA | grep -v 'HEAD' | tr -d ' *')" == "experimental" ]]; then # Add "_EXPERIMENTAL" to the modpack name if the package comes from the experimental branch
+          if [[ "${GITHUB_REF_NAME}" == "experimental" ]]; then # Add "_EXPERIMENTAL" to the modpack name if the package comes from the experimental branch
             NAME="${NAME}_EXPERIMENTAL"
           fi
           NAME="${NAME//-/_}" # Hyphens are replaced with underscores (placeholder for spaces in the Thunderstore)
           echo "result=$NAME" >> $GITHUB_OUTPUT
-      - name: Set dev flag
-        id: dev_flag
-        run: | # Check if it is a release or experimental
-          if [ "${GITHUB_REF_NAME}" = "experimental" ]; then
-            echo "boolean=true" >> $GITHUB_OUTPUT # experimental branch
-          else
-            echo "boolean=false" >> $GITHUB_OUTPUT # main branch
-          fi
       - name: Read categories
         run: | # The file "categories.txt" is read as a list
           CATEGORIES=$(cat categories.txt)
@@ -74,9 +65,8 @@ jobs:
           community: ${{ vars.GAME_NAME }} # Obtained from repository variable
           deps: ${{ needs.preparation.outputs.dependencies }} # Optained from "dependencies.txt"
           description: ${{ github.event.repository.description }} # Obtained from the repository description
-          dev: ${{ needs.preparation.outputs.dev_flag }} # For the main branch, this is set to false, while for the experimental branch, it is set to true.
           name: ${{ needs.preparation.outputs.formatted_name }} # Derived from the repository name
-          namespace: Rebirth
+          namespace: ${{ vars.NAMESPACE }} # Obtained from repository variable
           repo: ${{ vars.THUNDERSTORE_REPOSITORY }} # Obtained from repository variable
           token: ${{ secrets.THUNDERSTORE_TOKEN }} # Obtained from repository secret
           version: ${{ github.ref_name }} # Obtained from tag
