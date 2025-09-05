@@ -25,7 +25,7 @@ ButteryStancakes-JetpackFixes@1.5.4
 ButteryStancakes-MaskFixes@1.5.1
 ButteryStancakes-MeleeFixes@1.4.1
 ButteryStancakes-RadioBabyFace@1.0.1
-ButteryStancakes-RestoreMapper@1.3.0
+ButteryStancakes-RestoreMapper@1.3.1
 ButteryStancakes-RevisitStingers@1.3.0
 ButteryStancakes-SnowyHolidayDropship@1.1.4
 ButteryStancakes-UpturnedVariety@2.1.0
@@ -103,7 +103,7 @@ MrHydralisk-MajorityVote@1.1.1
 mrov-AutoScroll@0.0.1
 mrov-MrovLib@0.3.6
 mrov-TerminalFormatter@0.2.30
-mrov-WeatherRegistry@0.7.3
+mrov-WeatherRegistry@0.7.4
 NiceHairs-NuclearLibrary@1.0.7
 NiceHairs-Symbiosis@1.0.8
 Nikki-Slaughterhouse@1.1.2
