@@ -76,7 +76,7 @@ jobs:
           description: ${{ github.event.repository.description }} # Obtained from the repository description
           dev: ${{ needs.preparation.outputs.dev_flag }} # For the main branch, this is set to false, while for the experimental branch, it is set to true.
           name: ${{ needs.preparation.outputs.formatted_name }} # Derived from the repository name
-          namespace: ${{ vars.NAMESPACE }} # Obtained from repository variable
+          namespace: Rebirth
           repo: ${{ vars.THUNDERSTORE_REPOSITORY }} # Obtained from repository variable
           token: ${{ secrets.THUNDERSTORE_TOKEN }} # Obtained from repository secret
           version: ${{ github.ref_name }} # Obtained from tag
