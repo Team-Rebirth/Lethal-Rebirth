@@ -6,11 +6,16 @@ on:
       - '*'
     branches:
       - main
-      - experimental
 
 jobs:
-  publish:
+  preparation:
+    name: Preparation
     runs-on: ubuntu-latest
+    outputs:
+      categories: ${{ steps.categories.outputs.list }}
+      continue: ${{ steps.check_tag.outputs.continue }}
+      dependencies: ${{ steps.dependencies.outputs.list }}
+      formatted_name: ${{ steps.format_name.outputs.result }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -18,20 +23,9 @@ jobs:
         id: format_name
         run: |
           NAME="${{ github.event.repository.name }}"
-          if [[ "${GITHUB_REF_NAME}" == "experimental" ]]; then # Add "_EXPERIMENTAL" to the modpack name if the package comes from the experimental branch
-            NAME="${NAME}_EXPERIMENTAL"
-          fi
-          echo "${NAME//-/_}" >> $GITHUB_OUTPUT # Hyphens are replaced with underscores (placeholder for spaces in the Thunderstore)
-      - name: Set dev flag
-        id: dev_flag
-        run: | # Check if it is a release or experimental
-          if [ "${GITHUB_REF_NAME}" = "experimental" ]; then
-            echo "boolean=true" >> $GITHUB_OUTPUT # experimental branch
-          else
-            echo "boolean=false" >> $GITHUB_OUTPUT # main branch
-          fi
+          NAME=
+          echo "result=${NAME//-/_}" >> $GITHUB_OUTPUT # Hyphens are replaced with underscores (placeholder for spaces in the Thunderstore)
       - name: Read categories
-        id: categories
         run: | # The file "categories.txt" is read as a list
           CATEGORIES=$(cat categories.txt)
           echo "list<<EOF" >> $GITHUB_OUTPUT
@@ -41,16 +35,24 @@ jobs:
         id: dependencies
         run: | # The file "dependencies.txt" is read as a list
           echo "list=$(tr '\n' ' ' < dependencies.txt)" >> $GITHUB_OUTPUT
+
+  publish:
+    name: Publish to Thunderstore
+    needs: preparation
+    if: needs.preparation.outputs.continue == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
       - name: Upload to Thunderstore
         uses: GreenTF/upload-thunderstore-package@v4.3
         with:
-          categories: ${{ steps.categories.outputs.list }} # Obtained from "categories.txt"
-          dev: ${{ steps.dev_flag.outputs.boolean }} # For the main branch, this is set to false, while for the experimental branch, it is set to true.
-          namespace: ${{ vars.NAMESPACE }} # Obtained from repository variable
+          categories: ${{ needs.preparation.outputs.categories }} # Obtained from "categories.txt"
           community: ${{ vars.GAME_NAME }} # Obtained from repository variable
+          deps: ${{ needs.preparation.outputs.dependencies }} # Optained from "dependencies.txt"
           description: ${{ github.event.repository.description }} # Obtained from the repository description
-          deps: ${{ steps.dependencies.outputs.list }} # Optained from "dependencies.txt"
-          name: ${{ steps.format_name.outputs.result }} # Derived from the repository name
+          name: ${{ needs.preparation.outputs.formatted_name }} # Derived from the repository name
+          namespace: ${{ vars.NAMESPACE }} # Obtained from repository variable
           repo: ${{ vars.THUNDERSTORE_REPOSITORY }} # Obtained from repository variable
           token: ${{ secrets.THUNDERSTORE_TOKEN }} # Obtained from repository secret
           version: ${{ github.ref_name }} # Obtained from tag
