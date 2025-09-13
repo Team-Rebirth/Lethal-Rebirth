@@ -1,3 +1,5 @@
 # Contributing
 
-WIP, check back at a later time.
+> v2.0.0
+
+- - -

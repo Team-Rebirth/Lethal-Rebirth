@@ -1,5 +1,7 @@
 # Lethal Rebirth
 
+> v2.0.0
+
 Lethal Company is an efficient operation, but imperfections remain. Bugs, instability, and questionable balance are regrettable liabilities. This package aims to correct those faults, enhancing your tools, and expanding the catalog. All without compromising performance in any significant manner. Efficiency is mandatory. Profit is expected.
 
 - [README on GitHub](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/README.md) (always latest version)
@@ -105,10 +107,21 @@ If you encounter errors while having installed a type of mod that is not **purel
 
 If you want to extend your experience in certain ways, here are additional packages we have found that should both be compatible and might appeal to you!
 
+#### Accessibility Mods
+
+- [Subtitles by JustJelly](https://thunderstore.io/c/lethal-company/p/JustJelly/Subtitles/)
+
+#### QoL Mods
+
+- [CrossHair by CTNOriginals](https://thunderstore.io/c/lethal-company/p/CTNOriginals/CrossHair/): Wanna see exactly what you target?
 - [DisableHelmetVisor by DeathWrench](https://thunderstore.io/c/lethal-company/p/DeathWrench/DisableHelmetVisor/): Annoyed by the visor? Remove it.
 - [SafeSoloScrap by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/SafeSoloScrap/): Solo scavenging too hard? Retain past day's scrap.
+
+#### Fun Mods
+
 - [LethalThings by Evaisa](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/): Random but fun stuff like a rocket launcher, plushies, and a remote radar (which makes the already added remote mapper redundant...)
 - [EmergencyDiceUpdated by slayer6409](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/): Want to gamble for luck or absolute chaos? Your chance lays here.s
+- [BetterEmotes by KlutzyBubbles](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
 
 ### Moons
 

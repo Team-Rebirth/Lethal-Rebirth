@@ -1,8 +1,6 @@
 # Mod & Feature List
 
-> ⚠️ WIP:
-> This list as of now is not finished yet.
-> Expand on ButteRyBalance, ButteryFixes, GeneralImprovements, and CruiserImprovements, LGU
+> v2.0.0
 
 Here is a list of every **gameplay-relevant mod** in this modpack, sorted into [feature mods](#major-features), [QoL/minor feature mods](#minor-features), and [patch mods](#patch-mods).
 All other dependencies, such as libraries or APIs, are not featured on this list as it serves to also show all the implemented features.
@@ -29,7 +27,7 @@ All other dependencies, such as libraries or APIs, are not featured on this list
 - [RebalancedMoonsBeta by dopadream](https://thunderstore.io/c/lethal-company/p/dopadream/RebalancedMoonsBeta/): Reworks moon environments, adding new ways of traversal, navigation aiding structures, and similar.
 - [ReservedUtilitySlot by FlipMods](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedUtilitySlot/): Adds purchasable extra slots for all kinds of equipment.
 - [RuntimeIcons by LethalCompanyModding](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/RuntimeIcons/): Generate Icons for all (also modded) scrap at runtime, replacing the gear icon.
-- [ScienceBird_Tweaks by ScienceBird](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/): Better Shotgun tooltips, worthless scrap being retained (like beloved plushies to collect), minor ship clean-up & collision fixes, proper blackouts on Apparatus removal, and proper hazard deactivation signals.
+- [ScienceBird_Tweaks by ScienceBird](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/): Adds Better Shotgun tooltips, specific scrap or scrap with a value of 0c being retained (like beloved plushies to collect), minor ship clean-up (removing tubes & wires, helmet, stray batteries) & collision fixes regarding teleporter placement, proper blackouts on Apparatus removal, and proper hazard deactivation signals.
 - [Slaughterhouse by Nikki](https://thunderstore.io/c/lethal-company/p/Nikki/Slaughterhouse/): Adds a gory, slaughterhouse from [DEVOUR](https://store.steampowered.com/app/1274570/DEVOUR/), which has special mechanics.
 - [WesleysInteriors by Magic_Wesley](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/): Adds the RubberRooms, the Toy Store, the Grand Amory, the Atlantean Citadel, the Factured Complex, the Greenhouse, and the Art Gallery.
 
@@ -75,6 +73,7 @@ All other dependencies, such as libraries or APIs, are not featured on this list
 - [Monster_Plushies by Scintesto by Scintesto](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/): Collect the plushies.
 - [More_Suits by x753](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/): Enjoy extra suits.
 - [Moved_Magnet_Switch by AtomicStudio](https://thunderstore.io/c/lethal-company/p/AtomicStudio/Moved_Magnet_Switch/): Now at the back, next to the ship door.
+- [NiceChat by taffyko](https://thunderstore.io/c/lethal-company/p/taffyko/NiceChat/): Makes the chat scrollable and less disruptive when unused.
 - [No_Console_Spam by 4902](https://thunderstore.io/c/lethal-company/p/4902/No_Console_Spam/)
 - [NoMoreCompanyLogo by DaXcess](https://thunderstore.io/c/lethal-company/p/DaXcess/NoMoreCompanyLogo/)
 - [PigeonsCosmeticsAddon by BigBadPigeon](https://thunderstore.io/c/lethal-company/p/BigBadPigeon/PigeonsCosmeticsAddon/)

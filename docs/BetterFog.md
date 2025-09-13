@@ -1,5 +1,7 @@
 # BetterFog Configuration Guide
 
+> v2.0.0
+
 We completely reworked the better fog configuration file as we found that, in its common configuration, it was generally too lenient in comparison to vanilla, especially on the snowy moons. Additionally, we wanted to use the fog coloration to make the environments more atmospheric and immersive.
 
 ## Our Approach
