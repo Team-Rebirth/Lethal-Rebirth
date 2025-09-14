@@ -16,6 +16,8 @@ WeatherTweaks also adds some kind of difficulty multiplier, which we do not yet 
 
 ## Weather Weights
 
+### Weather Types
+
 - 1000 for all Weathers in Total
 
 - 375 for Neutral Weathers | 37.5% chance for neutral weather conditions to occur on any moon.
@@ -92,5 +94,63 @@ Aside from that, only eclipsed weather conditions have weather-to-weather weight
 - Vow & Adamance will have a slight any rainy chance and cloudy chance increase, replacing dustclouds.
 - Offense & Assurance will have a lower any rainy chance.
 - Reduce Cloudy substitution for Rend, Dine, Titan, and Artifice in exchange for a slight increase in any stormy/flooded/blackout.
+
+## Weather Multipliers
+
+- `Q` = Quantity
+- `V` = Value
+
+### Weather Type Multiplier Ranges
+
+- 0.8-1.2 for Neutral Weathers
+
+- 0.7-1.5 for Transitional Weathers
+
+- 0.8-2.5 for Bad Weather
+
+- 1-3 for Combined Weathers
+
+### Neutral Weather Multipliers
+
+- None: 1⨉Q, 1⨉V
+- Cloudy: 1.6⨉Q, 0.8⨉V
+- DustClouds: 1⨉Q, 1⨉V
+
+### Bad Weather Multipliers
+
+- Foggy: 1.1⨉Q, 1.1⨉V
+- Rainy: 1.1⨉Q, 1.1⨉V
+- Flooded: 1.2⨉Q, 1.15⨉V
+- Stormy: 1.27⨉Q, 1.15⨉V
+- Eclipsed: 1.35⨉Q, 1.15⨉V
+- Blackout: 0.7⨉Q, 1.5⨉V
+
+### Transitional Weather Multipliers
+
+- None > Stormy: 1.15⨉Q, 1.27⨉V
+- Stormy > Rainy: 1.1⨉Q, 1.1⨉V
+- None > Blackout: 1⨉Q, 1⨉V
+- ~~None > Foggy: 1.1⨉Q, 1.1⨉V~~
+- ~~Foggy > None: 1⨉Q, 1⨉V~~
+- ~~Eclipsed > Foggy: 1.1⨉Q, 1.1⨉V~~
+- ~~Eclipsed > None: 1⨉Q, 1⨉V~~
+- ~~Rainy > Eclipsed: 1.15⨉Q, 1.35⨉V~~
+
+### Combined Weather Multiplayers
+
+- Foggy + Rainy: 1.65⨉Q, 1.65⨉V
+- Foggy + Flooded: 1.6875⨉Q, 1.725⨉V
+- Foggy + Blackout: 1.575⨉Q, 1.575⨉V
+- Rainy + Flooded: 1.6875⨉Q, 1.725⨉V
+- Rainy + Blackout: 1.575⨉Q, 1.575⨉V
+- Stormy + Rainy: 1.6875⨉Q, 1.7775⨉V
+- Stormy + Flooded: 1.725⨉Q, 1.8525⨉V
+- Stormy + Rainy + Eclipsed: 2.55⨉Q, 2.79⨉V
+- Stormy + Rainy + Flooded: 2.55⨉Q, 2.6775⨉V
+- Stormy + Rainy + Flooded + Eclipsed: 3.4125⨉Q, 3.69⨉V
+- Eclipsed + Rainy: 1.6875⨉Q, 1.8375⨉V
+- Eclipsed + Flooded: 1.725⨉Q, 1.9125⨉V
+- Eclipsed + Blackout: 1.6125⨉Q, 1.7625⨉V
+- ~~Foggy + Eclipsed: 1.6875⨉Q, 1.8375⨉V~~
 
 - - -

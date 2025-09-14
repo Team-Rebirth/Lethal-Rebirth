@@ -51,11 +51,11 @@ All other dependencies, such as libraries or APIs, are not featured on this list
 - [FinallyCorrectKeys by Rminin](https://thunderstore.io/c/lethal-company/p/Rminin/FinallyCorrectKeys/): Displayed keybinds more often match actual keybinds.
 - [Generic_Scraps by Generic_GMD](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Scraps/): Adds Bronze, Copper, and Silver Bars among lots of other vanilla-style scrap.
 - [HalloweenAction by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/HalloweenAction/): Adds the halloween action sound back for eclipsed weathers with a small chance to replace the common action sound anytime.
-- [HalloweenElevator](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/HalloweenElevator/): Replaces the elevator tunes with the halloween elevator tunes for eclipsed weather and spooky fog events.
-- [HostFixes](https://thunderstore.io/c/lethal-company/p/CharlesE2/HostFixes/): No damage on ship, **anti-cheat**.
-- [ImmersiveScrap](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ImmersiveScrap/): Adds a lot of vanilla-style scrap, some being weapons and some being much heavier but also much more valuable.
-- [JesterDoorSlam](https://thunderstore.io/c/lethal-company/p/Terraformer9x/JesterDoorSlam/): Doors fear the Jester.
-- [JesterStompShake](https://thunderstore.io/c/lethal-company/p/Piggy/JesterStompShake/): Now even more stressful!
+- [HalloweenElevator by ButterStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/HalloweenElevator/): Replaces the elevator tunes with the halloween elevator tunes for eclipsed weather and spooky fog events.
+- [HostFixes by CharlesE2](https://thunderstore.io/c/lethal-company/p/CharlesE2/HostFixes/): No damage on ship, **anti-cheat**.
+- [ImmersiveScrap by XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ImmersiveScrap/): Adds a lot of vanilla-style scrap, some being weapons and some being much heavier but also much more valuable.
+- [JesterDoorSlam by Terraformer9x](https://thunderstore.io/c/lethal-company/p/Terraformer9x/JesterDoorSlam/): Doors fear the Jester.
+- [JesterStompShake by Piggy](https://thunderstore.io/c/lethal-company/p/Piggy/JesterStompShake/): Now even more stressful!
 - [KidnapperFoxSettings by Zehs](https://thunderstore.io/c/lethal-company/p/Zehs/KidnapperFoxSettings/): Now only has 5 health, does not insta kill; Three-hit (45 dmg).
 - [LessLogs by facodxb](https://thunderstore.io/c/lethal-company/p/falcodxb/LessLogs/)
 - [Lethal_Missions by Nozz](https://thunderstore.io/c/lethal-company/p/Nozz/Lethal_Missions/): Adds missions to the game as [EmployeeAssignments by amnsoft](https://thunderstore.io/c/lethal-company/p/amnsoft/EmployeeAssignments/) is sadly deprecated.
@@ -108,6 +108,7 @@ All other dependencies, such as libraries or APIs, are not featured on this list
 - [Boombox_Sync_Fix by FutureSavior](https://thunderstore.io/c/lethal-company/p/FutureSavior/Boombox_Sync_Fix/)
 - [ButteryFixes by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/): Several basic fixes & patches.
 - [EnemySoundFixes by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/): Makes sure you always get to hear them.
+- [FontUpdate by rectorado](https://thunderstore.io/c/lethal-company/p/rectorado/FontUpdate/)
 - [MaskFixes by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/)
 - [Hold_Scan_Button by FutureSavior](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/)
 - [JetpackFixes by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/JetpackFixes/): No passive battery drain, tulip snakes do not make you drop, being dragged by the ship, sounds, and velocity. Only explodes now if you fly too high and too fast.

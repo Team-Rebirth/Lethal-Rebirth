@@ -28,3 +28,5 @@ It also has to be acknowledged that on the snowy moons, like Rend & Dine, there 
 - Eclipsed: Used for eclipsed weather on all **non-blizzard moons.**
 - Eclipsed Blizzard: Used for eclipsed weather on all **blizzard moons.**
 - Eclipsed Artifice: Thanks to being able to both be a non-blizzard or blizzard planet, thanks to [ArtificeBlizzard](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ArtificeBlizzard/), it required special attention for eclipsed weather as well.
+
+- - -

@@ -61,16 +61,16 @@ This package includes some major overhauls in your scavenging experience and thu
 
 ### Known Issues
 
-- **Please restart the game for CustomSounds to work properly!**: Has been ignored thus far whenever it occured without noticed consequence.
+- **Game Crash when hosting after having been a client**: Restart the game whenever you have been a client and want to host a lobby afterwards.
 
-- **Betterfog Preset Desync**: Incorrect fog parameters may apply.
-  - **Directive**: Press F1, disable autosync, then revert to vanilla mode or manually select the correct preset. To understand which preset is used when, check out the [BetterFog Configuration Guide](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/docs/BetterFog.md)
+- **Betterfog Preset Desync**: Betterfog might use the incorrect preset, which can be noticed by unfittig color or higher fog density than your peers.
+  - **How to deal with it**: Press F1, disable autosync, then revert to vanilla mode or manually select the correct preset. To understand which preset is used when, check out the [BetterFog Configuration Guide](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/docs/BetterFog.md).
 
 - **General Desync**: Terminal purchases or similar functions may become unavailable to an operator.
-  - **Directive**: Affected personnel must exit and rejoin the lobby.
+  - **How to deal with it**: Affected personnel must exit and rejoin the lobby.
 
 - **Messed up screen width**: LCUltrawide_Community most likely is responsible. Occurs more often on linux systems apparently.
-  - **Directive**: Disable the mod and restart. Wholly clientside, should not cause desync.
+  - **How to deal with it**: Disable the mod and restart. As the mod is wholly clientside, it should be save to disable.
 
 ## Installation
 
