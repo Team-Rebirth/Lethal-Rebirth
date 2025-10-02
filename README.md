@@ -55,9 +55,11 @@ This package includes some major overhauls in your scavenging experience and thu
 > ⚠️ This list is not finished yet
 
 - F: Flashlight control
+- M: Toggle Mute
 - Left Alt: Switch to utility slots
 - F1: Betterfog configuration menu
 - O: Femmployee Customization - ⚠️ Recommended to be changed to a non-letter/-number key due to potential terminal interference.
+- CTRL + SHIFT + ALT + Q: Quit to Menu, no matter what.
 
 ### Known Issues
 
