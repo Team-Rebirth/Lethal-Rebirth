@@ -13,7 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       categories: ${{ steps.categories.outputs.list }}
-      continue: ${{ steps.check_tag.outputs.continue }}
       dependencies: ${{ steps.dependencies.outputs.list }}
       formatted_name: ${{ steps.format_name.outputs.result }}
     steps:
@@ -35,11 +34,16 @@ jobs:
         id: dependencies
         run: | # The file "dependencies.txt" is read as a list
           echo "list=$(tr '\n' ' ' < dependencies.txt)" >> $GITHUB_OUTPUT
+      - name: Update version string
+        run: |
+          sed -i "s/vUNSET/v${{ github.ref_name }}/g" config/Darkbrewery.Emblem.cfg
+      - name: Disable console
+        run: |
+          sed -i '/^\[Logging\.Console\]/,/^\[/ { /^\s*Enabled = true\s*$/ s/Enabled = true/Enabled = false/ }' config/BepInEx.cfg
 
   publish:
     name: Publish to Thunderstore
     needs: preparation
-    if: needs.preparation.outputs.continue == 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
