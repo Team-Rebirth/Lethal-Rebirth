@@ -150,7 +150,7 @@ readthisifbad-SnatchinBracken@1.5.1
 rectorado-FontUpdate@0.8.1
 Rminin-FinallyCorrectKeys@1.6.0
 Rune580-LethalCompany_InputUtils@0.7.10
-s1ckboy-LethalHUD@1.2.9
+s1ckboy-LethalHUD@1.3.0
 ScienceBird-Polished_Plushies_and_Silly_Scrap@1.0.4
 ScienceBird-ScienceBird_Tweaks@4.4.6
 ScienceBird-Universal_Radar@1.2.3
@@ -167,7 +167,7 @@ taffyko-BetterSprayPaint@2.0.9
 taffyko-NameplateTweaks@1.0.7
 taffyko-QuickQuitToMenu@1.0.1
 TeamClark-SCP_Foundation_Suit@1.1.0
-TeamXiaolan-DawnLib@0.2.13
+TeamXiaolan-DawnLib@0.2.14
 Terraformer9x-JesterDoorSlam@1.0.0
 TestAccount666-AntiSlimeCamp@2.0.0
 TestAccount666-DoorBreach@1.4.4
