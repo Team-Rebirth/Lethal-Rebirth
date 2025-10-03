@@ -96,7 +96,7 @@ LethalCompanyModding-Doorbelle@1.0.2
 LethalCompanyModding-LCUltrawide_Community@1.2.2
 LethalCompanyModding-RuntimeIcons@0.3.2
 LethalCompanyModding-VertexLibrary@1.1.0
-loaforc-loaforcsSoundAPI-2.0.8
+loaforc-loaforcsSoundAPI@2.0.8
 Lordfirespeed-OdinSerializer@2024.2.2700
 Lugom-AstolfoPlushie@1.1.2
 Lunxara-BetterLaddersFixed@2.0.2
