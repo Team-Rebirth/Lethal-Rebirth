@@ -8,8 +8,6 @@ Lethal Company is an efficient operation, but imperfections remain. Bugs, instab
 
 ## Operational Summary
 
-[LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/): Gamble and go figure.
-
 ### Major features
 
 The directive of Lethal Rebirth is simple: Preserve the integrity of standard Company operations. Core procedures remain familiar, but efficiency has been refined. Alongside improved stability and performance, enhancements include:
@@ -28,28 +26,30 @@ The directive of Lethal Rebirth is simple: Preserve the integrity of standard Co
 
 - **Lategame Upgrades**: Costs and functions adapted to progression.
 
-  > ⚠️ The Hunter Upgrade is free of charge and replaces SellBodiesFixed. Acquisition must occur **manually** at round start.
-
 - **Utility Slots**: Up to *3 additional equipment slots* may be purchased. Most items are compatible.
 
 - **Quota Rollover**: In the event of total personnel loss, quota rollover will be reduced by 20%.
 
 - **Terminal Improvements**: *Expanded interface functions*, including *purchase packs* and *lobby management systems*.
 
-- **The Casino** An officially sanctioned outlet for risk-oriented employees. Sadly, in recent events the Company found that the assigned worth to a teammates bodies encourages desperate teams to resort to friendly fire. The Company asks you to refrain from such behavior for the benefit of morale, efficiency, and professionalism in this operation.
-
 > ℹ️ For a complete list of all gameplay-relevant mods and what they do in this modpack, [check here](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Mods-&-Features).
+
+We recommend installing [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/) if you aim for a more casual, relaxed experience when meeting your quota!
+
+> An officially sanctioned outlet for risk-oriented employees. Sadly, in recent events the Company found that the assigned worth to a teammates bodies encourages desperate teams to resort to friendly fire. The Company asks you to refrain from such behavior for the benefit of morale, efficiency, and professionalism in this operation.
+
+Further recommendations can be found here: [Recommended Mods](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods)
 
 ### Hotkeys
 
 > ⚠️ This list is not finished yet
 
-- F: Flashlight control
-- M: Toggle Mute
-- Left Alt: Switch to utility slots
-- F1: Betterfog configuration menu
-- O: Femmployee Customization - ⚠️ Recommended to be changed to a non-letter/-number key due to potential terminal interference.
-- CTRL + SHIFT + ALT + Q: Quit to Menu, no matter what.
+- `F`: Flashlight control
+- `M`: Toggle Mute
+- `Left Alt`: Switch to utility slots
+- `F1`: Betterfog configuration menu
+- `O`: Femmployee Customization - ⚠️ Recommended to be changed to a non-letter/-number key due to potential terminal interference.
+- `CTRL + SHIFT + ALT + Q`: Quit to Menu, no matter what.
 
 ### Known Issues
 
@@ -59,7 +59,7 @@ The directive of Lethal Rebirth is simple: Preserve the integrity of standard Co
   - **How to deal with it**: Press F1, disable autosync, then revert to vanilla mode or manually select the correct preset. To understand which preset is used when, check out the [BetterFog Configuration Guide](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/BetterFog).
 
 - **General Desync**: Terminal purchases or similar functions may become unavailable to an operator.
-  - **How to deal with it**: Affected personnel must exit and rejoin the lobby.
+  - **How to deal with it**: Affected personel must exit and rejoin the lobby.
 
 - **Messed up screen width**: LCUltrawide_Community most likely is responsible. Occurs more often on linux systems apparently.
   - **How to deal with it**: Disable the mod and restart. As the mod is wholly clientside, it should be save to disable.
@@ -69,7 +69,9 @@ The directive of Lethal Rebirth is simple: Preserve the integrity of standard Co
 Two things are required:
 
 - The game [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/)
-- An approved mod management system ([Gale](https://kesomannen.com/gale) is recommended for efficiency)
+- An approved mod management system:
+  - [Gale](https://kesomannen.com/gale) is recommended for efficiency.
+  - [r2modman](https://r2modman.com) is a valid alternative.
 
 Acquisition is simple. [Download the package from Thunderstore](https://thunderstore.io/c/lethal-company/p/Rebirth/Lethal_Rebirth/) as you would any standard modification. Initiation will be immediate.
 
