@@ -68,6 +68,7 @@
 !config/LethalLevelLoader.cfg
 !config/LethalPerformance.cfg
 !config/LethalSponge.cfg
+!config/LoadingTips.txt
 !config/mattymatty.EntranceTeleportOptimizations.cfg
 !config/mattymatty.LobbyControl.cfg
 !config/me.loaforc.facilitymeltdown.cfg

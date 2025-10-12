@@ -1,0 +1,13 @@
+﻿Type "suits" in the terminal to select a suit. The webcam will show you your style!
+The Ship's floodlight rotates now! Use the button panel to change its speed & behavior.
+The Zap Gun can now also disable traps and open shelter doors! Be careful with the latter...
+Due to malfunctions aused by the ship doors anti-harm functions, these functions are disabled. Careful when closing it!
+It always rains on March, but there are not always mud puddles.
+Brakens evolved to disrupt electromagnetic frequencies... Walkie Talkies might be affected.
+Pulling the Apparatus leaves the entire facility out of power. Good luck in the dark!
+Rumors say the toy store's nutcrackers may spring into action, sometime...
+DO NOT ENTER THE RUBBER ROOMS.
+We added loading tips :3
+Lethal Rebirth emerged simply to make each time playing LC just a bit better.
+The Forest Keeper will now lose suspicion the longer it does not see you.
+The "Kidnapper Fox" has been thought to be extinct. Recent sightings confirm the opposite...

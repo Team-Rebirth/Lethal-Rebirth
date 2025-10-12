@@ -8,6 +8,8 @@ Lethal Company is an efficient operation, but imperfections remain. Bugs, instab
 
 ## Operational Summary
 
+[LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/): Gamble and go figure.
+
 ### Major features
 
 The directive of Lethal Rebirth is simple: Preserve the integrity of standard Company operations. Core procedures remain familiar, but efficiency has been refined. Alongside improved stability and performance, enhancements include:
