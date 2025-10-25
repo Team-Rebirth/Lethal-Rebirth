@@ -50,6 +50,7 @@
 !config/DBJ.BetterScanVision.cfg
 !config/den.meltdownchance.cfg
 !config/DiggC.CruiserImproved.cfg
+!config/DissonanceVoiceSettings.cfg
 !config/dopadream.lethalcompany.HexiShotgunTweaks.cfg
 !config/dopadream.lethalcompany.rebalancedmoons.cfg
 !config/fandovec03.SpiderPositionFix.cfg
@@ -71,6 +72,7 @@
 !config/LethalSponge.cfg
 !config/LoadingTips.txt
 !config/mattymatty.EntranceTeleportOptimizations.cfg
+!config/mattymatty.FurnitureLock.cfg
 !config/mattymatty.LobbyControl.cfg
 !config/me.loaforc.facilitymeltdown.cfg
 !config/me.loaforc.facilitymeltdown.Client.cfg
@@ -79,6 +81,7 @@
 !config/Mirage.General.cfg
 !config/Missile.LCEliteFlashlight.cfg
 !config/mrgrm7.LethalCasino.cfg
+!config/MrHydralisk.EnhancedLockpicker.cfg
 !config/MrHydralisk.EnhancedRadarBooster.cfg
 !config/mrov.WeatherRegistry.cfg
 !config/Ovchinikov.SnatchinBracken.Main.cfg
@@ -92,6 +95,7 @@
 !config/scin.monsterplushies.cfg
 !config/scin.scavengerPlush.cfg
 !config/ShaosilGaming.GeneralImprovements.cfg
+!config/soundpack.ShipAudioTweaks.cfg
 !config/Swaggies.BetterEXP.cfg
 !config/taffyko.BetterSprayPaint.cfg
 !config/taffyko.NameplateTweaks.cfg
