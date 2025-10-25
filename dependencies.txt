@@ -118,11 +118,11 @@ Magic_Wesley-Wesleys_Ememy_Variants@1.0.2
 Magic_Wesley-Wesleys_Weathers@1.1.4
 Magic_Wesley-WesleysInteriors@4.0.10
 malco-Lategame_Upgrades@3.12.7
-mattymatty-AsyncLoggers@2.1.4
+mattymatty-AsyncLoggers_Experimental@21.2.1
 mattymatty-BagConfig@1.0.0
 mattymatty-EntranceTeleportOptimizations@0.0.5
 mattymatty-FurnitureLock@1.4.4
-mattymatty-LobbyControl@2.5.9
+mattymatty-LobbyControl_Experimental@5.11.0
 mattymatty-Matty_Fixes@1.1.35
 MaxWasUnavailable-LethalModDataLib@1.2.2
 MegaPiggy-BuyableShotgunShells@1.3.0
