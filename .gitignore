@@ -18,7 +18,10 @@
 !CODE_OF_CONDUCT.md
 !CONTRIBUTING.md
 !config/
+!config/AsyncLoggers/
+!config/AsyncLoggers/LogLevels.cfg
 !config/BepInEx.cfg
+!config/BiggerShip.cfg
 !config/bootstrap.cfg
 !config/butterystancakes.lethalcompany.accuratestaminadisplay.cfg
 !config/butterystancakes.lethalcompany.artificeblizzard.cfg
