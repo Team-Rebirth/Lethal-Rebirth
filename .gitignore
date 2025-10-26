@@ -40,19 +40,16 @@
 !config/com.github.CharlesE2.HostFixes.cfg
 !config/com.github.lethalcompanymodding.runtimeicons.cfg
 !config/com.github.WhiteSpike.DivingKit.cfg
-!config/com.github.WhiteSpike.LategameCompanyCruiserUpgrades.cfg
 !config/com.github.WhiteSpike.ShoppingCart.cfg
 !config/com.github.WhiteSpike.Wheelbarrow.cfg
 !config/com.github.zehsteam.KidnapperFoxSettings.cfg
 !config/com.malco.lethalcompany.moreshipupgrades.cfg
 !config/com.nozz.lethalmissions.cfg
 !config/com.zealsprince.locker.cfg
-!config/com.zealsprince.malfunctions.cfg
 !config/Darkbrewery.Emblem.cfg
 !config/darmuh.suitsTerminal.cfg
 !config/darmuh.TerminalStuff.cfg
 !config/DBJ.BetterScanVision.cfg
-!config/den.meltdownchance.cfg
 !config/DiggC.CruiserImproved.cfg
 !config/DissonanceVoiceSettings.cfg
 !config/dopadream.lethalcompany.HexiShotgunTweaks.cfg
@@ -64,12 +61,9 @@
 !config/furiante.WeedKillerTweaks.cfg
 !config/HookGenPatcher.cfg
 !config/ImmersiveScrap.cfg
-!config/impulse.Arachnophilia.cfg
 !config/ironthumb.BetterFog.cfg
-!config/JacobG5.WesleyMoonScripts.cfg
 !config/JLL
 !config/JLL/Magic Wesley.Toy Store.cfg
-!config/LessLogs.cfg
 !config/LethalHUD.cfg
 !config/LethalLevelLoader.cfg
 !config/LethalPerformance.cfg
@@ -78,8 +72,6 @@
 !config/mattymatty.EntranceTeleportOptimizations.cfg
 !config/mattymatty.FurnitureLock.cfg
 !config/mattymatty.LobbyControl.cfg
-!config/me.loaforc.facilitymeltdown.cfg
-!config/me.loaforc.facilitymeltdown.Client.cfg
 !config/me.swipez.melonloader.morecompany.cfg
 !config/MegaPiggy.BuyableShotgunShells.cfg
 !config/Mirage.General.cfg
@@ -87,9 +79,7 @@
 !config/MrHydralisk.EnhancedLockpicker.cfg
 !config/MrHydralisk.EnhancedRadarBooster.cfg
 !config/mrov.WeatherRegistry.cfg
-!config/Ovchinikov.SnatchinBracken.Main.cfg
 !config/Piggy.LCOffice.cfg
-!config/qwbarch.MirageRevive.cfg
 !config/rectorado.FontUpdate.cfg
 !config/ScienceBird.MoreCupboards.cfg
 !config/ScienceBird.PolishedPlushiesAndSillyScrap.cfg
@@ -100,7 +90,6 @@
 !config/ShaosilGaming.GeneralImprovements.cfg
 !config/soundpack.ShipAudioTweaks.cfg
 !config/Swaggies.BetterEXP.cfg
-!config/taffyko.BetterSprayPaint.cfg
 !config/taffyko.NameplateTweaks.cfg
 !config/TerminalFormatter.cfg
 !config/TestAccount666.DoorBreach.cfg
