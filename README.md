@@ -4,39 +4,41 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%20-FFFFFF?style=for-the-badge)](https://github.com/Team-Rebirth/Lethal-Rebirth)
 [![Thunderstore](https://img.shields.io/badge/Thunderstore-%20-229EC6?style=for-the-badge)](https://thunderstore.io/c/lethal-company/p/Rebirth/Lethal_Rebirth/)
 
-Lethal Company is an efficient operation, but imperfections remain. Bugs, instability, and questionable balance are regrettable liabilities. This package aims to correct those faults, enhancing your tools, and expanding the catalog. All without compromising performance in any significant manner. Efficiency is mandatory. Profit is expected.
+> ## Promotion Announcement
+>
+> Congratulations, Contractor.
+>
+> Effective immediately, you are promoted to Elite Recovery Operative - Operation Rebirth. This promotion is not a courtesy. It is a metric-driven adjustment based on sustained profitability and demonstrated tolerance for hazardous assignment environments.
+>
+> As an Elite Recovery Operative you will be deployed to newly commissioned Company assets. These locations contain high-yield proprietary material and unverified hazards. Your role is to extract value, and return usable assets to Company custody.
+> Previous recovery operations produced significant anomalous data. Including personnel apparent duplications. These phenomena are non-compensable and non-billable. If you encounter expired staff, doppelgängers, or other anomalous entities:
+>
+> - Do not engage outside of mission parameters.
+> - Neutralize or bypass as required to preserve mission integrity.
+> - Mark any recovered biological material as “non-standard” and route to containment.
+>
+> Noncompliance will affect promotional standing and future assignment eligibility.
 
 ## Operational Summary
 
 ### Major features
 
-The directive of Lethal Rebirth is simple: Preserve the integrity of standard Company operations. Core procedures remain familiar, but efficiency has been refined. Alongside improved stability and performance, enhancements include:
+The concept of Lethal Rebirth is simple: optimize some of the game's mechanics, increase performance, and expand the experience without losing the vanilla feel. This includes
 
-- **Bigger Teams, bigger profit**: Studies done by the Company have found that bigger teams make for more efficient work. There is no extension of the provided living space (the Company financed ship).
-
-- **Rebalanced Moons**: No new locations authorized. *Existing environments* have been adjusted for scrap yield, hostile presence, and navigation. Additional exits, traversal structures, and safety measures have been implemented where efficiency demanded.
-
-- **New Interiors**: Generic environments (including The Backrooms), a Slaughter House, Wesley’s extensions, the Lethal Office (inspired by [The Upturned](https://store.steampowered.com/app/1717770/The_Upturned/)), and the Slaughterhouse are accessible.
-
-- **Better Immersion**: Cave variants, new fog, and prettier foliage have been discovered.
-
-- **New Hostiles**: Two additional threats: The Locker (situational hazard) and The Shrimp (from [The Upturned](https://store.steampowered.com/app/1717770/The_Upturned/)). *Infestation variants and the reinstated Kidnapper Fox are also present.*
-
-- **Masked**: In recent events the Company has found that entities, known as the Masked, have found ways to both mimic appearance and voice of any given employee. They seem to be rare yet should be encountered with caution.
-
-- **Lategame Upgrades**: Costs and functions adapted to progression.
-
-- **Utility Slots**: Up to *3 additional equipment slots* may be purchased. Most items are compatible.
-
-- **Quota Rollover**: In the event of total personnel loss, quota rollover will be reduced by 20%.
-
-- **Terminal Improvements**: *Expanded interface functions*, including *purchase packs* and *lobby management systems*.
+- **Bigger Teams**: Lobbies with up to 32 players (4-8 recommended) are now possible! To keep the ship from getting too crowded, a larger ship is available right away.
+- **Rebalanced Moons**: Existing moons have been adjusted in terms of scrap yield, enemy presence, and much more. Additional fire exits, better access to different locations, and cruiser friendliness are also included.
+- **New Interiors**: Various interiors (including the backrooms), Wesley's Interiors, the Lethal Office (inspired by [The Upturned](https://store.steampowered.com/app/1717770/The_Upturned/)), Deepcore Mines & some vanilla-style interiors are accessible.
+- **Better Immersion**: Cave variants & new fog
+- **New enemies**: Two additional threats: The Locker & The Cabinet. *Infestation variants and the reinstated Kidnapper Fox are also present.*
+- **Mirages**: Masked individuals have found ways to imitate both the appearance and voice of an employee. They appear to be rare, but should be approached with caution.
+- **Lategame Upgrades**: Various ship and equipment upgrades
+- **Utility Slots**: Up to *2 additional equipment slots* may be purchased. Most items are compatible.
+- **Quota Rollover**: In the event that all crew members die, the quota rollover will be reduced by 20%.
+- **Terminal Improvements**: For further information have a look [at our Extended Terminal guide](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Extended-Terminal).
 
 > ℹ️ For a complete list of all gameplay-relevant mods and what they do in this modpack, [check here](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Mods-&-Features).
 
 We recommend installing [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/) if you aim for a more casual, relaxed experience when meeting your quota!
-
-> An officially sanctioned outlet for risk-oriented employees. Sadly, in recent events the Company found that the assigned worth to a teammates bodies encourages desperate teams to resort to friendly fire. The Company asks you to refrain from such behavior for the benefit of morale, efficiency, and professionalism in this operation.
 
 Further recommendations can be found here: [Recommended Mods](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods)
 
@@ -48,19 +50,20 @@ Further recommendations can be found here: [Recommended Mods](https://github.com
 - `M`: Toggle Mute
 - `Left Alt`: Switch to utility slots
 - `F1`: Betterfog configuration menu
+- `F2`: Toggle HUD
 - `O`: Femmployee Customization - ⚠️ Recommended to be changed to a non-letter/-number key due to potential terminal interference.
 - `CTRL + SHIFT + ALT + Q`: Quit to Menu, no matter what.
+- `Left + Alt`: Toggle Night Vision Goggles *(have to be bought & equipped first)*
+- `Left + Shift` on Terminal: Display alternative currency (PC from LGU)
+- `Right + Alt`: Toggle swap utility slots
 
 ### Known Issues
 
 - **Game Crash when hosting after having been a client**: Restart the game whenever you have been a client and want to host a lobby afterwards.
-
 - **Betterfog Preset Desync**: Betterfog might use the incorrect preset, which can be noticed by unfittig color or higher fog density than your peers.
   - **How to deal with it**: Press F1, disable autosync, then revert to vanilla mode or manually select the correct preset. To understand which preset is used when, check out the [BetterFog Configuration Guide](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/BetterFog).
-
 - **General Desync**: Terminal purchases or similar functions may become unavailable to an operator.
   - **How to deal with it**: Affected personel must exit and rejoin the lobby.
-
 - **Messed up screen width**: LCUltrawide_Community most likely is responsible. Occurs more often on linux systems apparently.
   - **How to deal with it**: Disable the mod and restart. As the mod is wholly clientside, it should be save to disable.
 
@@ -69,22 +72,23 @@ Further recommendations can be found here: [Recommended Mods](https://github.com
 Two things are required:
 
 - The game [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/)
-- An approved mod management system:
-  - [Gale](https://kesomannen.com/gale) is recommended for efficiency.
+- An approved mod manager:
+  - [Gale](https://kesomannen.com/gale) is recommended.
   - [r2modman](https://r2modman.com) is a valid alternative.
 
-Acquisition is simple. [Download the package from Thunderstore](https://thunderstore.io/c/lethal-company/p/Rebirth/Lethal_Rebirth/) as you would any standard modification. Initiation will be immediate.
+Installing this modpack is simple. [Download the package from Thunderstore](https://thunderstore.io/c/lethal-company/p/Rebirth/Lethal_Rebirth/) as you would any other mod and you're ready to go!
 
-> ℹ️ All personnel must have the modpack installed when multiple operators are present. Non-compliance is unacceptable.
-> ⚠️ You may disable or supplement individual components at your own risk. Such alterations may result in instability or hazardous anomalies. The Company assumes no responsibility.
+> ℹ️ All players must have the modpack installed when playing in multiplayer.
+
+Updating the game or individual mods may cause bugs. If this happens, please create an issue.
+
+> ⚠️ Install other mods at your own risk. Any further modifications may result in instability or bugs.
 
 ## Credits
 
-Primary acknowledgment is directed to [Zeekerss](https://bsky.app/profile/zeekerss.bsky.social), originator of the Lethal Company framework. His product established the foundation for extensive testing, modification, and balance procedures.
+Big thanks to [Zeekerss](https://bsky.app/profile/zeekerss.bsky.social), the creator of Lethal Company. His work laid the foundation for all our testing, adjustments, and balancing efforts.
 
-Secondary acknowledgment is extended to all registered creators whose modifications were integrated into this package. Their contributions increase operational variety and engagement metrics beyond baseline parameters.
-
-Last acknowledgment is, of course, directed to all the mod creators and their work. To see most of the mods and by whom they were made, [check out our list of mods and what they add to this modpack](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Mods-&-Features).
+We’d also like to thank all the mod creators whose work is included in this pack. Their contributions add variety and make the experience a lot more engaging. [Check out our list of mods and what they add to this modpack](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Mods-&-Features)
 
 ### Acknowledged Contributions
 
