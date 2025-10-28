@@ -28,19 +28,22 @@ The concept of Lethal Rebirth is simple: optimize some of the game's mechanics, 
 - **Bigger Teams**: Lobbies with up to 32 players (4-8 recommended) are now possible! To keep the ship from getting too crowded, a larger ship is available right away.
 - **Rebalanced Moons**: Existing moons have been adjusted in terms of scrap yield, enemy presence, and much more. Additional fire exits, better access to different locations, and cruiser friendliness are also included.
 - **New Interiors**: Various interiors (including the backrooms), Wesley's Interiors, the Lethal Office (inspired by [The Upturned](https://store.steampowered.com/app/1717770/The_Upturned/)), Deepcore Mines & some vanilla-style interiors are accessible.
-- **Better Immersion**: Cave variants & new fog
+- **Better Immersion**: Cave variants & new fog styles
 - **New enemies**: Two additional threats: The Locker & The Cabinet. *Infestation variants and the reinstated Kidnapper Fox are also present.*
 - **Mirages**: Masked individuals have found ways to imitate both the appearance and voice of an employee. They appear to be rare, but should be approached with caution.
+  - Cautious with the body of fallen crewmates as well...
 - **Lategame Upgrades**: Various ship and equipment upgrades
-- **Utility Slots**: Up to *2 additional equipment slots* may be purchased. Most items are compatible.
-- **Quota Rollover**: In the event that all crew members die, the quota rollover will be reduced by 20%.
-- **Terminal Improvements**: For further information have a look [at our Extended Terminal guide](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Extended-Terminal).
+- **Additional Slots**: *1 additional equipment-only slot* and *1 extra inventory slot* can be purchased.
+- **Quota Rollover**: Rollover for superceeded quotas. In the event that all crew members die, the quota rollover will be reduced by 20%.
+- **Terminal Improvements**: New commands & formatting.
 
+> For a proper guide to these changes, [check here](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki).
+>
 > ℹ️ For a complete list of all gameplay-relevant mods and what they do in this modpack, [check here](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Mods-&-Features).
 
 We recommend installing [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/) if you aim for a more casual, relaxed experience when meeting your quota!
 
-Further recommendations can be found here: [Recommended Mods](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods)
+→ Further recommendations can be found here: [Recommended Mods](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods)
 
 ### Hotkeys
 
@@ -49,23 +52,60 @@ Further recommendations can be found here: [Recommended Mods](https://github.com
 - `F`: Flashlight control
 - `M`: Toggle Mute
 - `Left Alt`: Switch to utility slots
+- `Right + Alt`: Toggle swap utility slots
 - `F1`: Betterfog configuration menu
 - `F2`: Toggle HUD
-- `O`: Femmployee Customization - ⚠️ Recommended to be changed to a non-letter/-number key due to potential terminal interference.
+- `O`: Femmployee Customization - ⚠️ Recommended to be changed to a non-letter/-number key due to potential terminal interferences.
 - `CTRL + SHIFT + ALT + Q`: Quit to Menu, no matter what.
 - `Left + Alt`: Toggle Night Vision Goggles *(have to be bought & equipped first)*
 - `Left + Shift` on Terminal: Display alternative currency (PC from LGU)
-- `Right + Alt`: Toggle swap utility slots
+- `Middle Mouse Button`: Wholly empty wheelbarrow/shopping cart.
+- `Q`: Switch to poltergeist spectator mode
+- `LMB` in poltergeist: Enable night vision
+- `H`: Show poltergeist keybinds
 
 ### Known Issues
 
-- **Game Crash when hosting after having been a client**: Restart the game whenever you have been a client and want to host a lobby afterwards.
+- **Game Crash when hosting after having been a client**: Restart the game whenever you have been a client and want to host a lobby afterwards. Seems to be caused by LLL & LeathalNetworkAPI, will address it sometime.
 - **Betterfog Preset Desync**: Betterfog might use the incorrect preset, which can be noticed by unfittig color or higher fog density than your peers.
   - **How to deal with it**: Press F1, disable autosync, then revert to vanilla mode or manually select the correct preset. To understand which preset is used when, check out the [BetterFog Configuration Guide](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/BetterFog).
-- **General Desync**: Terminal purchases or similar functions may become unavailable to an operator.
-  - **How to deal with it**: Affected personel must exit and rejoin the lobby.
+- **General Desync**: Terminal purchases or similar functions may become unavailable to one or more players.
+  - **How to deal with it**: All affected players must exit and rejoin the lobby.
 - **Messed up screen width**: LCUltrawide_Community most likely is responsible. Occurs more often on linux systems apparently.
   - **How to deal with it**: Disable the mod and restart. As the mod is wholly clientside, it should be save to disable.
+- **Wheelbarrow / Shopping Cart glitch**: You can not place items into it again despite it being empty.
+  - **How to deal with it**: Use the `Midde Mouse Button` to wholly empty the wheelbarrow/shopping cart to remove it.
+- **Invisible Maneater**: Sometimes a man eater that ate scrap is invisible before pick up. Cause is unknown.
+- **0 value Anvil**: Sometimes the anvil from Immersive Scrap does not have any value. Cause is unknown.
+- **Airborn Mines/Hazards**: Some hazards, mostly (prison) mines might float above the floor or cliffs. Cause is unknown.
+- **Unable to enter PW for lobby**: Had it occur once that no PW could be entered. Pressing space might have fixed it. Cause is unknown.
+
+### Future Plans
+
+Here an overview over our future plans and priorities.
+
+#### Update Roadmap
+
+- [ ] Release Lethal Rebirth v2.0.0 pre-Halloween
+- [ ] Weather Overhaul with Combined Weather Toolkit & LethalElementsTheta
+- [ ] LGU Pricing & Upgrade distribution Overhaul
+- [ ] Skin Registry integration & configuration
+- [ ] Wesley's Moons Compatibility per Configuration
+
+#### Sometime
+
+- [ ] Wiki: Finish Definition of Vanilla-Like
+- [ ] Wiki: Finish Guides
+- [ ] Wiki: Finish Challenge Guides
+- [ ] Wiki: Finish Lategame Upgrades Page
+- [ ] Re-add BetterSpraypaint: Once updated to v73
+- [ ] Re-add FixCharWarn: Once updated to be compatible with LGU
+- [ ] Re-enable EnhancedLockPicker/RadarBooster Enhancements: Once updated
+- [ ] Testing - FacilityMeltdown (+chance): Re-implementation when functional again
+- [ ] Testing - CodeRebirth: Either integration or compatibility
+- [ ] Testing - LethalThings: Either integration or compatibility
+- [ ] Testing - Lunar Configuration & DawnLib Integration (+ Company_Globes!)
+- [ ] Testing - Company Hauler: Integration when compatible with v73, CruiserImproved & LC_VR
 
 ## Installation
 
