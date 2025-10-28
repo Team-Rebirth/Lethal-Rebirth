@@ -43,6 +43,7 @@
 !config/com.github.CharlesE2.HostFixes.cfg
 !config/com.github.lethalcompanymodding.runtimeicons.cfg
 !config/com.github.WhiteSpike.DivingKit.cfg
+!config/com.github.WhiteSpike.ExtendDeadline.cfg
 !config/com.github.WhiteSpike.ShoppingCart.cfg
 !config/com.github.WhiteSpike.Wheelbarrow.cfg
 !config/com.github.zehsteam.KidnapperFoxSettings.cfg
@@ -57,8 +58,10 @@
 !config/DissonanceVoiceSettings.cfg
 !config/dopadream.lethalcompany.HexiShotgunTweaks.cfg
 !config/dopadream.lethalcompany.rebalancedmoons.cfg
+!config/e3s1.BetterLadders.cfg
 !config/fandovec03.SpiderPositionFix.cfg
 !config/FlipMods.FasterItemDropship.cfg
+!config/FlipMods.HotbarPlus.cfg
 !config/FlipMods.ReservedItemSlotCore.cfg
 !config/FlipMods.ReservedUtilitySlot.cfg
 !config/furiante.WeedKillerTweaks.cfg
@@ -71,7 +74,9 @@
 !config/LethalLevelLoader.cfg
 !config/LethalPerformance.cfg
 !config/LethalSponge.cfg
+!config/LoadingInfo.cfg
 !config/LoadingTips.txt
+!config/mattymatty.BagConfig.cfg
 !config/mattymatty.EntranceTeleportOptimizations.cfg
 !config/mattymatty.FurnitureLock.cfg
 !config/mattymatty.LobbyControl.cfg
@@ -81,7 +86,9 @@
 !config/Missile.LCEliteFlashlight.cfg
 !config/MrHydralisk.EnhancedLockpicker.cfg
 !config/MrHydralisk.EnhancedRadarBooster.cfg
+!config/MrHydralisk.MajorityVote.cfg
 !config/mrov.WeatherRegistry.cfg
+!config/NightOfTheLivingMimic.cfg
 !config/Piggy.LCOffice.cfg
 !config/rectorado.FontUpdate.cfg
 !config/ScienceBird.MoreCupboards.cfg
@@ -96,8 +103,11 @@
 !config/taffyko.NameplateTweaks.cfg
 !config/TerminalFormatter.cfg
 !config/TestAccount666.DoorBreach.cfg
+!config/TestAccount666.LooseJesterSpring.cfg
+!config/TestAccount666.PoisonPuffer.cfg
 !config/TestAccount666.ShipWindows.cfg
 !config/TestAccount666.TestAccountFixes.cfg
+!config/TestAccount666.TestAccountVariety.cfg
 !config/TooManySuits.cfg
 !config/uk.1a3.lethalfixes.cfg
 !config/uk.1a3.yesfox.cfg

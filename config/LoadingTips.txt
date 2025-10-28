@@ -1,9 +1,8 @@
 ﻿Type "suits" in the terminal to select a suit. The webcam will show you your style!
 The Ship's floodlight rotates now! Use the button panel to change its speed & behavior.
 The Zap Gun can now also disable traps and open shelter doors! Be careful with the latter...
-Due to malfunctions aused by the ship doors anti-harm functions, these functions are disabled. Careful when closing it!
+Due to malfunctions caused by the ship doors anti-harm functions, these functions are disabled. Careful when closing it!
 It always rains on March, but there are not always mud puddles.
-Brakens evolved to disrupt electromagnetic frequencies... Walkie Talkies might be affected.
 Pulling the Apparatus leaves the entire facility out of power. Good luck in the dark!
 Rumors say the toy store's nutcrackers may spring into action, sometime...
 DO NOT ENTER THE RUBBER ROOMS.
@@ -11,3 +10,17 @@ We added loading tips :3
 Lethal Rebirth emerged simply to make each time playing LC just a bit better.
 The Forest Keeper will now lose suspicion the longer it does not see you.
 The "Kidnapper Fox" has been thought to be extinct. Recent sightings confirm the opposite...
+The fog is colored now, making every moon just a bit more atmospheric. You might see better too!
+The main entrance is now wodden for Manors!
+Open the "Other" page in the terminal to see new commands!
+Type "eject" and confirm in the terminal if your performance is below standard.
+When oxygen reaches 0 you receive damage until you die. Any damage taken will regenerate once you breathe fresh air again!
+If you do not want your messages to be read by text-to-speech put a ! before it!
+If you are back at the ship, maybe look at the radar to see if your pals are still kickin'...
+Lethal Rebirth has a Wiki on GitHub! Guides, Challenges, and more are to be found there.
+Team Rebirth welcomes any contributions and feedback.
+You have quick drop! Upon dropping anything the slot changes to one with something in it. Scrap is always dropped first!
+Forsaken describes the moon's state pretty well...
+If you hear a screeching... Maybe look above and greet it.
+Do not carry metal through the metal detector! One did... let's say, they regretted it...
+Do not stare at the Bracken! One did... when they were... ya' know.
