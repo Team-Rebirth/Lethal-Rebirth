@@ -29,6 +29,7 @@ The current update certainly is more of a general overhaul, including loads of n
 - Added [MoreCupboards by ScienceBird](https://thunderstore.io/c/lethal-company/p/ScienceBird/MoreCupboards/): Adds purchasable additional cupboards in different colors.
 - Added [Lethal_Doors_Fixed by Entity378](https://thunderstore.io/c/lethal-company/p/Entity378/Lethal_Doors_Fixed/): The ship doors are now lethal, to both yourself and your friends.
 - Added [Lethal_Doors_Fixed by Entity378](https://thunderstore.io/c/lethal-company/p/Entity378/Lethal_Doors_Fixed/): Makes the ship doors lethal to both players and enemies.
+- Added [FunitureLock](https://thunderstore.io/c/lethal-company/p/mattymatty/FurnitureLock/)
 
 ##### Terminal [v2.0.0]
 
@@ -51,6 +52,7 @@ The current update certainly is more of a general overhaul, including loads of n
 
 - Added [Fairer_Fire_Exits by MikuOreo](https://thunderstore.io/c/lethal-company/p/MikuOreo/Fairer_Fire_Exits/): Makes Fire Exits generate farther away from the main entrance.
 - Added [Deepcore_Mines by Beaniebe](https://thunderstore.io/c/lethal-company/p/Beaniebe/Deepcore_Mines/): Adds the deepcore mines which serve as an alternative to the vanilla mines.
+- Added [WaterAssetRestorer](https://thunderstore.io/c/lethal-company/p/Sniper1_1/WaterAssetRestorer/)
 
 ##### Enemies [v2.0.0]
 
@@ -60,6 +62,8 @@ The current update certainly is more of a general overhaul, including loads of n
 - Added [TheCabinet](https://thunderstore.io/c/lethal-company/p/Cabinet_crew/TheCabinet/): Adds a shy, clingy, and potentially helpful creature.
 - Added [SmartEnemyPathfinding by Zaggy1024](https://thunderstore.io/c/lethal-company/p/Zaggy1024/SmartEnemyPathfinding/): Allows Masked enemies to use elevators in modded interiors and search for players more naturally.
 - Added [DynamicJesterCrank by Piggy](https://thunderstore.io/c/lethal-company/p/Piggy/DynamicJesterCrank/): Makes the jester crank faster and faster...
+- Added [LooseJesterSpring](https://thunderstore.io/c/lethal-company/p/TestAccount666/LooseJesterSpring/)
+- Added [NutcrackerDontKickWhenNotAggrod](https://thunderstore.io/c/lethal-company/p/qwcan/NutcrackerDontKickWhenNotAggrod/)
 
 ##### Hazards [v2.0.0]
 
@@ -89,17 +93,26 @@ The current update certainly is more of a general overhaul, including loads of n
 - Added [LoadingInfo by chuxiaaaa](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/LoadingInfo/): Displays how many players have loaded the moon while loading the moon.
 - Added [LoadingTips by Enova](https://thunderstore.io/c/lethal-company/p/Enova/LoadingTips/): Displays custom loading tips during loading a moon.
 - Added [LessPopups by Venture](https://thunderstore.io/c/lethal-company/p/Venture/LessPopups/): Suppresses the scrap collected HUD element, making it more ambigious if crew members survived.
+- Added [CoronerIntegrations](https://thunderstore.io/c/lethal-company/p/Turkeysteaks/CoronerIntegrations/)
+- Added [DiFFoZTweaks](https://thunderstore.io/c/lethal-company/p/DiFFoZ/DiFFoZTweaks/)
+- Added [DissonanceVoiceSettings](https://thunderstore.io/c/lethal-company/p/lukeprime/DissonanceVoiceSettings/)
+- Added [LobbyControl_Experimental](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl_Experimental/)
+- Added [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)
+- Added [UniqueItemSounds](https://thunderstore.io/c/lethal-company/p/debit_card_debit/UniqueItemSounds/)
 
 ##### Equipment [v2.0.0]
 
 - Added [HexiBetterShotgunFixed by Entity378](https://thunderstore.io/c/lethal-company/p/Entity378/HexiBetterShotgunFixed/) & [HexiShotgunTweaks by dopadream](https://thunderstore.io/c/lethal-company/p/dopadream/HexiShotgunTweaks/).
 - Added [Shopping_Cart by WhiteSpike](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Shopping_Cart/)s are now allowed to be used for scrap transportation thanks to WhiteSpike's update to the company code.
 - Added [Diving_Kit by WhiteSpike](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Diving_Kit/): Two handed items that allows you to breathe underwater.
+- Added [BetterSprayPaintFIXED](https://thunderstore.io/c/lethal-company/p/ddd278/BetterSprayPaintFIXED/)
 
 ##### Scraps [v2.0.0]
 
 - Added [TestAccountVariety](https://thunderstore.io/c/lethal-company/p/TestAccount666/TestAccountVariety/): Adds items in reference to the modding community and its creators, and some new hazards.
 - Added [LaserPointerDetonator by Kittenji](https://thunderstore.io/c/lethal-company/p/Kittenji/LaserPointerDetonator/): The laserpointer can detonate landmines now.
+
+- Added [ToiletPaperNormalizer](https://thunderstore.io/c/lethal-company/p/giosuel/ToiletPaperNormalizer/)
 
 ##### Cosmetics [v.2.0.0]
 
@@ -131,6 +144,10 @@ The current update certainly is more of a general overhaul, including loads of n
 - Added [FixCharWarn by huxiaaaa](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/FixCharWarn/) & [FixPlayerName by huxiaaaa](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/FixPlayerName/).
 - Added [TypeLoadExceptionFixer by Hamunii](https://thunderstore.io/c/lethal-company/p/Hamunii/TypeLoadExceptionFixer/)
 - Added [V73dcfix by hu_luo_bo_ya](https://thunderstore.io/c/lethal-company/p/hu_luo_bo_ya/V73dcfix/): Fixes an issue where clients do not disconnect after the host exits the game.
+- Added [v73ncfix](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/v73ncfix/)
+- Added [ApparatusFix](https://thunderstore.io/c/lethal-company/p/mrov/ApparatusFix/)
+- Added [NetworkMetricsFix](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/NetworkMetricsFix/)
+- Added [ReviveDesyncPatch](https://thunderstore.io/c/lethal-company/p/DaanSmoki/ReviveDesyncPatch/)
 
 #### Libraries & APIs [v2.0.0]
 
