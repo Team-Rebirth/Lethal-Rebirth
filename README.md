@@ -160,4 +160,6 @@ We’d also like to thank all the mod creators whose work is included in this pa
 
 **Technical execution of the modpack and its publishing, done by [Nando Lawson](https://github.com/nandolawson), member of [Team Rebirth](https://github.com/Team-Rebirth).**
 
-**Thanks to ThecheeseXD for providing feedback on the Wiki and Mod choice!**
+**Thanks to [ThecheeseXD](https://github.com/thecheesexd) for providing feedback on the Wiki and Mod choice!**
+
+**Thanks to [Jovyus](https://github.com/Jovyus), who helped us with the promotional material.**
