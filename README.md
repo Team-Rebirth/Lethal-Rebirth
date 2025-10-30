@@ -27,7 +27,7 @@ The concept of Lethal Rebirth is simple: optimize some of the game's mechanics, 
 
 - **Bigger Teams**: Lobbies with up to 32 players (4-8 recommended) are now possible! To keep the ship from getting too crowded, a larger ship is available right away.
 - **Rebalanced Moons**: Existing moons have been adjusted in terms of scrap yield, enemy presence, and much more. Additional fire exits, better access to different locations, and cruiser friendliness are also included.
-- **New Interiors**: Various interiors (including the backrooms), Wesley's Interiors, the Lethal Office (inspired by [The Upturned](https://store.steampowered.com/app/1717770/The_Upturned/)), Deepcore Mines & some vanilla-style interiors are accessible.
+- **New Interiors**: Various interiors (including the Backrooms), Wesley's Interiors, the Lethal Office (inspired by [The Upturned](https://store.steampowered.com/app/1717770/The_Upturned/)), Deepcore Mines & some vanilla-style interiors are accessible.
 - **Better Immersion**: Cave variants & new fog styles
 - **New enemies**: Two additional threats: The Locker & The Cabinet. *Infestation variants and the reinstated Kidnapper Fox are also present.*
 - **Mirages**: Masked individuals have found ways to imitate both the appearance and voice of an employee. They appear to be rare, but should be approached with caution.
