@@ -29,11 +29,11 @@ The concept of Lethal Rebirth is simple: optimize some of the game's mechanics, 
 - **Rebalanced Moons**: Existing moons have been adjusted in terms of scrap yield, enemy presence, and much more. Additional fire exits, better access to different locations, and cruiser friendliness are also included.
 - **New Interiors**: Various interiors (including the Backrooms), Wesley's Interiors, the Lethal Office (inspired by [The Upturned](https://store.steampowered.com/app/1717770/The_Upturned/)), Deepcore Mines & some vanilla-style interiors are accessible.
 - **Better Immersion**: Cave variants & new fog styles
-- **New enemies**: Two additional threats: The Locker & The Cabinet. *Infestation variants and the reinstated Kidnapper Fox are also present.*
+- **New enemies**: Two additional threats: The Locker & The Cabinet. *Infestation variants are also present.*
 - **Mirages**: Masked individuals have found ways to imitate both the appearance and voice of an employee. They appear to be rare, but should be approached with caution.
   - Cautious with the body of fallen crewmates as well...
 - **Lategame Upgrades**: Various ship and equipment upgrades
-- **Additional Slots**: *1 additional equipment-only slot* and *1 extra inventory slot* can be purchased.
+- **Additional Slots**: *1 additional equipment-only slot* can be purchased.
 - **Quota Rollover**: Rollover for superceeded quotas. In the event that all crew members die, the quota rollover will be reduced by 20%.
 - **Terminal Improvements**: New commands & formatting.
 
