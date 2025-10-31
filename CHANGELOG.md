@@ -14,9 +14,22 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ## [unreleased/v2.1.0] - 2025-10-31 | Moons & Interior Overhaul
 
+### Added
+
+- [FairAI by TheFluff](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/): Allows mines and spiketraps to kill enemies and quicksand to slow them.
+
 ### Changed [v2.1.0]
 
 - LethalLevelLoader: Rebalanced Interior weights and moon interior sizes & scrap counts according to the Wiki's [Moons](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Moons) and [Interiors](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Interiors) page.
+- Lategame_Upgrades: Increased range and intensity of Night Vision Goggles
+- BetterFog: Added Eclipsed Experimentation & Artifice Presets.
+- WeatherRegistry: Integrated Earthquakes into weather weights & added level filter for the Company everywhere.
+- ButteRyBalance: Does all the moon balancing again (besides interiors).
+- LethalLevelLoader: Does no moon balancing again for now & has swapped interior weights between vanilla and expanded facility, leaving only the expanded facility to spawn.
+
+### Noted
+
+- Updated Dependencies.
 
 ## [v2.0.1] - 2025-10-31 | Dependency Fix & Branding Update
 
