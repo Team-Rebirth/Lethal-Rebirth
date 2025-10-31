@@ -31,12 +31,6 @@ jobs:
         id: dependencies
         run: | # The file "dependencies.txt" is read as a list
           echo "list=$(tr '\n' ' ' < dependencies.txt)" >> $GITHUB_OUTPUT
-      - name: Update version string
-        run: |
-          sed -i "s/vUNSET/v${{ github.ref_name }}/g" config/Darkbrewery.Emblem.cfg
-      - name: Disable console
-        run: |
-          sed -i '/^\[Logging\.Console\]/,/^\[/ { /^\s*Enabled = true\s*$/ s/Enabled = true/Enabled = false/ }' config/BepInEx.cfg
 
   publish:
     name: Publish to Thunderstore
@@ -45,6 +39,12 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+      - name: Update version string
+        run: |
+          sed -i "s/vUNSET/v${{ github.ref_name }}/g" config/Darkbrewery.Emblem.cfg
+      - name: Disable console
+        run: |
+          sed -i '/^\[Logging\.Console\]/,/^\[/ { /^\s*Enabled = true\s*$/ s/Enabled = true/Enabled = false/ }' config/BepInEx.cfg
       - name: Upload to Thunderstore
         uses: GreenTF/upload-thunderstore-package@v4.3
         with:
