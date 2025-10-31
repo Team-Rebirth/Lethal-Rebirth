@@ -12,11 +12,16 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 > PATCH version when you make backward compatible bug fixes.
 > Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
-## [v2.0.1] - 2025-10-31 | Moons & Interior Overhaul
+## [unreleased/v2.1.0] - 2025-10-31 | Moons & Interior Overhaul
+
+### Changed [v2.1.0]
+
+- LethalLevelLoader: Rebalanced Interior weights and moon interior sizes & scrap counts according to the Wiki's [Moons](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Moons) and [Interiors](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Interiors) page.
+
+## [v2.0.1] - 2025-10-31 | Dependency Fix & Branding Update
 
 ### Changed [v2.0.1]
 
-- LethalLevelLoader: Rebalanced Interior weights and moon interior sizes & scrap counts according to the Wiki's [Moons](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Moons) and [Interiors](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Interiors) page.
 - LoadingScreen: Updated configuration & replaced original image with the modpack logo
 - Updated dependencies
 
@@ -24,10 +29,15 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 - Upload workflow: Fixed disabling the console when launching the game.
 - Upload workflow: Fixed version string in the main menu.
+- Put YesFox on DiFFoZTweaks blacklist as it was not meant to be installed (but can not prevented).
 
 #### Removed [v2.0.1]
 
 - Removed LogNeuter
+
+### Noted [v2.0.0]
+
+- Updated dependencies & removed all that will already be automatically installed due to other mods having them as dependencies.
 
 ## [v2.0.0] - 2025-10-31 | The Rebirth (v73)
 
