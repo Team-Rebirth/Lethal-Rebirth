@@ -45,6 +45,10 @@ jobs:
       - name: Disable console
         run: |
           sed -i '/^\[Logging\.Console\]/,/^\[/ { /^\s*Enabled = true\s*$/ s/Enabled = true/Enabled = false/ }' config/BepInEx.cfg
+      - name: Copy icon to plugin directory
+        run: |
+          mkdir -p plugins/BepInEx/patchers/Bertogim-LoadingScreen
+          cp icon.png plugins/BepInEx/patchers/Bertogim-LoadingScreen/
       - name: Upload to Thunderstore
         uses: GreenTF/upload-thunderstore-package@v4.3
         with:
