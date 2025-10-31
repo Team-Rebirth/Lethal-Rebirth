@@ -17,12 +17,17 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 ### Changed [v2.0.1]
 
 - LethalLevelLoader: Rebalanced Interior weights and moon interior sizes & scrap counts according to the Wiki's [Moons](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Moons) and [Interiors](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Interiors) page.
-- LoadingScreen: Updated configuration & replaced original image with the modpack logo.
+- LoadingScreen: Updated configuration & replaced original image with the modpack logo
+- Updated dependencies
 
-#### Fixes [v2.0.0]
+#### Fixes [v2.0.1]
 
 - Upload workflow: Fixed disabling the console when launching the game.
 - Upload workflow: Fixed version string in the main menu.
+
+#### Removed [v2.0.1]
+
+- Removed LogNeuter
 
 ## [v2.0.0] - 2025-10-31 | The Rebirth (v73)
 
