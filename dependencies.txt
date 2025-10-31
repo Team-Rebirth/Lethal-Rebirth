@@ -4,7 +4,6 @@ AtomicStudio-Left_and_Right_Map_Indicator@1.1.1
 Beaniebe-Deepcore_Mines@1.0.4
 Bertogim-LoadingScreen@1.1.2
 BigBadPigeon-PigeonsCosmeticsAddon-1.3.0
-BlueAmulet-LogNeuter@1.0.3
 ButteryStancakes-AccurateStaminaDisplay@2.2.1
 ButteryStancakes-BarberFixes@1.3.0
 ButteryStancakes-ButteRyBalance@0.3.1
