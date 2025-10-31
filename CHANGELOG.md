@@ -35,7 +35,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 - Removed LogNeuter
 
-### Noted [v2.0.0]
+### Noted [v2.0.1]
 
 - Updated dependencies & removed all that will already be automatically installed due to other mods having them as dependencies.
 
