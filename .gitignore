@@ -21,6 +21,7 @@
 !config/AsyncLoggers/
 !config/AsyncLoggers/LogLevels.cfg
 !config/BepInEx.cfg
+!config/Bertogim.LoadingScreen.cfg
 !config/BiggerShip.cfg
 !config/bootstrap.cfg
 !config/butterystancakes.lethalcompany.accuratestaminadisplay.cfg
