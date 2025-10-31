@@ -23,7 +23,7 @@
 
 ### Major features
 
-The concept of Lethal Rebirth is simple: optimize some of the game's mechanics, increase performance, and expand the experience without losing the vanilla feel. This includes
+The concept of Lethal Rebirth is simple: optimize some of the game's mechanics, increase performance, and expand the experience without losing the vanilla feel. This includes:
 
 - **Bigger Teams**: Lobbies with up to 32 players (4-8 recommended) are now possible! To keep the ship from getting too crowded, a larger ship is available right away.
 - **Rebalanced Moons**: Existing moons have been adjusted in terms of scrap yield, enemy presence, and much more. Additional fire exits, better access to different locations, and cruiser friendliness are also included.
@@ -83,6 +83,7 @@ We recommend installing [LethalCasino](https://thunderstore.io/c/lethal-company/
 
 ### Known Issues
 
+- **Monster Samples disappearing on lobby reload**: Might be fixed soon, is an error caused by the v73 update that has yet to be fixed.
 - **Game Crash when hosting after having been a client**: Restart the game whenever you have been a client and want to host a lobby afterwards. Seems to be caused by LLL & LeathalNetworkAPI, will address it sometime.
 - **Betterfog Preset Desync**: Betterfog might use the incorrect preset, which can be noticed by unfittig color or higher fog density than your peers.
   - **How to deal with it**: Press F1, disable autosync, then revert to vanilla mode or manually select the correct preset. To understand which preset is used when, check out the [BetterFog Configuration Guide](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/BetterFog).
@@ -103,7 +104,9 @@ Here an overview over our future plans and priorities.
 
 #### Update Roadmap
 
-- [ ] Release Lethal Rebirth v2.0.0 pre-Halloween
+- [X] Release Lethal Rebirth v2.0.0 pre-Halloween
+- [ ] LoadingTips for every mod.
+- [ ] LLL Config enhancement: Almost no [ButteRyBalance](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/) for moon balancing, better interior & enemy weights.
 - [ ] BetterFog Enhancement: Custom presets for Embrion & Eclipsed Artifice
 - [ ] Weather Overhaul with [Combined Weathers Toolkit](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/) & [LethalElementsTheta](https://thunderstore.io/c/lethal-company/p/pacoito/LethalElementsTheta/)
 - [ ] LGU Pricing & Upgrade distribution Overhaul
@@ -152,7 +155,9 @@ Updating the game or individual mods may cause bugs. If this happens, please cre
 
 Big thanks to [Zeekerss](https://bsky.app/profile/zeekerss.bsky.social), the creator of Lethal Company. His work laid the foundation for all our testing, adjustments, and balancing efforts.
 
-We’d also like to thank all the mod creators whose work is included in this pack. Their contributions add variety and make the experience a lot more engaging. [Check out our list of mods and what they add to this modpack](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Mods-&-Features)
+We’d also like to thank all the mod creators whose work is included in this pack. Their contributions add variety and make the experience a lot more engaging. [Check out our list of mods and what they add to this modpack](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Mods-&-Features).
+
+Also consider joining the [Lethal Company Modding Community Server](https://discord.gg/ffCEu5KC5D)!
 
 ### Acknowledged Contributions
 
@@ -162,4 +167,4 @@ We’d also like to thank all the mod creators whose work is included in this pa
 
 **Thanks to [ThecheeseXD](https://github.com/thecheesexd) for providing feedback on the Wiki and Mod choice!**
 
-**Thanks to [Jovyus](https://github.com/Jovyus), who helped us with the promotional material.**
+**Thanks to [Jovius](https://github.com/Jovyus), who helped us with the promotional material.**

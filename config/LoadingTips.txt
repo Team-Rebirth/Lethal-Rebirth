@@ -9,7 +9,6 @@ DO NOT ENTER THE RUBBER ROOMS.
 We added loading tips :3
 Lethal Rebirth emerged simply to make each time playing LC just a bit better.
 The Forest Keeper will now lose suspicion the longer it does not see you.
-The "Kidnapper Fox" has been thought to be extinct. Recent sightings confirm the opposite...
 The fog is colored now, making every moon just a bit more atmospheric. You might see better too!
 The main entrance is now wodden for Manors!
 Open the "Other" page in the terminal to see new commands!

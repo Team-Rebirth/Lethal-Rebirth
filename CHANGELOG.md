@@ -12,7 +12,13 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 > PATCH version when you make backward compatible bug fixes.
 > Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
-## [unreleased/v2.0.0] - 2025-10-30 | The Overhaul Update (v73)
+## [unreleased/v2.0.1] - 2025-11-?? | Moons & Interior Overhaul
+
+### Changed [v2.0.1]
+
+- LethalLevelLoader: Rebalanced Interior weights and moon interior sizes & scrap counts according to the Wiki's [Moons](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Moons) and [Interiors](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Interiors) page.
+
+## [v2.0.0] - 2025-10-30 | The Rebirth (v73)
 
 This update was initially planned as the "Ship & Weather Update". As we engaged with the weather aspect we found lots of balancing work to be done and thus focused on overhauling the modpack's difficulty and experience.
 Just as we had the first release candidate for this update, the V73 update for Lethal Company came around. Thus the modpack developed A LOT more, with V73 compatibility now in mind.
@@ -27,9 +33,8 @@ The current update certainly is more of a general overhaul, including loads of n
 - Added [ShipAudioTweaks by toosday](https://thunderstore.io/c/lethal-company/p/toosday/ShipAudioTweaks/): Tweaks and replaces some ship noises.
 - Added [AudibleHydraulics by dragonmcmx](https://thunderstore.io/c/lethal-company/p/dragonmcmx/AudibleHydraulics/): Makes Enemies capable of hearing the ship door open and close.
 - Added [MoreCupboards by ScienceBird](https://thunderstore.io/c/lethal-company/p/ScienceBird/MoreCupboards/): Adds purchasable additional cupboards in different colors.
-- Added [Lethal_Doors_Fixed by Entity378](https://thunderstore.io/c/lethal-company/p/Entity378/Lethal_Doors_Fixed/): The ship doors are now lethal, to both yourself and your friends.
 - Added [Lethal_Doors_Fixed by Entity378](https://thunderstore.io/c/lethal-company/p/Entity378/Lethal_Doors_Fixed/): Makes the ship doors lethal to both players and enemies.
-- Added [FunitureLock](https://thunderstore.io/c/lethal-company/p/mattymatty/FurnitureLock/)
+- Added [FunitureLock](https://thunderstore.io/c/lethal-company/p/mattymatty/FurnitureLock/): Allows pre-defined spawn locations and auto unlocking of furniture.
 
 ##### Terminal [v2.0.0]
 
@@ -62,8 +67,8 @@ The current update certainly is more of a general overhaul, including loads of n
 - Added [TheCabinet](https://thunderstore.io/c/lethal-company/p/Cabinet_crew/TheCabinet/): Adds a shy, clingy, and potentially helpful creature.
 - Added [SmartEnemyPathfinding by Zaggy1024](https://thunderstore.io/c/lethal-company/p/Zaggy1024/SmartEnemyPathfinding/): Allows Masked enemies to use elevators in modded interiors and search for players more naturally.
 - Added [DynamicJesterCrank by Piggy](https://thunderstore.io/c/lethal-company/p/Piggy/DynamicJesterCrank/): Makes the jester crank faster and faster...
-- Added [LooseJesterSpring](https://thunderstore.io/c/lethal-company/p/TestAccount666/LooseJesterSpring/)
-- Added [NutcrackerDontKickWhenNotAggrod](https://thunderstore.io/c/lethal-company/p/qwcan/NutcrackerDontKickWhenNotAggrod/)
+- Added [LooseJesterSpring by TestAccount666](https://thunderstore.io/c/lethal-company/p/TestAccount666/LooseJesterSpring/): Makes the jester pop when hit too much.
+- Added [NutCrackerDontKickWhenNotAggrod by qwcan](https://thunderstore.io/c/lethal-company/p/qwcan/NutcrackerDontKickWhenNotAggrod/): Makes the Nutcracker aggro onto a player it ran into instead of kicking them when not aggroed.
 
 ##### Hazards [v2.0.0]
 
@@ -93,26 +98,25 @@ The current update certainly is more of a general overhaul, including loads of n
 - Added [LoadingInfo by chuxiaaaa](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/LoadingInfo/): Displays how many players have loaded the moon while loading the moon.
 - Added [LoadingTips by Enova](https://thunderstore.io/c/lethal-company/p/Enova/LoadingTips/): Displays custom loading tips during loading a moon.
 - Added [LessPopups by Venture](https://thunderstore.io/c/lethal-company/p/Venture/LessPopups/): Suppresses the scrap collected HUD element, making it more ambigious if crew members survived.
-- Added [CoronerIntegrations](https://thunderstore.io/c/lethal-company/p/Turkeysteaks/CoronerIntegrations/)
-- Added [DiFFoZTweaks](https://thunderstore.io/c/lethal-company/p/DiFFoZ/DiFFoZTweaks/)
-- Added [DissonanceVoiceSettings](https://thunderstore.io/c/lethal-company/p/lukeprime/DissonanceVoiceSettings/)
-- Added [LobbyControl_Experimental](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl_Experimental/)
-- Added [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)
-- Added [UniqueItemSounds](https://thunderstore.io/c/lethal-company/p/debit_card_debit/UniqueItemSounds/)
+- Added [CoronerIntegrations by TurkeySteak](https://thunderstore.io/c/lethal-company/p/Turkeysteaks/CoronerIntegrations/): Add support for other modded entities.
+- Added [DiFFoZTweaks](https://thunderstore.io/c/lethal-company/p/DiFFoZ/DiFFoZTweaks/): Limits MoreCompanyCosmetics, makes taskbar flash when game awaits input, fixes Soft Mask Incompatibility, allows BepInEx blacklist.
+- Added [DissonanceVoiceSettings](https://thunderstore.io/c/lethal-company/p/lukeprime/DissonanceVoiceSettings/): Improves management of voice chat data packages & similar.
+- Added [LobbyControl_Experimental by mattymatty](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl_Experimental/): Allows re-opening the lobby per terminal in orbit (**late joining**) as well as changing other lobby settings + lobby fixes.
+- Added [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/): Saves last used suit.
+- Added [UniqueItemSounds by debit_card_debit](https://thunderstore.io/c/lethal-company/p/debit_card_debit/UniqueItemSounds/): Add custom sounds for different items, both vanilla and modded.
 
 ##### Equipment [v2.0.0]
 
 - Added [HexiBetterShotgunFixed by Entity378](https://thunderstore.io/c/lethal-company/p/Entity378/HexiBetterShotgunFixed/) & [HexiShotgunTweaks by dopadream](https://thunderstore.io/c/lethal-company/p/dopadream/HexiShotgunTweaks/).
 - Added [Shopping_Cart by WhiteSpike](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Shopping_Cart/)s are now allowed to be used for scrap transportation thanks to WhiteSpike's update to the company code.
 - Added [Diving_Kit by WhiteSpike](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Diving_Kit/): Two handed items that allows you to breathe underwater.
-- Added [BetterSprayPaintFIXED](https://thunderstore.io/c/lethal-company/p/ddd278/BetterSprayPaintFIXED/)
+- Added [BetterSprayPaintFIXED](https://thunderstore.io/c/lethal-company/p/ddd278/BetterSprayPaintFIXED/): Makes Spray Paint work more reliably, makes shake more effective, reduces volume, makes cruiser paintable, makes capacity infinite, and adds erase functionality.
 
 ##### Scraps [v2.0.0]
 
 - Added [TestAccountVariety](https://thunderstore.io/c/lethal-company/p/TestAccount666/TestAccountVariety/): Adds items in reference to the modding community and its creators, and some new hazards.
 - Added [LaserPointerDetonator by Kittenji](https://thunderstore.io/c/lethal-company/p/Kittenji/LaserPointerDetonator/): The laserpointer can detonate landmines now.
-
-- Added [ToiletPaperNormalizer](https://thunderstore.io/c/lethal-company/p/giosuel/ToiletPaperNormalizer/)
+- Added [ToiletPaperNormalizer](https://thunderstore.io/c/lethal-company/p/giosuel/ToiletPaperNormalizer/): Toilet paper won't cover your entire screen anylonger.
 
 ##### Cosmetics [v.2.0.0]
 
@@ -144,10 +148,10 @@ The current update certainly is more of a general overhaul, including loads of n
 - Added [FixCharWarn by huxiaaaa](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/FixCharWarn/) & [FixPlayerName by huxiaaaa](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/FixPlayerName/).
 - Added [TypeLoadExceptionFixer by Hamunii](https://thunderstore.io/c/lethal-company/p/Hamunii/TypeLoadExceptionFixer/)
 - Added [V73dcfix by hu_luo_bo_ya](https://thunderstore.io/c/lethal-company/p/hu_luo_bo_ya/V73dcfix/): Fixes an issue where clients do not disconnect after the host exits the game.
-- Added [v73ncfix](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/v73ncfix/)
-- Added [ApparatusFix](https://thunderstore.io/c/lethal-company/p/mrov/ApparatusFix/)
-- Added [NetworkMetricsFix](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/NetworkMetricsFix/)
-- Added [ReviveDesyncPatch](https://thunderstore.io/c/lethal-company/p/DaanSmoki/ReviveDesyncPatch/)
+- Added [v73ncfic by chuxiaaaa](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/v73ncfix/): Fix issues related to late joining.
+- Added [ApparatusFix](https://thunderstore.io/c/lethal-company/p/mrov/ApparatusFix/): Fixes Apparatus desync.
+- Added [NetworkMetricsFix](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/NetworkMetricsFix/): Optimize network analyzer
+- Added [ReviveDesyncPatch by DaanSmoki](https://thunderstore.io/c/lethal-company/p/DaanSmoki/ReviveDesyncPatch/): Fix an issue where players would not respawn in lobbys greater than 4.
 
 #### Libraries & APIs [v2.0.0]
 
@@ -167,7 +171,7 @@ The current update certainly is more of a general overhaul, including loads of n
   - There have been price rebalances across the board to make most initial increments cost less for less effect, which is then balanced out with additional or more costly increments after, encouraging upgrade variety.
   - The Deep Pockets upgrade has been disabled.
   - The Medical Nanobots & Effective Bandaids have been disabled in favor of [NaturalHealthRegen by swaggies](https://thunderstore.io/c/lethal-company/p/Swaggies/NaturalHealthRegen/).
-- Reduced the number of [ReservedUtilitySlot by FlipMods](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedUtilitySlot/) to two, lowered the price for the inital slot, and increased the price distance between the intial and second slot.
+- Reduced the number of [ReservedUtilitySlot by FlipMods](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedUtilitySlot/) to one, lowered the price for the inital slot, and increased the price distance between the intial and second slot.
 - Enabled [ScienceBird_Tweaks'](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/) Zap Gun rework, which allows it to disable hazards and open shelter doors in addition to configured increased battery. Also enhanced the ship's floodlights and enabled the experimental scanned item highlight.
 
 #### Minor Changes [v2.0.0]
@@ -215,7 +219,10 @@ The current update certainly is more of a general overhaul, including loads of n
 - Removed [Arachnophilia](https://thunderstore.io/c/lethal-company/p/SillySquad/Arachnophilia/).
 - Removed [NoMoreCompanyLogo](https://thunderstore.io/c/lethal-company/p/DaXcess/NoMoreCompanyLogo/)
 - Removed [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/)
-- Removed [Malfunctions by zealsprince](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/)
+- Removed [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/)
+- Removed [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)
+- Removed [KidnapperFoxSettings](https://thunderstore.io/c/lethal-company/p/Zehs/KidnapperFoxSettings/)
+- Removed [YesFox](https://thunderstore.io/c/lethal-company/p/Dev1A3/YesFox/)
 
 ### Fixed [v2.0.0]
 
@@ -233,11 +240,10 @@ The current update certainly is more of a general overhaul, including loads of n
 - Will refer to "Masked" entities as "Mirages" from now.
 - Settled for [ButteryFixes by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/) instead of [GeneralImprovments by ShaosilGaming](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) to handle the fire exit rotation fix, which makes you face the interior instead of the fire exit upon entry, disabled Mask Hornet Indoor Power.
 - Added all new mods to the [Mod list](https://github.com/Team-Rebirth/Lethal-Rebirth/blob/main/docs/Mods.md). Also added missing crediting in said list.
-- Added [BetterEmotes by KlutzyBubbles](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/) as a recommended mod.
 
 ## [v1.1.0] - 2025-08-28 | The Initiation Update (v72)
 
-Delayed arrival due to minor technical difficulties.
+Delayed arrival due to minor technical difficulties. A collection of mods we stumbled upon and found worth including.
 
 ### Added [v1.1.0]
 

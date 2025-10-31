@@ -32,7 +32,7 @@ ButteryStancakes-VentSpawnFix@1.2.3
 ButteryStancakes-WeedKillerFixes@1.1.2#
 Cabinet_crew-TheCabinet@1.9.2
 CharlesE2-HostFixes@1.0.28
-chuxiaaaa-FixCharWarn@1.0.1
+chuxiaaaa-FixCharWarn@1.0.2
 chuxiaaaa-FixPlayerName@1.1.1
 chuxiaaaa-LethalError@1.0.3
 chuxiaaaa-LoadingInfo@1.0.9
@@ -56,7 +56,7 @@ Dev1A3-LobbyImprovements@1.1.2
 Dev1A3-YesFox@1.1.6
 DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher@1.0.1
 DiFFoZ-BepInEx_MonoMod_Debug_Patcher@1.1.1
-DiFFoZ-DiFFoZTweaks@1.5.0
+DiFFoZ-DiFFoZTweaks@1.5.1
 DiFFoZ-HarmonyXTranspilerFix@1.1.0
 DiFFoZ-LethalPerformance@1.2.1
 DiggC-CruiserImproved@1.5.2
@@ -130,9 +130,9 @@ MikuOreo-Fairer_Fire_Exits@1.2.1
 MissileMann-EliteFlashlight@1.1.0
 MonoDetour-MonoDetour_BepInEx_5@0.7.4
 MonoDetour-MonoDetour@0.7.4
-MrHydralisk-EnhancedLockpicker@1.1.7
-MrHydralisk-EnhancedRadarBooster@1.8.0
-MrHydralisk-MajorityVote@1.1.1
+MrHydralisk-EnhancedLockpicker@1.1.8
+MrHydralisk-EnhancedRadarBooster@1.8.1
+MrHydralisk-MajorityVote@1.1.2
 mrov-ApparatusFix@0.0.3
 mrov-AutoScroll@0.0.1
 mrov-BiggerShip@1.0.5
