@@ -1,23 +1,64 @@
-﻿Type "suits" in the terminal to select a suit. The webcam will show you your style!
-The Ship's floodlight rotates now! Use the button panel to change its speed & behavior.
-The Zap Gun can now also disable traps and open shelter doors! Be careful with the latter...
+﻿We added loading tips :3
+Lethal Rebirth emerged simply to make each time playing LC just a bit better.
+Lethal Rebirth has a Wiki on GitHub! Guides, Challenges, and more are to be found there.
+Team Rebirth welcomes any contributions and feedback.
+Type "eject" and confirm in the terminal if your performance is below standard.
+A door's bell attracts keen ears...
+The monitor's text now automatically scrolls up and down!
+Ever thought the ship was too small? Enjoy the this leviathan of a ship!
+You can see the moons in the ship external camera.
+The Company has provided you a second cupboard. Enjoy it!
+The loud horn is now auto unlocked; Figure how to use it wisely or die trying!
+Extra Monitors, extra display; Upgrades, people! Upgrades!
+The new monitors show you day, scrap value on ship, and a bit more...
+The inverse Teleporter's cooldown has been reduced to 60 seconds. Enjoy!
+Type "lategame" to find out more about the lategame upgrades. "lgu" to buy ones!
 Due to malfunctions caused by the ship doors anti-harm functions, these functions are disabled. Careful when closing it!
+The Ship Person can now watch their friends' actions per bodycam!
+The ship provided for Operation Rebirth is cleaned up and up to current standards.
+A maximum occupancy of 8 is assumed. Bring more friends along if you want to.
+The Ship's floodlight rotates now! Use the button panel to change its speed & behavior.
+You can now type "previous" besides using the arrow keys to navigate in "view monitor"!
+Use the up and down arrows to navigate your command history!
+Type "suits" in the terminal to select a suit. The webcam will show you your style!
+The newly formatted terminal makes sure you can easily find what you need on any given page!
+Radar maps for the monitor and terminal operate independently!
+You can look over your shoulder when in the cruiser now!
+Maybe play a tune and see what it does...
+Thanks to Atlas the skies are prettier.
+You may notice the fog is more lenient and more atmospheric now ^-^
+Sprint is now enabled on ladders and makes you go 1.5-times as fast!
+We have adjusted scrap weights, scrap count, and more for the moons to have a more balanced experience!
+Dying on Gordion now carries no monetary penalties.
+Vow's damm now has a rope ladder that can be released!
+Offense now has a rope ladder on the pipe!
+Most moons are more cruiser friendly now...
+Notice the water tower on March, maybe you'll find something nearby...
+March's bridge is between Vow's and Admance's in durability.
+Cloudy weather tends to show a coming decline...
+The entire weather system has been revamped for easier tweaking and better balance!
+"Foggy?" means it most likely is... But not guaranteed...
+[UNKNOWN] is a fun surprise? Come on, live a little!
+You may see more different kinds of manor fake-windows.
+The deepcore mines are called deepcore because they are deep... get it? It's so deep,
+Fire exits will now always spawn farther away from the main entrance!
+Offense is known for people disappearing through mysterious means...
+The elevator will play spooky tunes when weather is eclipsed.
+The revisit stingers now work properly!
+Be prepared for a total blackout when you pull the apparatus!
+You have made a mistake. Do not enter the rubber rooms...
+DO NOT ENTER THE RUBBER ROOMS.
+The Zap Gun can now also disable traps and open shelter doors! Be careful with the latter...
 It always rains on March, but there are not always mud puddles.
 Pulling the Apparatus leaves the entire facility out of power. Good luck in the dark!
 Rumors say the toy store's nutcrackers may spring into action, sometime...
-DO NOT ENTER THE RUBBER ROOMS.
-We added loading tips :3
-Lethal Rebirth emerged simply to make each time playing LC just a bit better.
-The Forest Keeper will now lose suspicion the longer it does not see you.
+The Forest Keeper will now loose suspicion the longer it does not see you.
 The fog is colored now, making every moon just a bit more atmospheric. You might see better too!
 The main entrance is now wodden for Manors!
 Open the "Other" page in the terminal to see new commands!
-Type "eject" and confirm in the terminal if your performance is below standard.
 When oxygen reaches 0 you receive damage until you die. Any damage taken will regenerate once you breathe fresh air again!
 If you do not want your messages to be read by text-to-speech put a ! before it!
 If you are back at the ship, maybe look at the radar to see if your pals are still kickin'...
-Lethal Rebirth has a Wiki on GitHub! Guides, Challenges, and more are to be found there.
-Team Rebirth welcomes any contributions and feedback.
 You have quick drop! Upon dropping anything the slot changes to one with something in it. Scrap is always dropped first!
 Forsaken describes the moon's state pretty well...
 If you hear a screeching... Maybe look above and greet it.
