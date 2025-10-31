@@ -12,13 +12,19 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 > PATCH version when you make backward compatible bug fixes.
 > Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
-## [unreleased/v2.0.1] - 2025-11-?? | Moons & Interior Overhaul
+## [v2.0.1] - 2025-10-31 | Moons & Interior Overhaul
 
 ### Changed [v2.0.1]
 
 - LethalLevelLoader: Rebalanced Interior weights and moon interior sizes & scrap counts according to the Wiki's [Moons](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Moons) and [Interiors](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Interiors) page.
+- LoadingScreen: Updated configuration & replaced original image with the modpack logo.
 
-## [v2.0.0] - 2025-10-30 | The Rebirth (v73)
+#### Fixes [v2.0.0]
+
+- Upload workflow: Fixed disabling the console when launching the game.
+- Upload workflow: Fixed version string in the main menu.
+
+## [v2.0.0] - 2025-10-31 | The Rebirth (v73)
 
 This update was initially planned as the "Ship & Weather Update". As we engaged with the weather aspect we found lots of balancing work to be done and thus focused on overhauling the modpack's difficulty and experience.
 Just as we had the first release candidate for this update, the V73 update for Lethal Company came around. Thus the modpack developed A LOT more, with V73 compatibility now in mind.
