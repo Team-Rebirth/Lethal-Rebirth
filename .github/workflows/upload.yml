@@ -20,7 +20,6 @@ jobs:
         id: format_name
         run: |
           NAME="${{ github.event.repository.name }}"
-          NAME=
           echo "result=${NAME//-/_}" >> $GITHUB_OUTPUT # Hyphens are replaced with underscores (placeholder for spaces in the Thunderstore)
       - name: Read categories
         run: | # The file "categories.txt" is read as a list
