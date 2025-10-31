@@ -31,7 +31,7 @@ chuxiaaaa-FixPlayerName@1.1.1
 chuxiaaaa-LethalError@1.0.3
 chuxiaaaa-LoadingInfo@1.0.9
 chuxiaaaa-NetworkMetricsFix@1.0.6
-chuxiaaaa-v73ncfix@1.0.5
+chuxiaaaa-v73ncfix@1.0.1
 coderCleric-Poltergeist@1.2.8
 companyemployee-EquipmentCompany@1.3.0
 crump_laude-VisorColorsCosmetics@1.0.0
@@ -78,7 +78,7 @@ Generic_GMD-Generic_Scraps@1.0.1
 giosuel-ToiletPaperNormalizer@1.0.0
 Hardy-LCMaxSoundsFix@1.2.0
 Hexnet111-SuitSaver@1.2.1
-hu_luo_bo_ya-V73dcfix@1.0.3
+hu_luo_bo_ya-V73dcfix@1.0.5
 ironthumb-BetterFog@3.4.1
 JacobG5-LostEnemyFix@1.1.0
 JacobG5-ReverbTriggerFix@0.3.0
