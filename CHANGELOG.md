@@ -12,26 +12,34 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 > PATCH version when you make backward compatible bug fixes.
 > Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
-## [unreleased/v2.1.0] - 2025-10-31 | Moons & Interior Overhaul
+## [unreleased/v2] - 2025-??-?? | ??? (v73)
+
+## [v2.1.0] - 2025-10-31 | Interior & Lategame Overhaul (v73)
 
 ### Added
 
-- [FairAI by TheFluff](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/): Allows mines and spiketraps to kill enemies and quicksand to slow them.
+- [ChuxiaFixes by chuxiaaaa](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/ChuxiaFixes/): Quite a few network optimizing fixes/patches.
+- [LunarConfig by Crafty](https://thunderstore.io/c/lethal-company/p/Crafty/LunarConfig/): Used for all configuration beyond single mods in the future.
+- [FairAI by TheFluff](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/): Allows mines and spiketraps to kill enemies and quicksand to slow them, and kill some.
+- [LateGameUpgrades_GUI by slayer6409](https://thunderstore.io/c/lethal-company/p/slayer6409/LateGameUpgrades_Gui/): A GUI to use your Player Credits in.
 
 ### Changed [v2.1.0]
 
-- LethalLevelLoader: Rebalanced Interior weights and moon interior sizes & scrap counts according to the Wiki's [Moons](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Moons) and [Interiors](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Interiors) page.
-- Lategame_Upgrades: Increased range and intensity of Night Vision Goggles
+- LethalLevelLoader: Rebalanced Interior weights according to the Wiki's [Moons](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Moons) and [Interiors](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Interiors) page.
+- Lategame_Upgrades: Reworked the entire price & currency system. Increased range and intensity of Night Vision Goggles.
 - BetterFog: Added Eclipsed Experimentation & Artifice Presets.
-- WeatherRegistry: Integrated Earthquakes into weather weights & added level filter for the Company everywhere.
+- WeatherRegistry: **FIXED PROGRESSIVE WEATHERS ON GORDION**. Integrated Earthquakes into weather weights & added level filter for the Company everywhere.
 - ButteRyBalance: Does all the moon balancing again (besides interiors).
 - LethalLevelLoader: Does no moon balancing again for now & has swapped interior weights between vanilla and expanded facility, leaving only the expanded facility to spawn.
+- GeneralImprovements: Disabled "FixItemsFallingThrough" as it is incompatible with Matty's fix for it and disabled item falling instead.
+- RebalancedMoonsBeta: No interior adjustments.
 
 ### Noted
 
 - Updated Dependencies.
+- The standard settings when you make WeatherTweaks Weathers configurable for some reason set the blacklist to be a whitelist per default, which led to progressive weathers on Gordion...
 
-## [v2.0.1] - 2025-10-31 | Dependency Fix & Branding Update
+## [v2.0.1] - 2025-10-31 | Dependency Fix & Branding Update (v73)
 
 ### Changed [v2.0.1]
 
