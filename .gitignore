@@ -79,6 +79,14 @@
 !config/LethalSponge.cfg
 !config/LoadingInfo.cfg
 !config/LoadingTips.txt
+!config/LunarConfigCentral.cfg
+!config/LunarConfig
+!config/LunarConfig/LunarConfigDungeons.cfg
+!config/LunarConfig/LunarConfigEnemies.cfg
+!config/LunarConfig/LunarConfigItems.cfg
+!config/LunarConfig/LunarConfigMapObjects.cfg
+!config/LunarConfig/LunarConfigMoons.cfg
+!config/LunarConfig/LunarConfigOutsideMapObjects.cfg
 !config/mattymatty.BagConfig.cfg
 !config/mattymatty.EntranceTeleportOptimizations.cfg
 !config/mattymatty.FurnitureLock.cfg
