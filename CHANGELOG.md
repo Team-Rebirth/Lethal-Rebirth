@@ -14,14 +14,27 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ## [unreleased/v2] - 2025-??-?? | ??? (v73)
 
-## [v2.1.0] - 2025-10-31 | Interior & Lategame Overhaul (v73)
+## [v2.1.0] - 2025-11-17 | Interior & Lategame Overhaul (v73)
 
-### Added
+This update has had massive delay due to multiple irl interventions, but at last finally found its way to release. At least gave us the opportunity to feature Generic's Cosmetics as well!
 
+### Added [v2.1.0]
+
+- [Generic_Cosmetics by Generic_GMD](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Cosmetics/)
 - [ChuxiaFixes by chuxiaaaa](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/ChuxiaFixes/): Quite a few network optimizing fixes/patches.
-- [LunarConfig by Crafty](https://thunderstore.io/c/lethal-company/p/Crafty/LunarConfig/): Used for all configuration beyond single mods in the future.
+- [LunarConfig by Crafty](https://thunderstore.io/c/lethal-company/p/Crafty/LunarConfig/): Used for all configuration beyond single mods in the future. Used to rebalance interior chances thus far.
 - [FairAI by TheFluff](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/): Allows mines and spiketraps to kill enemies and quicksand to slow them, and kill some.
 - [LateGameUpgrades_GUI by slayer6409](https://thunderstore.io/c/lethal-company/p/slayer6409/LateGameUpgrades_Gui/): A GUI to use your Player Credits in.
+
+### Removed [v2.1.0]
+
+- v73ncfix now in ChuxiaFixes
+- FixPlayerName now in ChuxiaFixes
+- FixCharWarn now in ChuxiaFixes
+- NetworkMetricsFix now in ChuxiaFixes
+- [PoisonPuffer](https://thunderstore.io/c/lethal-company/p/TestAccount666/PoisonPuffer/)
+- [NutcrackerDontKickWhenNotAggrod](https://thunderstore.io/c/lethal-company/p/qwcan/NutcrackerDontKickWhenNotAggrod/)
+- [LessPopups](https://thunderstore.io/c/lethal-company/p/Venture/LessPopups/)
 
 ### Changed [v2.1.0]
 
@@ -33,10 +46,14 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 - LethalLevelLoader: Does no moon balancing again for now & has swapped interior weights between vanilla and expanded facility, leaving only the expanded facility to spawn.
 - GeneralImprovements: Disabled "FixItemsFallingThrough" as it is incompatible with Matty's fix for it and disabled item falling instead.
 - RebalancedMoonsBeta: No interior adjustments.
+- Loadstone: Put Art Gallery (MuseumInteriorFlow) on blacklist due to lighting errors caused otherwise.
+- LethalSponge: Reduced ship cam framerates for better performance.
 
 ### Noted
 
 - Updated Dependencies.
+- Switched back from BetterSprayPaintFIXED to BetterSprayPaint as it has been updated.
+- Switched from Experimental [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) & [AsyncLoggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/) to stable
 - The standard settings when you make WeatherTweaks Weathers configurable for some reason set the blacklist to be a whitelist per default, which led to progressive weathers on Gordion...
 
 ## [v2.0.1] - 2025-10-31 | Dependency Fix & Branding Update (v73)
