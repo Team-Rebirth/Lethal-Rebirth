@@ -49,7 +49,7 @@ This update has had massive delay due to multiple irl interventions, but at last
 - Loadstone: Put Art Gallery (MuseumInteriorFlow) on blacklist due to lighting errors caused otherwise.
 - LethalSponge: Reduced ship cam framerates for better performance.
 
-### Noted
+### Noted [v2.1.0]
 
 - Updated Dependencies.
 - Switched back from BetterSprayPaintFIXED to BetterSprayPaint as it has been updated.
