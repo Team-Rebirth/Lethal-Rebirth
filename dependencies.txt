@@ -157,7 +157,6 @@ qwbarch-Concentus@2.3.0
 qwbarch-Mirage@1.28.0
 qwbarch-MirageCore@1.0.4
 qwbarch-OpusDotNet@1.0.30
-Rebirth-Lethal_Rebirth@2.0.1
 rectorado-FontUpdate@0.8.1
 Rminin-FinallyCorrectKeys@1.6.0
 Rune580-LethalCompany_InputUtils@0.7.12
