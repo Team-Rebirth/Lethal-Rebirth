@@ -14,7 +14,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ## [unreleased/v2] - 2025-??-?? | ??? (v73)
 
-## [v2.1.0] - 2025-11-17 | Interior & Lategame Overhaul (v73)
+## [v2.1.0] - 2025-11-18 | Interior & Lategame Overhaul (v73)
 
 This update has had massive delay due to multiple irl interventions, but at last finally found its way to release. At least gave us the opportunity to feature Generic's Cosmetics as well!
 
