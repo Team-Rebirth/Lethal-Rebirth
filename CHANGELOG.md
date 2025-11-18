@@ -12,11 +12,13 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 > PATCH version when you make backward compatible bug fixes.
 > Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
-## [unreleased/v2] - 2025-??-?? | ??? (v73)
+## [unreleased/v2.?.?] - 2025-??-?? | ??? (v73)
 
 ## [v2.1.0] - 2025-11-18 | Interior & Lategame Overhaul (v73)
 
-This update has had massive delay due to multiple irl interventions, but at last finally found its way to release. At least gave us the opportunity to feature Generic's Cosmetics as well!
+This update features primarily a complete overhaul of Interior weights and Lategame Upgrade pricing & balancing, aiming for a more vanilla-like and fair experience.
+
+This update has had massive delay due to multiple irl interventions and minor technical diffculties, but at last finally found its way to release. At least gave us the opportunity to feature Generic's Cosmetics as well!
 
 ### Added [v2.1.0]
 
@@ -52,6 +54,7 @@ This update has had massive delay due to multiple irl interventions, but at last
 ### Noted [v2.1.0]
 
 - Updated Dependencies.
+- Updated LoadingTips.
 - Switched back from BetterSprayPaintFIXED to BetterSprayPaint as it has been updated.
 - Switched from Experimental [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) & [AsyncLoggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/) to stable
 - The standard settings when you make WeatherTweaks Weathers configurable for some reason set the blacklist to be a whitelist per default, which led to progressive weathers on Gordion...
