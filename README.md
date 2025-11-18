@@ -94,7 +94,7 @@ Updating the mods after installing the modpack can cause new issues! Please let 
 - **Messed up screen width**: LCUltrawide_Community most likely is responsible. Occurs more often on linux systems apparently.
   - **How to deal with it**: Disable the mod and restart. As the mod is wholly clientside, it should be save to disable.
 - **Wheelbarrow / Shopping Cart glitch**: You can not place items into it again despite it being empty.
-  - **How to deal with it**: Use the `Midde Mouse Button` to wholly empty the wheelbarrow/shopping cart to remove it.
+  - **How to deal with it**: Use the `Middle Mouse Button` to wholly empty the wheelbarrow/shopping cart to remove it.
 - **Invisible Maneater**: Sometimes a man eater that ate scrap is invisible before pick up. Cause is unknown (maybe Cullfactory?).
 - **0 value Anvil**: Sometimes the anvil from Immersive Scrap does not have any value. Cause is unknown.
 - **Airborn Mines/Hazards**: Some hazards, mostly (prison) mines might float above the floor or cliffs. Cause is unknown.
