@@ -190,7 +190,7 @@ TestAccount666-LooseJesterSpring@1.0.5
 TestAccount666-TestAccountCore@1.14.4
 TestAccount666-TestAccountFixes@1.4.0
 TestAccount666-TestAccountVariety@1.42.0
-TheFluff-FairAI@1.5.3
+TheFluff-FairAI@1.5.4
 ThePotato-scanForItemsFix@1.0.4
 TiltedTomb-The_Femmployee_Mod@1.1.9
 toosday-ShipAudioTweaks@2.1.1
