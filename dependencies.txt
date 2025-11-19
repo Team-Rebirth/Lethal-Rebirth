@@ -110,9 +110,9 @@ lukeprime-DissonanceVoiceSettings@1.0.1
 Lunxara-BetterLaddersFixed@2.1.0
 Lunxara-Lunxaras_Addons@5.0.5
 Lunxara-Lunxaras_Menu_Theme@3.0.6
-Magic_Wesley-Wesleys_Ememy_Variants@1.1.1
+Magic_Wesley-Wesleys_Ememy_Variants@1.2.0
 Magic_Wesley-Wesleys_Weathers@1.2.7
-Magic_Wesley-WesleysInteriors@4.0.26
+Magic_Wesley-WesleysInteriors@4.1.0
 malco-Lategame_Upgrades@3.12.8
 Mattomo-WaluigiSuitLite@1.0.0
 mattymatty-AsyncLoggers@2.2.3
