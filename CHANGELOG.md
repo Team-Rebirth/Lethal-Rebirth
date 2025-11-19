@@ -14,6 +14,10 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ## [unreleased/v2.?.?] - 2025-??-?? | ??? (v73)
 
+### Noted [unreleased]
+
+- Updated Dependencies.
+
 ## [v2.1.0] - 2025-11-18 | Interior & Lategame Overhaul (v73)
 
 This update features primarily a complete overhaul of Interior weights and Lategame Upgrade pricing & balancing, aiming for a more vanilla-like and fair experience.
@@ -45,11 +49,11 @@ This update has had massive delay due to multiple irl interventions and minor te
 - BetterFog: Added Eclipsed Experimentation & Artifice Presets.
 - WeatherRegistry: **FIXED PROGRESSIVE WEATHERS ON GORDION**. Integrated Earthquakes into weather weights & added level filter for the Company everywhere.
 - ButteRyBalance: Does all the moon balancing again (besides interiors).
-- LethalLevelLoader: Does no moon balancing again for now & has swapped interior weights between vanilla and expanded facility, leaving only the expanded facility to spawn.
 - GeneralImprovements: Disabled "FixItemsFallingThrough" as it is incompatible with Matty's fix for it and disabled item falling instead.
 - RebalancedMoonsBeta: No interior adjustments.
 - Loadstone: Put Art Gallery (MuseumInteriorFlow) on blacklist due to lighting errors caused otherwise.
 - LethalSponge: Reduced ship cam framerates for better performance.
+- LethalLevelLoader: Config reset
 
 ### Noted [v2.1.0]
 
