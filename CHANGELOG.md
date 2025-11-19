@@ -17,6 +17,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 ### Noted [unreleased]
 
 - Updated Dependencies.
+- LLL config removed.
 
 ## [v2.1.1] - 2025-11-19 | Hotfix (v73)
 
