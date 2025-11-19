@@ -86,6 +86,8 @@ We recommend installing [LethalCasino](https://thunderstore.io/c/lethal-company/
 
 Updating the mods after installing the modpack can cause new issues! Please let us know if you updated your mods when reporting them.
 
+Issues can easily be reported per [GitHub Issue](https://github.com/Team-Rebirth/Lethal-Rebirth/issues) or in [our Discord Thread on the Official LC Modding Discord Server](https://discord.com/channels/1168655651455639582/1433832543060496404).
+
 - **Monster Samples disappearing on lobby reload**: Might be fixed soon, is an error caused by the v73 update that has yet to be fixed.
 - **Game Crash when hosting after having been a client**: Restart the game whenever you have been a client and want to host a lobby afterwards. Seems to be caused by LLL & LeathalNetworkAPI, will address it sometime.
 - **Betterfog Preset Desync**: Betterfog might use the incorrect preset, which can be noticed by unfittig color or higher fog density than your peers.
@@ -108,14 +110,15 @@ Here an overview over our future plans and priorities.
 #### Update Roadmap
 
 - [X] Release Lethal Rebirth v2.0.0 pre-Halloween
-- [ ] LoadingTips for every mod.
-- [ ] LunarMoons Config: Almost no [ButteRyBalance](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/) for moon balancing, better interior & enemy weights.
-- [ ] BetterFog Enhancement: Custom presets for Embrion & Eclipsed Artifice
-- [ ] Weather Overhaul with [Combined Weathers Toolkit](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/) & [LethalElementsTheta](https://thunderstore.io/c/lethal-company/p/pacoito/LethalElementsTheta/) + [Weather_Probe](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Weather_Probe/)
 - [X] LGU Pricing & Upgrade distribution Overhaul
+- [X] LunarConfigMoons: Vanilla-like Interior Weights 
+- [ ] BetterFog Enhancement: Custom presets for Embrion & Eclipsed Artifice
+- [ ] LoadingTips for every mod.
+- [ ] LunarConfig: Implement [ButteRyBalance](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/)'s changes for moon balancing & enemy weights manually & tweak it.
+- [ ] Weather Overhaul with [Combined Weathers Toolkit](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/) & [LethalElementsTheta](https://thunderstore.io/c/lethal-company/p/pacoito/LethalElementsTheta/) + [Weather_Probe](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Weather_Probe/)
 - [ ] Skin Registry integration & configuration
-- [ ] Vanilla-like Interior Mods (Maybe Castellum Carnis, PlayZone, [Cabin](https://thunderstore.io/c/lethal-company/p/Sniper1_1/CabIn/), and/or Sector0(Beta)?)
-- [ ] Vanilla-like Moon Mods (Maybe Tunere, Oxyde, Lua, Seichi, and/or Wither?)
+- [ ] More Vanilla-like Interior Mods (Maybe Castellum Carnis, PlayZone, [Cabin](https://thunderstore.io/c/lethal-company/p/Sniper1_1/CabIn/), and/or Sector0(Beta)?)
+- [ ] More Vanilla-like Moon Mods (Maybe Tunere, Oxyde, Lua, Seichi, and/or Wither?)
 - [ ] Wesley's Moons Compatibility per Configuration
 
 #### Sometime
@@ -123,20 +126,19 @@ Here an overview over our future plans and priorities.
 - [X] Re-add BetterSpraypaint: Once updated to v73
 - [X] Re-add [FixCharWarn by chuxiaaaa](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/FixCharWarn/): Once updated to be compatible with LGU
 - [X] Re-enable EnhancedLockPicker/RadarBooster Enhancements: Once updated for v73
+- [X] Testing - [FairAI by TheFluff](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/changelog/): Integration when compatible
 - [ ] Testing - [FacilityMeltdown by loaforc](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdownExperimental/) (+chance): Re-implementation when functional again
 - [ ] Testing - [CodeRebirth by XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/CodeRebirth/): Either integration or compatibility
-- [ ] Testing - [LethalThings by Evaisa](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/): Either integration or compatibility
-- [ ] Testing - [Piggys_Variety_Mod by Piggy](https://thunderstore.io/c/lethal-company/p/Piggy/Piggys_Variety_Mod/): Either integration or compatibility
-- [ ] Testing - [LunarConfig by Crafty](https://thunderstore.io/c/lethal-company/p/Crafty/LunarConfig/) & [DawnLib by TeamXiaolan](https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/) Integration (+ Company_Globes!)
-- [ ] Testing - [Company Hauler by Glojam](https://thunderstore.io/c/lethal-company/p/Glojam/Company_Hauler/): Integration when compatible with v73, CruiserImproved & LC_VR
-- [X] Testing - [FairAI by TheFluff](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/changelog/): Integration when compatible
+- [ ] Testing - [DawnLib by TeamXiaolan](https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/): Integration (+ Company_Globes!)
 - [ ] Testing - [Biodiversity by super_fucking_cool_and_basass_team](https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/): Integration when fitting
 - [ ] Testing - [FacelessStalker by Sparble](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/): Integration when fitting
-- [ ] Testing - [LightEater by Lega](https://thunderstore.io/c/lethal-company/p/Lega/LightEater/): Integration when fitting
 - [ ] Testing - [InsanityRemastered by BudgetAirpods](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/): When updated for v73 and deemed fitting
-- [ ] Testing - [MapImprovements by SpookyBuddy](https://thunderstore.io/c/lethal-company/p/SpookyBuddy/MapImprovements/): When compatible with RebalancedMoons
+- [ ] Testing - [MapImprovements by SpookyBuddy](https://thunderstore.io/c/lethal-company/p/SpookyBuddy/MapImprovements/): When compatible with RebalancedMoons or as an alternative.
 - [ ] Testing - [LCGoldScrapMod by SimonTendo](https://thunderstore.io/c/lethal-company/p/SimonTendo/LCGoldScrapMod/): Needs proper adjustment
 - [ ] Testing - [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/): Needs proper adjustment for compatibility & balancing.
+- [ ] Testing - [LethalThings by Evaisa](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/): Either integration or compatibility
+- [ ] Testing - [Piggys_Variety_Mod by Piggy](https://thunderstore.io/c/lethal-company/p/Piggy/Piggys_Variety_Mod/): Either integration or compatibility
+- [ ] Testing - [Company Hauler by Glojam](https://thunderstore.io/c/lethal-company/p/Glojam/Company_Hauler/): Integration when compatible with v73, CruiserImproved & LC_VR
 
 ## Installation
 
