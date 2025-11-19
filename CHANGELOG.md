@@ -44,7 +44,7 @@ This update has had massive delay due to multiple irl interventions and minor te
 
 ### Changed [v2.1.0]
 
-- LunarMoons: Rebalanced Interior weights according to the Wiki's [Moons](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Moons) and [Interiors](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Interiors) page.
+- LunarConfigMoons: Rebalanced Interior weights according to the Wiki's [Moons](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Moons) and [Interiors](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Interiors) page.
 - Lategame_Upgrades: Reworked the entire price & currency system. Increased range and intensity of Night Vision Goggles.
 - BetterFog: Added Eclipsed Experimentation & Artifice Presets.
 - WeatherRegistry: **FIXED PROGRESSIVE WEATHERS ON GORDION**. Integrated Earthquakes into weather weights & added level filter for the Company everywhere.
