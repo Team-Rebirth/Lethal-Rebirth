@@ -14,6 +14,10 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ## [unreleased/v2.?.?] - 2025-??-?? | ??? (v73)
 
+### Changed [unreleased]
+
+- LoadingScreen: Window type set to FakeGame instead of FixedWindow
+
 ### Noted [unreleased]
 
 - Updated Dependencies.
