@@ -16,9 +16,19 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ### Changed [unreleased]
 
-- LoadingScreen: Window type set to FakeGame instead of FixedWindow
-
 ### Noted [unreleased]
+
+- Updated Dependencies.
+
+## [v2.1.2] - 2025-11-19 | Hotfix (v73)
+
+### Changed [v2.1.2]
+
+- LoadingScreen: Window type set to FakeGame instead of FixedWindow
+- Actually implemented the changes that were supposed to be present in v2.1.0!
+  - Specifically, the butterybalance interior adjustments have been disabled, the transitional weathers are gone from gordion.
+
+### Noted [v2.1.2]
 
 - Updated Dependencies.
 - Updated README.md
