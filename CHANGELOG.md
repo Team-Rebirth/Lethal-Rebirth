@@ -18,6 +18,17 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 - Updated Dependencies.
 
+## [v2.1.1] - 2025-11-19 | Hotfix (v73)
+
+### Changed [v2.1.1]
+
+- LethalLevelLoader: Config reset to avoid conflicts with the lunarconfig (config removal next update)
+
+### Noted [v2.1.1]
+
+- Updated Dependencies.
+- Corrected minor inconsistencies in the v2.1.0 changelog.
+
 ## [v2.1.0] - 2025-11-18 | Interior & Lategame Overhaul (v73)
 
 This update features primarily a complete overhaul of Interior weights and Lategame Upgrade pricing & balancing, aiming for a more vanilla-like and fair experience.
@@ -53,7 +64,6 @@ This update has had massive delay due to multiple irl interventions and minor te
 - RebalancedMoonsBeta: No interior adjustments.
 - Loadstone: Put Art Gallery (MuseumInteriorFlow) on blacklist due to lighting errors caused otherwise.
 - LethalSponge: Reduced ship cam framerates for better performance.
-- LethalLevelLoader: Config reset
 
 ### Noted [v2.1.0]
 
