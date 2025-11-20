@@ -17,6 +17,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 ### Changed [unreleased]
 
 - ImmersiveScrap: Disabled the Brick from spawning due to RPC errors when throwing it.
+- LGU (moreshipupgrades.cfg): Rebalanced Hunter Sample prices to be less overpowered
 
 ### Noted [unreleased]
 
