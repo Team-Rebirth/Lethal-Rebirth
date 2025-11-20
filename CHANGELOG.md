@@ -22,7 +22,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ### Added [v2.2.0]
 
-- [DimmingFlashlights by blink9803](blink9803-DimmingFlashlights-1.0.1): Makes the flashligh dimmer with lower battery.
+- [DimmingFlashlights by blink9803](https://thunderstore.io/c/lethal-company/p/blink9803/DimmingFlashlights/): Makes the flashligh dimmer with lower battery.
 - [FriendPatches by Lauriichan](https://thunderstore.io/c/lethal-company/p/Lauriichan/FriendPatches/): Fixes an error that makes another player's name display as "Unknown" and adds players to steam's recently played list.
 - [DoNotEatItems by mattymatty](https://thunderstore.io/c/lethal-company/p/mattymatty/DoNotEatItems/): Items are always dropped upon death.
 - [EasterEggFixes by SpookyBuddy](https://thunderstore.io/c/lethal-company/p/SpookyBuddy/EasterEggFixes/): Easter eggs can now only explode when thrown.
@@ -33,7 +33,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 - LGU (moreshipupgrades.cfg): Rebalanced Hunter Sample prices to be less overpowered.
 - ExtendDeadline: Increased cost for additional day, made cost primarily quota dependent allowing early game players to afford day extensions while not making it OP for high quotas.
 - GeneralImprovements: Increased Quota Rollover Penalty for Squad-wipe from 25 to 50%
-- LunarConfigMoons: Integrated Deep Sewers & Decrepit Store into interior weights (and corrected weights misaligned with the [Wiki](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Interiors)'s entires).
+- LunarConfigMoons: Integrated Deep Sewers & Decrepit Store into interior weights (and corrected weights misaligned with the [Wiki](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Interiors)'s entries).
 
 ### Noted [v.2.2.0]
 
