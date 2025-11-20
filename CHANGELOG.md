@@ -38,6 +38,8 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 ### Noted [v.2.2.0]
 
 - Updated Dependencies.
+- Some of the new mod additions have been inspired by [Testudination](https://thunderstore.io/c/lethal-company/p/ZetaArcade/Testudination/). It is a very good modpack worth checking out!
+  - That excellent modpack exists thanks to Zeta (ZetaArcade) & their community and [also features a (WIP) wiki](https://github.com/Zeta-Arcade/ZetasPack/wiki)!
 
 ## [v2.1.2] - 2025-11-19 | Hotfix (v73)
 
