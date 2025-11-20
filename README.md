@@ -117,7 +117,9 @@ Here an overview over our future plans and priorities.
 - [ ] LunarConfig: Implement [ButteRyBalance](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/)'s changes for moon balancing & enemy weights manually & tweak it.
 - [ ] Weather Overhaul with [Combined Weathers Toolkit](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/) & [LethalElementsTheta](https://thunderstore.io/c/lethal-company/p/pacoito/LethalElementsTheta/) + [Weather_Probe](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Weather_Probe/)
 - [ ] Mirage Spawn Chance overhaul: Currently every moon has the same spawn chances for Mirages. In the future, they should become very rare on Experimentation, Assurance, and Vow, stay about as common on the 2nd Tier, and become more common above it.
-- [ ] Look into Solo Balancing
+- [ ] (Attempted) Solo Balancing
+- [ ] Custom Logs (Lore, Info, Modpack Intro)
+- [ ] Interior Previews when entering
 - [ ] Skin Registry integration & configuration
 - [ ] More Vanilla-like Interior Mods (Maybe Castellum Carnis, PlayZone, [Cabin](https://thunderstore.io/c/lethal-company/p/Sniper1_1/CabIn/), and/or Sector0(Beta)?)
 - [ ] More Vanilla-like Moon Mods (Maybe Tunere, Oxyde, Lua, Seichi, and/or Wither?)
@@ -164,6 +166,8 @@ Updating the game or individual mods may cause bugs. If this happens, please cre
 Big thanks to [Zeekerss](https://bsky.app/profile/zeekerss.bsky.social), the creator of Lethal Company. His work laid the foundation for all our testing, adjustments, and balancing efforts.
 
 We’d also like to thank all the mod creators whose work is included in this pack. Their contributions add variety and make the experience a lot more engaging. [Check out our list of mods and what they add to this modpack](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Mods-&-Features).
+
+Additional thanks go out to other fellow modpack creators, like [ZetaArcade](https://github.com/Zeta-Arcade), [Moroxide](https://thunderstore.io/c/lethal-company/p/Megalophobia/MEGALOPHOBIA/) and [ProfoundlyPurple](https://www.youtube.com/channel/UCegCZVxrWaOay_0sKO4TOAw), who through their own perspectives and ideas also inspire the development of this modpack. Their stuff is worth checking out!
 
 Also consider joining the [Lethal Company Modding Community Server](https://discord.gg/ffCEu5KC5D)!
 
