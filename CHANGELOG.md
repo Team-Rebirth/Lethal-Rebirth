@@ -23,6 +23,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 - ImmersiveScrap: Disabled the Brick from spawning due to RPC errors when throwing it.
 - LGU (moreshipupgrades.cfg): Rebalanced Hunter Sample prices to be less overpowered.
 - ExtendDeadline: Increased cost for additional day, made cost primarily quota dependent allowing early game players to afford day extensions while not making it OP for high quotas.
+- GeneralImprovements: Increased Quota Rollover Penalty for Squad-wipe from 25 to 50%
 
 ### Noted [unreleased]
 
