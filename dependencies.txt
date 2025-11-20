@@ -102,6 +102,7 @@ JacobG5-JLL@1.9.9
 JacobG5-LostEnemyFix@1.1.0
 JacobG5-ReverbTriggerFix@0.3.0
 Kittenji-LaserPointerDetonator@1.0.1
+Lauriichan-FriendPatches@1.0.4
 LethalCompanyModding-LCUltrawide_Community@1.2.2
 LethalCompanyModding-RuntimeIcons@0.3.3
 LethalCompanyModding-VertexLibrary@1.1.0
