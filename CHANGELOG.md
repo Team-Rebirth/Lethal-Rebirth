@@ -24,6 +24,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 - [DimmingFlashlights by blink9803](blink9803-DimmingFlashlights-1.0.1): Makes the flashligh dimmer with lower battery.
 - [FriendPatches by Lauriichan](https://thunderstore.io/c/lethal-company/p/Lauriichan/FriendPatches/): Fixes an error that makes another player's name display as "Unknown" and adds players to steam's recently played list.
+- [DoNotEatItems by mattymatty](https://thunderstore.io/c/lethal-company/p/mattymatty/DoNotEatItems/): Items are always dropped upon death.
 
 ### Changed [v.2.2.0]
 
