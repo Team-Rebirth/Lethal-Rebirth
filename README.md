@@ -35,7 +35,7 @@ The concept of Lethal Rebirth is simple: optimize some of the game's mechanics, 
   - Cautious with the body of fallen crewmates as well...
 - **Lategame Upgrades**: Various ship and equipment upgrades
 - **Additional Slots**: *1 additional equipment-only slot* can be purchased.
-- **Quota Rollover**: Rollover for superceeded quotas. In the event that all crew members die, the quota rollover will be reduced by 20%.
+- **Quota Rollover**: Rollover for superceeded quotas. In the event that all crew members die, the quota rollover will be reduced by 50%.
 - **Terminal Improvements**: New commands & formatting.
 
 > For a proper guide to these changes, [check here](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki).
