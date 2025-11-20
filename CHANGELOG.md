@@ -23,6 +23,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 ### Added [v2.2.0]
 
 - [DimmingFlashlights by blink9803](blink9803-DimmingFlashlights-1.0.1): Makes the flashligh dimmer with lower battery.
+- [FriendPatches by Lauriichan](https://thunderstore.io/c/lethal-company/p/Lauriichan/FriendPatches/): Fixes an error that makes another player's name display as "Unknown" and adds players to steam's recently played list.
 
 ### Changed [v.2.2.0]
 
