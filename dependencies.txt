@@ -8,6 +8,7 @@ Beaniebe-Deepcore_Mines@1.0.4
 BepInEx-BepInExPack@5.4.2304
 Bertogim-LoadingScreen@1.1.2
 BigBadPigeon-PigeonsCosmeticsAddon@1.3.0
+blink9803-DimmingFlashlights@1.0.1
 Bobbie-NAudio@2.2.2
 BunyaPineTree-ModelReplacementAPI@2.4.19
 ButteryStancakes-AccurateStaminaDisplay@2.2.1
