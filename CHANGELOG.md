@@ -14,6 +14,10 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ## [unreleased/v2.?.?] - 2025-??-?? | ??? (v73)
 
+### Added [unreleased]
+
+- [DimmingFlashlights by blink9803](blink9803-DimmingFlashlights-1.0.1): Makes the flashligh dimmer with lower battery.
+
 ### Changed [unreleased]
 
 - ImmersiveScrap: Disabled the Brick from spawning due to RPC errors when throwing it.
