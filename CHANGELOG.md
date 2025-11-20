@@ -14,11 +14,17 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ## [unreleased/v2.?.?] - 2025-??-?? | ??? (v73)
 
-### Added [unreleased]
+### Noted [unreleased]
+
+- Updated Dependencies.
+
+## [v2.2.0] - 2025-11-21 | Rebalancing (v73)
+
+### Added [v2.2.0]
 
 - [DimmingFlashlights by blink9803](blink9803-DimmingFlashlights-1.0.1): Makes the flashligh dimmer with lower battery.
 
-### Changed [unreleased]
+### Changed [v.2.2.0]
 
 - ImmersiveScrap: Disabled the Brick from spawning due to RPC errors when throwing it.
 - LGU (moreshipupgrades.cfg): Rebalanced Hunter Sample prices to be less overpowered.
@@ -26,7 +32,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 - GeneralImprovements: Increased Quota Rollover Penalty for Squad-wipe from 25 to 50%
 - LunarConfigMoons: Integrated Deep Sewers & Decrepit Store into interior weights (and corrected weights misaligned with the [Wiki](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Interiors)'s entires).
 
-### Noted [unreleased]
+### Noted [v.2.2.0]
 
 - Updated Dependencies.
 
