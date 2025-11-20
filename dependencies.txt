@@ -119,6 +119,7 @@ malco-Lategame_Upgrades@3.12.8
 Mattomo-WaluigiSuitLite@1.0.0
 mattymatty-AsyncLoggers@2.2.3
 mattymatty-BagConfig@1.0.0
+mattymatty-DoNotEatItems@2.1.1
 mattymatty-EntranceTeleportOptimizations@0.0.5
 mattymatty-FurnitureLock@1.4.5
 mattymatty-LobbyControl@2.5.11
