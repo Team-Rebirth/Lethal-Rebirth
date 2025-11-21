@@ -130,7 +130,6 @@ Everything in this category especially is less set in stone.
 
 - [ ] More Vanilla-like Interior Mods (Maybe Castellum Carnis, PlayZone, [Cabin](https://thunderstore.io/c/lethal-company/p/Sniper1_1/CabIn/), and/or Sector0(Beta)?)
 - [ ] More Vanilla-like Moon Mods (Maybe Tunere, Oxyde, Lua, Seichi, and/or Wither?)
-- [ ] Interior Previews when entering
 - [ ] Mirage Spawn Chance overhaul: Currently every moon has the same spawn chances for Mirages. In the future, they should become very rare on Experimentation, Assurance, and Vow, stay about as common on the 2nd Tier, and become more common above it.
 - [X] Testing - [FairAI by TheFluff](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/changelog/): Integration when compatible
 - [ ] Testing - [FacilityMeltdown by loaforc](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdownExperimental/) (+chance): Re-implementation when functional again
