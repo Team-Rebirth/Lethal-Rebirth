@@ -29,7 +29,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ### Changed [v2.3.0]
 
-- LGU (moreshipupgrades.cfg): Increased price for Scrap Keeper, temporarily deactivated lightning rod as distance config does not work (WRONG: It does not work for the UpgradeMode we chose, intentionally).
+- LGU (moreshipupgrades.cfg): Increased price for Scrap Keeper, temporarily deactivated lightning rod ~~as distance config does not work~~ (WRONG: It does not work for the UpgradeMode we chose, intentionally).
 
 ### Noted [v2.3.0]
 
