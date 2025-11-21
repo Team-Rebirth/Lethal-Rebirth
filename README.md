@@ -105,15 +105,18 @@ Issues can easily be reported per [GitHub Issue](https://github.com/Team-Rebirth
 
 ### Future Plans
 
-Here an overview over our future plans and priorities.
+Here an overview over our future plans and priorities. **Everything on here is not guaranteed to be implemented but simply plans we have made thus far for the development of this modpack.**
 
 #### Update Roadmap
 
 - [X] Release Lethal Rebirth v2.0.0 pre-Halloween
+- [X] Re-add BetterSpraypaint: Once updated to v73
+- [X] Re-add [FixCharWarn by chuxiaaaa](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/FixCharWarn/): Once updated to be compatible with LGU
+- [X] Re-enable EnhancedLockPicker/RadarBooster Enhancements: Once updated for v73
 - [X] LGU Pricing & Upgrade distribution Overhaul
-- [X] LunarConfigMoons: Vanilla-like Interior Weights 
-- [ ] BetterFog Enhancement: Custom presets for Embrion & Eclipsed Artifice + Fix for combined foggy weathers
+- [X] LunarConfigMoons: Vanilla-like Interior Weights
 - [X] LoadingTips for most mods.
+- [ ] BetterFog Enhancement: Custom presets for Embrion & Eclipsed Artifice + Fix for combined foggy weathers
 - [ ] LunarConfig: Implement [ButteRyBalance](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/)'s changes for moon balancing & enemy weights manually & tweak it.
 - [ ] Weather Overhaul with [Combined Weathers Toolkit](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/) & [LethalElementsTheta](https://thunderstore.io/c/lethal-company/p/pacoito/LethalElementsTheta/) + [Weather_Probe](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Weather_Probe/)
 - [ ] Mirage Spawn Chance overhaul: Currently every moon has the same spawn chances for Mirages. In the future, they should become very rare on Experimentation, Assurance, and Vow, stay about as common on the 2nd Tier, and become more common above it.
@@ -127,9 +130,8 @@ Here an overview over our future plans and priorities.
 
 #### Sometime
 
-- [X] Re-add BetterSpraypaint: Once updated to v73
-- [X] Re-add [FixCharWarn by chuxiaaaa](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/FixCharWarn/): Once updated to be compatible with LGU
-- [X] Re-enable EnhancedLockPicker/RadarBooster Enhancements: Once updated for v73
+Everything in this category especially is less set in stone.
+
 - [X] Testing - [FairAI by TheFluff](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/changelog/): Integration when compatible
 - [ ] Testing - [FacilityMeltdown by loaforc](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdownExperimental/) (+chance): Re-implementation when functional again
 - [ ] Testing - [CodeRebirth by XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/CodeRebirth/): Either integration or compatibility
