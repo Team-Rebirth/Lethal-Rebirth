@@ -14,13 +14,21 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ## [unreleased/v2.?.?] - 2025-??-?? | ??? (v73)
 
-### Changed [unreleased]
-
-- LoadingTips: Added many more, refined some, added category marking tips.
-
 ### Noted [unreleased]
 
 - Updated Dependencies.
+
+## [v2.2.1] - 2025-11-21 | Loading Tips (v73)
+
+### Changed [v2.2.1]
+
+- LoadingTips: Added many more, refined some, added category marking tips.
+
+### Noted [v2.2.1]
+
+- Updated Dependencies.
+- Updated the [Wiki's Modlist](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Mods-&-Features).
+- Updated Roadmap in README.
 
 ## [v2.2.0] - 2025-11-21 | Rebalancing (v73)
 
