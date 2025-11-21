@@ -21,6 +21,7 @@ A maximum occupancy of 8 is assumed. Bring more friends along if you want to hav
 The ship's floodlight rotates now! Use the button panel to change its speed & behavior.
 The annoying squeaky noice from the ship has been replaced with more pleasant ones :3
 * The Terminal's upgrades exist thanks to the excellent assets Darmuh & Mrov!
+Open the "Other" page in the terminal to see new commands!
 You can now type "previous" besides using the arrow keys to navigate in "view monitor"!
 Use the up and down arrows to navigate your command history!
 Type "suits" in the terminal to select a suit. The webcam will show you your style!
@@ -31,7 +32,8 @@ You can look over your shoulder when in the cruiser now!
 Maybe play a tune and see what it does...
 * Check out Wesley's Moons if you are in need for more!
 Thanks to Atlas the skies are prettier.
-You may notice the fog is more lenient and more atmospheric now ^-^
+You may notice the fog is a bit more lenient and more atmospheric now ^-^
+The fog is colored now, making every moon just a bit more atmospheric. You might see better too!
 You can sprint on ladders!
 We have adjusted scrap weights, scrap count, and more for the moons to have a more balanced experience!
 Dying on Gordion now carries no monetary penalties.
@@ -47,8 +49,10 @@ It always rains on March, but there are not always mud puddles.
 The entire weather system has been revamped for easier tweaking and better balance!
 "Foggy?" means it most likely is... But not guaranteed...
 [UNKNOWN] is a fun surprise? Come on, live a little!
+Forsaken describes the moon's state pretty well...
 * Lethal Rebirth features a big variety of interiors.
 Manors attract those meant to maintain them...
+The main entrance is now wodden for Manors!
 You may see more different kinds of manor fake-windows.
 The deepcore mines are called deepcore because they are deep... get it? It's so deep.
 Mind the ladders in the deep mines: There is much more to explore!
@@ -59,6 +63,7 @@ The elevator will play spooky tunes when weather is eclipsed.
 The office from the Upturned is now an interior!
 The revisit stingers now work properly!
 Be prepared for a total blackout when you pull the apparatus!
+Pulling the Apparatus leaves the entire facility out of power. Good luck in the dark!
 You have made a mistake. Do not enter the rubber rooms...
 DO NOT ENTER THE RUBBER ROOMS.
 Some interiors like eclipsed weather...
@@ -70,18 +75,26 @@ Mind the pesticides in the greenhouse!
 It slithers in the walls...
 Mind the traps!
 * The Company assures personel that scavenging should come with no danger of relevance.
-The Zap Gun can now also disable traps and open shelter doors! Be careful with the latter...
-Pulling the Apparatus leaves the entire facility out of power. Good luck in the dark!
-The Forest Keeper will now loose suspicion the longer it does not see you.
-The fog is colored now, making every moon just a bit more atmospheric. You might see better too!
-The main entrance is now wodden for Manors!
-Open the "Other" page in the terminal to see new commands!
+The Forest's Keepers will now loose suspicion the longer it does not see you.
+* Watch your step, always.
+* Quality of Life decreases pain and keeps your strive.
 When oxygen reaches 0 you receive damage until you die. Any damage taken will regenerate once you breathe fresh air again!
-If you do not want your messages to be read by text-to-speech put a ! before it!
-If you are back at the ship, maybe look at the radar to see if your pals are still kickin'...
 You have quick drop! Upon dropping anything the slot changes to one with something in it. Scrap is always dropped first!
-Forsaken describes the moon's state pretty well...
+If you do not want your messages to be read by text-to-speech put a ! before it!
+* For Operation Rebirth, the Company unlocked elite equipment options!
+The Zap Gun can now also disable traps and open shelter doors! Be careful with the latter...
+* New treasures can be found!
+An axe might prove superior to a shovel...
+* Lethal Rebirth: Live your fashion :P
+* You might notice better Performance!
+* Many fixes are included in Lethal Rebirth.
+The maneater can now be damaged properly using a shotgun!
+Barbers now spawn in groups!
+You won't leave the fire exit the wrong way again...
+Slimes can be tamed using the boombox! Just as vanilla intended.
+The terminal might understand you better now.
 * Got an idea for a loading tip? Let us know!
+If you are back at the ship, maybe look at the radar to see if your pals are still kickin'...
 If you hear a screeching... Maybe look above and greet it.
 Do not carry metal through the metal detector! One did... let's say, they regretted it...
 Do not stare at the Bracken! One did... when they were... ya' know.
