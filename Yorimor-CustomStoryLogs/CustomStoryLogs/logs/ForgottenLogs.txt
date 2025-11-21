@@ -1,0 +1,22 @@
+{
+    "username": "???",
+    "modname": "Lethal_Rebirth",
+    "version": "1.5.3",
+    "logs": {
+        "0": {
+            "name": "The Greater Hauler",
+            "text": "WIP Log for Lethal Rebirth: Introduction to the Bigger & tweaked Ship.",
+            "moon": "71 Gordion",
+            "position": {
+                "X": "-112.00",
+                "Y": "3.00",
+                "Z": "-14.70"
+            },
+            "rotation": {
+                "X": "360.00",
+                "Y": "315.00",
+                "Z": "270.00"
+            }
+        }
+    }
+}

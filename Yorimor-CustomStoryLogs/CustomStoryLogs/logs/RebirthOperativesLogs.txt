@@ -1,0 +1,72 @@
+{
+    "username": "???",
+    "modname": "Lethal_Rebirth",
+    "version": "1.5.3",
+    "logs": {
+        "0": {
+            "name": "Operation Rebirth (Type Sigurd)",
+            "text": "Date: November 22, 1999\n
+            Hello there, whoever you may be. This hunk of junk turns out to have been upgraded in the past, 
+            which is a surprise to me given that these ships and their equipment are meant to be brand new, though dated. But the way this one looks, I bet they just took this thing from some random old ship. 
+            Its crew must have had someone good with computers, thus the log feature that I am using right now!\n\n
+            Yet there are no logs left. Must have been whiped. 
+            Either way, I shall use this to write about my experiences here, may they help someone.",
+            "moon": "41 Experimentation",
+            "position": {
+                "X": "-112.00",
+                "Y": "3.00",
+                "Z": "-14.70"
+            },
+            "rotation": {
+                "X": "360.00",
+                "Y": "315.00",
+                "Z": "270.00"
+            }
+        },
+        "1": {
+            "name": "A Ghost",
+            "text": "WIP Log for Lethal Rebirth: Do not look at her...",
+            "moon": "41 Experimentation",
+            "position": {
+                "X": "-132.00",
+                "Y": "25.40",
+                "Z": "-51.70"
+            },
+            "rotation": {
+                "X": "360.00",
+                "Y": "315.00",
+                "Z": "270.00"
+            }
+        },
+        "2": {
+            "name": "Worthwhile",
+            "text": "WIP Log for Lethal Rebirth: Equipment within the Lethal Rebirth Program is much more worthwhile.",
+            "moon": "220 Assurance",
+            "position": {
+                "X": "-132.00",
+                "Y": "25.40",
+                "Z": "-51.70"
+            },
+            "rotation": {
+                "X": "360.00",
+                "Y": "315.00",
+                "Z": "270.00"
+            }
+        },
+        "3": {
+            "name": "Upgrades.",
+            "text": "WIP Log for Lethal Rebirth: Terminal has been upgraded.",
+            "moon": "56 Vow",
+            "position": {
+                "X": "-132.00",
+                "Y": "25.40",
+                "Z": "-51.70"
+            },
+            "rotation": {
+                "X": "360.00",
+                "Y": "315.00",
+                "Z": "270.00"
+            }
+        }
+    }
+}
