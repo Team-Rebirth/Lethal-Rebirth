@@ -116,10 +116,10 @@ Here an overview over our future plans and priorities. **Everything on here is n
 - [X] LGU Pricing & Upgrade distribution Overhaul
 - [X] LunarConfigMoons: Vanilla-like Interior Weights
 - [X] LoadingTips for most mods.
+- [X] Better Solo Balancing
 - [ ] BetterFog Enhancement: Custom presets for Embrion & Eclipsed Artifice + Fix for combined foggy weathers
 - [ ] LunarConfig: Implement [ButteRyBalance](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/)'s changes for moon balancing & enemy weights manually & tweak it.
 - [ ] Weather Overhaul with [Combined Weathers Toolkit](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/) & [LethalElementsTheta](https://thunderstore.io/c/lethal-company/p/pacoito/LethalElementsTheta/) + [Weather_Probe](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Weather_Probe/)
-- [ ] (Attempted) Solo Balancing
 - [ ] Custom Logs (Lore, Info, Modpack Intro)
 - [ ] Skin Registry integration & configuration
 - [ ] Wesley's Moons Compatibility per Configuration
