@@ -14,7 +14,7 @@ BunyaPineTree-ModelReplacementAPI@2.4.19
 ButteryStancakes-AccurateStaminaDisplay@2.2.1
 ButteryStancakes-BarberFixes@1.3.0
 ButteryStancakes-ButteRyBalance@0.3.1
-ButteryStancakes-ButteryFixes@1.15.5
+ButteryStancakes-ButteryFixes@1.15.6
 ButteryStancakes-Chameleon@2.2.1
 ButteryStancakes-ClassicSuitRestoration@2.1.3
 ButteryStancakes-EnemySoundFixes@1.8.5
