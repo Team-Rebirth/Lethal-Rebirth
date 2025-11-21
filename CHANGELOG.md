@@ -22,10 +22,10 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ### Added [v2.3.0]
 
-- [SafeSoloScrap](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/SafeSoloScrap/): Safes all the scrap from the days before you died when you are playing solo. 
-- [AnnounceMoonAndWeatherChange](https://thunderstore.io/c/lethal-company/p/TestAccount666/AnnounceMoonAndWeatherChange/): Announces when routing to another moon.
-- [BetterPaycheck](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterPaycheck/): Improves the paycheck's format and readability.
-- [Interior_Title_Cards](https://thunderstore.io/c/lethal-company/p/lethal_coder/Interior_Title_Cards/): When entering the interior you shall be greeted with its name.
+- [SafeSoloScrap by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/SafeSoloScrap/): Safes all the scrap from the days before you died when you are playing solo. 
+- [AnnounceMoonAndWeatherChange by TestAccount666](https://thunderstore.io/c/lethal-company/p/TestAccount666/AnnounceMoonAndWeatherChange/): Announces when routing to another moon.
+- [BetterPaycheck by Swaggies](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterPaycheck/): Improves the paycheck's format and readability.
+- [Interior_Title_Cards by lethal_coder](https://thunderstore.io/c/lethal-company/p/lethal_coder/Interior_Title_Cards/): When entering the interior you shall be greeted with its name.
 
 ### Changed [v2.3.0]
 
