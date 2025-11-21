@@ -42,6 +42,7 @@
 !config/com.elitemastereric.coroner.cfg
 !config/com.fumiko.CullFactory.cfg
 !config/com.github.CharlesE2.HostFixes.cfg
+!config/com.github.interiortitlecards.cfg
 !config/com.github.lethalcompanymodding.runtimeicons.cfg
 !config/com.github.WhiteSpike.DivingKit.cfg
 !config/com.github.WhiteSpike.ExtendDeadline.cfg
@@ -113,6 +114,7 @@
 !config/Swaggies.NaturalHealthRegen.cfg
 !config/taffyko.NameplateTweaks.cfg
 !config/TerminalFormatter.cfg
+!config/TestAccount666.AnnounceMoonAndWeatherChange.cfg
 !config/TestAccount666.DoorBreach.cfg
 !config/TestAccount666.LooseJesterSpring.cfg
 !config/TestAccount666.PoisonPuffer.cfg
