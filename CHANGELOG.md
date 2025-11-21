@@ -18,6 +18,23 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 - Updated Dependencies.
 
+## [v2.3.0] - 2025-11-21 | Solo Balance & Info (v73)
+
+### Added [v2.3.0]
+
+- [SafeSoloScrap](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/SafeSoloScrap/): Safes all the scrap from the days before you died when you are playing solo. 
+- [AnnounceMoonAndWeatherChange](https://thunderstore.io/c/lethal-company/p/TestAccount666/AnnounceMoonAndWeatherChange/): Announces when routing to another moon.
+- [BetterPaycheck](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterPaycheck/): Improves the paycheck's format and readability.
+- [Interior_Title_Cards](https://thunderstore.io/c/lethal-company/p/lethal_coder/Interior_Title_Cards/): When entering the interior you shall be greeted with its name.
+
+### Changed [v2.3.0]
+
+- LGU (moreshipupgrades.cfg): Increased price for Scrap Keeper, temporarily deactivated lightning rod as distance config does not work.
+
+### Noted [v2.3.0]
+
+- Updated Dependencies.
+
 ## [v2.2.1] - 2025-11-21 | Loading Tips (v73)
 
 ### Changed [v2.2.1]
