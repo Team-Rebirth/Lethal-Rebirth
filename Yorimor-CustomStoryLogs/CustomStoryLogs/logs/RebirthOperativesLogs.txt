@@ -5,12 +5,7 @@
     "logs": {
         "0": {
             "name": "Operation Rebirth (Type Sigurd)",
-            "text": "Date: November 22, 1999\n
-            Hello there, whoever you may be. This hunk of junk turns out to have been upgraded in the past, 
-            which is a surprise to me given that these ships and their equipment are meant to be brand new, though dated. But the way this one looks, I bet they just took this thing from some random old ship. 
-            Its crew must have had someone good with computers, thus the log feature that I am using right now!\n\n
-            Yet there are no logs left. Must have been whiped. 
-            Either way, I shall use this to write about my experiences here, may they help someone.",
+            "text": "Date: November 22, 1999\nHello there, whoever you may be. This hunk of junk turns out to have been upgraded in the past, which is a surprise to me given that these ships and their equipment are meant to be brand new, though dated. But the way this one looks, I bet they just took this thing from some random old ship. Its crew must have had someone good with computers, thus the log feature that I am using right now!\n\nYet there are no logs left. Must have been whiped. Either way, I shall use this to write about my experiences here, may they help someone.",
             "moon": "41 Experimentation",
             "position": {
                 "X": "-112.00",
