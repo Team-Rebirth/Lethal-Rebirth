@@ -14,6 +14,10 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ## [unreleased/v2.?.?] - 2025-??-?? | ??? (v73)
 
+### Changed [unreleased]
+
+- LoadingTips: Added many more, refined some, added category marking tips.
+
 ### Noted [unreleased]
 
 - Updated Dependencies.
