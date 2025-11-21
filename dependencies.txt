@@ -38,7 +38,7 @@ chuxiaaaa-LethalError@1.0.3
 chuxiaaaa-LoadingInfo@1.0.9
 coderCleric-Poltergeist@1.2.8
 companyemployee-EquipmentCompany@1.3.0
-Crafty-LunarConfig@0.1.12
+Crafty-LunarConfig@0.1.13
 crump_laude-VisorColorsCosmetics@1.0.0
 DaanSmoki-ReviveDesyncPatch@1.0.0
 Darkbrewery-Emblem@1.6.4
