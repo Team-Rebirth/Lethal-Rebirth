@@ -14,15 +14,22 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ## [unreleased/v2.?.?] - 2025-??-?? | ??? (v73)
 
-### Added [unreleased]
-
-- [CustomStoryLogs by Yorimor](https://thunderstore.io/c/lethal-company/p/Yorimor/CustomStoryLogs/): Adds a few Lethal Rebirth-based logs to find. *Mod itself will be added later once the logs are done*
-
-### Changed [unreleased]
-
-- SciencebirdTweaks: Activated sun always casts shadows from newest version.
-
 ### Noted [unreleased]
+
+- Updated Dependencies.
+
+## [v2.3.1] - 2025-11-22 | Spike Trap Improvements (v73)
+
+### Added [v2.3.1]
+
+- [CustomStoryLogs by Yorimor](https://thunderstore.io/c/lethal-company/p/Yorimor/CustomStoryLogs/): ONLY ADDED LOGS SO FAR, *mod itself will be added later once the logs are done*; Adds a few Lethal Rebirth-based logs to find.
+- [SpikeTrapFixers by SpookyBuddy](https://thunderstore.io/c/lethal-company/p/SpookyBuddy/SpikeTrapFixes/): Increases the minimun intervall and decreases the max intervall of spiketrap and adds a scan node. Re-added thanks to SBT having been updated to be compatible.
+
+### Changed [v2.3.1]
+
+- ScienceBird_Tweaks: Activated sun always casts shadows from newest version.
+
+### Noted [v2.3.1]
 
 - Updated Dependencies.
 
