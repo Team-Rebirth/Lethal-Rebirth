@@ -116,7 +116,7 @@ Lunxara-Lunxaras_Addons@5.0.6
 Lunxara-Lunxaras_Menu_Theme@3.0.6
 Magic_Wesley-Wesleys_Ememy_Variants@1.2.1
 Magic_Wesley-Wesleys_Weathers@1.2.7
-Magic_Wesley-WesleysInteriors@4.1.8
+Magic_Wesley-WesleysInteriors@4.1.9
 malco-Lategame_Upgrades@3.12.8
 Mattomo-WaluigiSuitLite@1.0.0
 mattymatty-AsyncLoggers@2.2.3
