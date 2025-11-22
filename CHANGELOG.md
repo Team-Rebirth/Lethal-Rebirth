@@ -18,6 +18,17 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 - Updated Dependencies.
 
+## [unreleased/v2.3.2] - 2025-11-22 | Hotfixes (v73)
+
+### Changes [v2.3.2]
+
+- Interior Title Cards: Minor adjustments like text color.
+- LethalHUD: Total value display position correction.
+
+### Noted [v2.3.2]
+
+- Updated Dependencies.
+
 ## [v2.3.1] - 2025-11-22 | Spike Trap Improvements (v73)
 
 ### Added [v2.3.1]
