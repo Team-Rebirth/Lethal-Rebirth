@@ -168,7 +168,7 @@ Rune580-LethalCompany_InputUtils@0.7.12
 s1ckboy-LethalHUD@1.3.5
 ScienceBird-MoreCupboards@1.4.0
 ScienceBird-Polished_Plushies_and_Silly_Scrap@1.0.4
-ScienceBird-ScienceBird_Tweaks@4.4.10
+ScienceBird-ScienceBird_Tweaks@4.5.0
 ScienceBird-Universal_Radar@1.2.3
 Scintesto-Monster_Plushies@1.2.9
 Scintesto-Scavenger_Plushie@1.0.9
