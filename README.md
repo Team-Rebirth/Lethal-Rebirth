@@ -117,7 +117,6 @@ Here an overview over our future plans and priorities. **Everything on here is n
 - [X] LunarConfigMoons: Vanilla-like Interior Weights
 - [X] LoadingTips for most mods.
 - [X] Better Solo Balancing
-- [ ] BetterFog Enhancement: Custom presets for Embrion & Eclipsed Artifice + Fix for combined foggy weathers
 - [ ] LunarConfig: Implement [ButteRyBalance](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/)'s changes for moon balancing & enemy weights manually & tweak it.
 - [ ] Weather Overhaul with [Combined Weathers Toolkit](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/) & [LethalElementsTheta](https://thunderstore.io/c/lethal-company/p/pacoito/LethalElementsTheta/) + [Weather_Probe](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Weather_Probe/)
 - [ ] Custom Logs (Lore, Info, Modpack Intro)
@@ -128,6 +127,7 @@ Here an overview over our future plans and priorities. **Everything on here is n
 
 Everything in this category especially is less set in stone.
 
+- [ ] BetterFog Enhancement: Custom presets for Embrion & Eclipsed Artifice + Fix for combined foggy weathers - *Already implemented, dependent on betterfog patch to work*
 - [ ] More Vanilla-like Interior Mods (Maybe Castellum Carnis, PlayZone, [Cabin](https://thunderstore.io/c/lethal-company/p/Sniper1_1/CabIn/), and/or Sector0(Beta)?)
 - [ ] More Vanilla-like Moon Mods (Maybe Tunere, Oxyde, Lua, Seichi, and/or Wither?)
 - [ ] Mirage Spawn Chance overhaul: Currently every moon has the same spawn chances for Mirages. In the future, they should become very rare on Experimentation, Assurance, and Vow, stay about as common on the 2nd Tier, and become more common above it.
