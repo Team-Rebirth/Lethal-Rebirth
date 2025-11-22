@@ -16,7 +16,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ### Added [unreleased]
 
-- [CustomStoryLogs](https://thunderstore.io/c/lethal-company/p/Yorimor/CustomStoryLogs/): Adds a few Lethal Rebirth-based logs to find.
+- [CustomStoryLogs by Yorimor](https://thunderstore.io/c/lethal-company/p/Yorimor/CustomStoryLogs/): Adds a few Lethal Rebirth-based logs to find.
 
 ### Noted [unreleased]
 
