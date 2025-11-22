@@ -14,6 +14,10 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ## [unreleased/v2.?.?] - 2025-??-?? | ??? (v73)
 
+### Added [unreleased]
+
+- [CustomStoryLogs](https://thunderstore.io/c/lethal-company/p/Yorimor/CustomStoryLogs/): Adds a few Lethal Rebirth-based logs to find.
+
 ### Noted [unreleased]
 
 - Updated Dependencies.
