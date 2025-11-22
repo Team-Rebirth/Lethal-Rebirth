@@ -114,7 +114,7 @@ lukeprime-DissonanceVoiceSettings@1.0.1
 Lunxara-BetterLaddersFixed@2.1.0
 Lunxara-Lunxaras_Addons@5.0.6
 Lunxara-Lunxaras_Menu_Theme@3.0.6
-Magic_Wesley-Wesleys_Ememy_Variants@1.2.0
+Magic_Wesley-Wesleys_Ememy_Variants@1.2.1
 Magic_Wesley-Wesleys_Weathers@1.2.7
 Magic_Wesley-WesleysInteriors@4.1.7
 malco-Lategame_Upgrades@3.12.8
@@ -162,7 +162,7 @@ qwbarch-Concentus@2.3.0
 qwbarch-Mirage@1.28.0
 qwbarch-MirageCore@1.0.4
 qwbarch-OpusDotNet@1.0.30
-rectorado-FontUpdate@0.8.1
+rectorado-FontUpdate@0.8.2
 Rminin-FinallyCorrectKeys@1.6.0
 Rune580-LethalCompany_InputUtils@0.7.12
 s1ckboy-LethalHUD@1.3.5
