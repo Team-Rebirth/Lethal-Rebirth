@@ -16,7 +16,11 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ### Added [unreleased]
 
-- [CustomStoryLogs by Yorimor](https://thunderstore.io/c/lethal-company/p/Yorimor/CustomStoryLogs/): Adds a few Lethal Rebirth-based logs to find.
+- [CustomStoryLogs by Yorimor](https://thunderstore.io/c/lethal-company/p/Yorimor/CustomStoryLogs/): Adds a few Lethal Rebirth-based logs to find. *Mod itself will be added later once the logs are done*
+
+### Changed [unreleased]
+
+- SciencebirdTweaks: Activated sun always casts shadows from newest version.
 
 ### Noted [unreleased]
 
