@@ -17,6 +17,21 @@
                 "Y": "315.00",
                 "Z": "270.00"
             }
+        },
+        "1": {
+            "name": "Detection Trap",
+            "text": "WIP Log for Lethal Rebirth: To evade the detection spike trap mind the thin string going from the light to the ground and jump over it.",
+            "moon": "71 Gordion",
+            "position": {
+                "X": "-22.30",
+                "Y": "-2.60",
+                "Z": "-37.30"
+            },
+            "rotation": {
+                "X": "360.00",
+                "Y": "315.00",
+                "Z": "270.00"
+            }
         }
     }
 }

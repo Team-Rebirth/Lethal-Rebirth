@@ -181,6 +181,7 @@ slayer6409-NightOfTheLivingMimic@1.1.29
 Smxrez-SimpleCompany@1.0.0
 Sniper1_1-WaterAssetRestorer@1.0.2
 SpookyBuddy-EasterEggFixes@2.0.1
+SpookyBuddy-SpikeTrapFixes@1.2.0
 Swaggies-BetterEXP@2.6.2
 Swaggies-BetterPaycheck@0.9.0
 Swaggies-NaturalHealthRegen@0.1.2
