@@ -28,6 +28,8 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 ### Changed [v2.3.1]
 
 - ScienceBird_Tweaks: Activated sun always casts shadows from newest version.
+- BetterFog: Added Eclipsed presets for Experimentation & Artifice.
+- FairAI: Accounted for more of Wesley's Ememies
 
 ### Noted [v2.3.1]
 
