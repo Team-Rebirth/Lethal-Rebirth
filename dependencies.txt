@@ -26,7 +26,7 @@ ButteryStancakes-MaskFixes@1.5.2
 ButteryStancakes-MeleeFixes@1.4.1
 ButteryStancakes-SafeSoloScrap@2.0.1
 ButteryStancakes-RadioBabyFace@1.0.1
-ButteryStancakes-RestoreMapper@1.3.1
+ButteryStancakes-RestoreMapper@1.3.2
 ButteryStancakes-RevisitStingers@1.3.0
 ButteryStancakes-SnowyHolidayDropship@1.1.4
 ButteryStancakes-UpturnedVariety@2.1.0
@@ -112,11 +112,11 @@ loaforc-loaforcsSoundAPI@2.0.8
 Lordfirespeed-OdinSerializer-2024.2.2700
 lukeprime-DissonanceVoiceSettings@1.0.1
 Lunxara-BetterLaddersFixed@2.1.0
-Lunxara-Lunxaras_Addons@5.0.5
+Lunxara-Lunxaras_Addons@5.0.6
 Lunxara-Lunxaras_Menu_Theme@3.0.6
 Magic_Wesley-Wesleys_Ememy_Variants@1.2.0
 Magic_Wesley-Wesleys_Weathers@1.2.7
-Magic_Wesley-WesleysInteriors@4.1.6
+Magic_Wesley-WesleysInteriors@4.1.7
 malco-Lategame_Upgrades@3.12.8
 Mattomo-WaluigiSuitLite@1.0.0
 mattymatty-AsyncLoggers@2.2.3
