@@ -17,15 +17,17 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 ### Added [unreleased]
 
 - [Combined_Weathers_Toolkit by Zigzag](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/): Used to alter weather combination names.
+- [Dusted by ZetaArcade](https://thunderstore.io/c/lethal-company/p/ZetaArcade/Dusted/): Properly implements the DustClouds weather (vanilla) which makes fog behave as seen on Experimentation, Artifice, and the snowy moons.
 
 ### Changed [unreleased]
 
 - LoadingScreen: Now uses the Lethal Rebirth Icon properly.
-- WeatherRegistry: Now has all the correct values for multipliers and weights as described in [the wiki](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Weather-Registry-&-Tweaks). Disabled weathers should not be able to appear at all as well anymore.
+- WeatherRegistry: Now has all the correct values for multipliers and weights as described in [the wiki](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Conditions-(Weathers)). Disabled weathers should not be able to appear at all as well anymore.
 
 ### Noted [unreleased]
 
 - Updated Dependencies.
+- Updated the [Conditions (Weathers) Wiki page](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Conditions-(Weathers)).
 
 ## [v2.3.2] - 2025-11-23 | Hotfixes (v73)
 
