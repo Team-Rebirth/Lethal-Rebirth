@@ -17,7 +17,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 ### Added [unreleased]
 
 - [Combined_Weathers_Toolkit by Zigzag](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/): Used to alter weather combination names.
-- [Dusted by ZetaArcade](https://thunderstore.io/c/lethal-company/p/ZetaArcade/Dusted/): Properly implements the DustClouds weather (vanilla) which makes fog behave as seen on Experimentation, Artifice, and the snowy moons.
+- [Dusted by ZetaArcade](https://thunderstore.io/c/lethal-company/p/ZetaArcade/Dusted/): Properly implements the DustClouds weather (vanilla) which makes fog behave as seen on Experimentation, Artifice, and the snowy moons. (Weather condition unused currently)
 
 ### Changed [unreleased]
 
