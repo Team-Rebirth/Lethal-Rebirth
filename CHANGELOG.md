@@ -42,7 +42,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 ### Noted [v2.3.3]
 
 - Updated Dependencies.
-- Updated the [Conditions (Weathers) Wiki page](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Conditions-(Weathers)).
+- Updated & reworked the [Conditions (Weathers) Wiki page](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Conditions-(Weathers)).
 
 ## [v2.3.2] - 2025-11-23 | Hotfixes (v73)
 
