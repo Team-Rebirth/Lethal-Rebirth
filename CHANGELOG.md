@@ -18,7 +18,8 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 ### Changed [unreleased]
 
-- LoadingScreen: Now uses the Lethal Rebirth Icon properly.
+- LoadingScreen: Now uses the Lethal Rebirth Icon properly. (WIP)
+- CustomStoryLogs: Logs are properly placed in plugin folder. (WIP, mod will be implemented once logs are done)
 - LunarConfigMoons: The (Atlantean) Citadel Interior's weights work now (input only `Citadel` instead of `Atlantean Citadel` in the weights on accident).
 
 ### Noted [unreleased]
