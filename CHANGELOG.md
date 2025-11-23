@@ -14,11 +14,15 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ## [unreleased/v2.?.?] - 2025-??-?? | ??? (v73)
 
+### Changed [unreleased]
+
+- LoadingScreen: Now uses the Lethal Rebirth Icon properly.
+
 ### Noted [unreleased]
 
 - Updated Dependencies.
 
-## [unreleased/v2.3.2] - 2025-11-22 | Hotfixes (v73)
+## [v2.3.2] - 2025-11-22 | Hotfixes (v73)
 
 ### Changes [v2.3.2]
 
