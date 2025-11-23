@@ -12,23 +12,34 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 > PATCH version when you make backward compatible bug fixes.
 > Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
+
 ## [unreleased/v2.?.?] - 2025-??-?? | ??? (v73)
-
-### Added [unreleased]
-
-- [Combined_Weathers_Toolkit by Zigzag](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/): Used to alter weather combination names.
-- [Dusted by ZetaArcade](https://thunderstore.io/c/lethal-company/p/ZetaArcade/Dusted/): Properly implements the DustClouds weather (vanilla) which makes fog behave as seen on Experimentation, Artifice, and the snowy moons. (Weather condition unused currently)
 
 ### Changed [unreleased]
 
 - LoadingScreen: Now uses the Lethal Rebirth Icon properly.
-- WeatherRegistry: Now has all the correct values for multipliers and weights as described in [the wiki](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Conditions-(Weathers)). Disabled weathers should not be able to appear at all as well anymore. All weathers clear on first day too now.
+
+### Noted [unreleased]
+
+- Updated Dependencies.
+
+## [v2.3.3] - 2025-11-23 | Weather Fixes (v73)
+
+### Added [v2.3.3]
+
+- [Combined_Weathers_Toolkit by Zigzag](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/): Used to alter weather combination names and add/change combination.
+- [Dusted by ZetaArcade](https://thunderstore.io/c/lethal-company/p/ZetaArcade/Dusted/): Properly implements the DustClouds weather (vanilla) which makes fog behave as seen on Experimentation, Artifice, and the snowy moons. (Weather condition unused currently)
+
+### Changed [v2.3.3]
+
+- WeatherRegistry: Now has all the correct values for multipliers and weights as described in [the wiki](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Conditions-(Weathers)). Disabled weathers should not be able to appear at all as well anymore. All moons are clear on first day too now.
 - LethalHUD: Fixed total value position.
 - Interior Title Cards: Minor adjustments to interior name display delay.
 - ScienceBird_Tweaks: Disabled DustCloud rework configs.
 - WeatherTweaks: Disabled vanilla algorithm for first day.
+- BetterFog: Adapted to work with combined weathers featuring foggy through the adapted names.
 
-### Noted [unreleased]
+### Noted [v2.3.3]
 
 - Updated Dependencies.
 - Updated the [Conditions (Weathers) Wiki page](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Conditions-(Weathers)).
@@ -65,7 +76,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ### Added [v2.3.0]
 
-- [SafeSoloScrap by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/SafeSoloScrap/): Safes all the scrap from the days before you died when you are playing solo. 
+- [SafeSoloScrap by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/SafeSoloScrap/): Safes all the scrap from the days before you died when you are playing solo.
 - [AnnounceMoonAndWeatherChange by TestAccount666](https://thunderstore.io/c/lethal-company/p/TestAccount666/AnnounceMoonAndWeatherChange/): Announces when routing to another moon.
 - [BetterPaycheck by Swaggies](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterPaycheck/): Improves the paycheck's format and readability.
 - [Interior_Title_Cards by lethal_coder](https://thunderstore.io/c/lethal-company/p/lethal_coder/Interior_Title_Cards/): When entering the interior you shall be greeted with its name.
@@ -110,7 +121,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 ### Noted [v.2.2.0]
 
 - Updated Dependencies.
-- Some of the new mod additions have been inspired by [Testudination](https://thunderstore.io/c/lethal-company/p/ZetaArcade/Testudination/). 
+- Some of the new mod additions have been inspired by [Testudination](https://thunderstore.io/c/lethal-company/p/ZetaArcade/Testudination/).
   - That excellent modpack exists thanks to Zeta (ZetaArcade) & their community and [also features a (WIP) wiki](https://github.com/Zeta-Arcade/ZetasPack/wiki)!
 
 ## [v2.1.2] - 2025-11-19 | Hotfix (v73)
