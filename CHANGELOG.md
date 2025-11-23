@@ -14,9 +14,14 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 
 ## [unreleased/v2.?.?] - 2025-??-?? | ??? (v73)
 
+### Added [unreleased]
+
+- [Combined_Weathers_Toolkit by Zigzag](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/): Used to alter weather combination names.
+
 ### Changed [unreleased]
 
 - LoadingScreen: Now uses the Lethal Rebirth Icon properly.
+- WeatherRegistry: Now has all the correct values for multipliers and weights as described in [the wiki](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Weather-Registry-&-Tweaks). Disabled weathers should not be able to appear at all as well anymore.
 
 ### Noted [unreleased]
 
