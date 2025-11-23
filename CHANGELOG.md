@@ -18,6 +18,7 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 ### Changed [unreleased]
 
 - LoadingScreen: Now uses the Lethal Rebirth Icon properly.
+- LunarConfigMoons: The (Atlantean) Citadel Interior's weights work now (input only `Citadel` instead of `Atlantean Citadel` in the weights on accident).
 
 ### Noted [unreleased]
 
