@@ -22,7 +22,11 @@ We adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
 ### Changed [unreleased]
 
 - LoadingScreen: Now uses the Lethal Rebirth Icon properly.
-- WeatherRegistry: Now has all the correct values for multipliers and weights as described in [the wiki](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Conditions-(Weathers)). Disabled weathers should not be able to appear at all as well anymore.
+- WeatherRegistry: Now has all the correct values for multipliers and weights as described in [the wiki](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Conditions-(Weathers)). Disabled weathers should not be able to appear at all as well anymore. All weathers clear on first day too now.
+- LethalHUD: Fixed total value position.
+- Interior Title Cards: Minor adjustments to interior name display delay.
+- ScienceBird_Tweaks: Disabled DustCloud rework configs.
+- WeatherTweaks: Disabled vanilla algorithm for first day.
 
 ### Noted [unreleased]
 
