@@ -5,7 +5,7 @@ Every change to the modpack itself will be noted in this file.
 The format of the changelog is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 We adhere to a slightly altered version of [Semantic Versioning](https://semver.org/spec/v2.0.0.html):
-> Given a version number MAJOR.MINOR.PATCH, increment the:
+> Given a version number MAJOR.MINOR.PATCH, we increment the:
 >
 > - MAJOR version when we make changes that disrupt backwards compatibility.
 > - MINOR version when we add functionality and extend the experience in a backward compatible manner.
