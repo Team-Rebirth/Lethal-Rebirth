@@ -127,7 +127,7 @@ Here an overview over our future plans and priorities. **Everything on here is n
 
 Everything in this category especially is less set in stone.
 
-- [ ] BetterFog Enhancement: Custom presets for Embrion & Eclipsed Artifice + Fix for combined foggy weathers - *Already implemented, dependent on betterfog patch to work*
+- [X] BetterFog Enhancement: Custom presets for Embrion & Eclipsed Artifice - *Already implemented, dependent on betterfog patch to work*
 - [ ] More Vanilla-like Interior Mods (Maybe Castellum Carnis, PlayZone, [Cabin](https://thunderstore.io/c/lethal-company/p/Sniper1_1/CabIn/), and/or Sector0(Beta)?)
 - [ ] More Vanilla-like Moon Mods (Maybe Tunere, Oxyde, Lua, Seichi, and/or Wither?)
 - [ ] Mirage Spawn Chance overhaul: Currently every moon has the same spawn chances for Mirages. In the future, they should become very rare on Experimentation, Assurance, and Vow, stay about as common on the 2nd Tier, and become more common above it.
