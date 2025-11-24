@@ -112,7 +112,7 @@ loaforc-loaforcsSoundAPI@2.0.8
 Lordfirespeed-OdinSerializer-2024.2.2700
 lukeprime-DissonanceVoiceSettings@1.0.1
 Lunxara-BetterLaddersFixed@2.1.0
-Lunxara-Lunxaras_Addons@5.0.6
+Lunxara-Lunxaras_Addons@6.0.0
 Lunxara-Lunxaras_Menu_Theme@3.0.6
 Magic_Wesley-Wesleys_Ememy_Variants@1.2.1
 Magic_Wesley-Wesleys_Weathers@1.2.8
