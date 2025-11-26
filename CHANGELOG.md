@@ -21,6 +21,10 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 - LoadingScreen: Now uses the Lethal Rebirth Icon properly. (WIP)
 - CustomStoryLogs: Logs are properly placed in plugin folder. (WIP, mod will be implemented once logs are done)
 
+### Removed [unreleased]
+
+- Mimics + CoronerMimics: Do not aid the gameplay in anyway and make fire exits unreasonably dangerous. No reason to be here.
+
 ### Noted [unreleased]
 
 - Updated Dependencies.
