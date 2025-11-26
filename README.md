@@ -29,6 +29,7 @@ The concept of Lethal Rebirth is simple: optimize some of the game's mechanics, 
   - **Latejoin**: Per `Lobby open` you can re-open the lobby in orbit and allow players to late join!
 - **Rebalanced Moons**: Existing moons have been adjusted in terms of scrap yield, enemy presence, and much more. Additional fire exits, better access to different locations, and cruiser friendliness are also included.
 - **New Interiors**: Various interiors (including the Backrooms), Wesley's Interiors, the Lethal Office (inspired by [The Upturned](https://store.steampowered.com/app/1717770/The_Upturned/)), Deepcore Mines & some vanilla-style interiors are accessible.
+  - **Expanded Interiors**: The Facility and Mineshaft interiors have been **replaced** by Wesley's expanded variants, featuring new rooms that expand the experience in an immersive way. There is also a Manor alternative.
 - **Better Immersion**: Cave variants & new fog styles
 - **New enemies**: Two additional threats: The Locker & The Cabinet. *Infestation variants are also present.*
 - **Mirages**: Masked individuals have found ways to imitate both the appearance and voice of an employee. They appear to be rare, but should be approached with caution.
