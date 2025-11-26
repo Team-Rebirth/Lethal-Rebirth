@@ -68,7 +68,6 @@ dopadream-RebalancedMoonsBeta@1.16.0
 dopadream-SnowyWeeds@1.4.1
 dragonmcmx-AudibleHydraulics@1.0.1
 EliteMasterEric-Coroner@2.3.0
-EliteMasterEric-CoronerMimics@1.0.1
 EliteMasterEric-SlimeTamingFix@1.0.2
 Endoxicom-Gradient_Suits@1.2.1
 Enova-LoadingTips@1.1.7
@@ -218,7 +217,6 @@ WhiteSpike-Maneater_Damage_Patch@1.0.1
 WhiteSpike-Shopping_Cart@1.0.2
 WhiteSpike-Wheelbarrow@1.0.3
 willis81808-LethalSettings@1.4.1
-x753-Mimics@2.7.2
 x753-More_Suits@1.5.2
 xilophor-LethalNetworkAPI@3.3.2
 xilophor-StaticNetcodeLib@1.1.1
