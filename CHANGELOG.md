@@ -26,6 +26,16 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
+## [v2.3.4] - 2025-11-26 | Citadel Fix (v73)
+
+### Changed [v2.3.4]
+
+- LunarConfigMoons: The (Atlantean) Citadel Interior's weights work now (input only `Citadel` instead of `Atlantean Citadel` in the weights on accident).
+
+### Noted [v2.3.4]
+
+- Updated Dependencies.
+
 ## [v2.3.3] - 2025-11-23 | Weather Fixes (v73)
 
 ### Added [v2.3.3]
