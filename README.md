@@ -182,3 +182,7 @@ Also consider joining the [Lethal Company Modding Community Server](https://disc
 **Thanks to [ThecheeseXD](https://github.com/thecheesexd) for providing feedback on the Wiki and Mod choice!**
 
 **Thanks to [Jovius](https://github.com/Jovyus), who helped us with the promotional material.**
+
+**Thanks to [Zeta](https://thunderstore.io/c/lethal-company/p/ZetaArcade/?section=modpacks) (aka. ZetaArcade), creator of the [Testudination Modpacks](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Testudination) for providing feedback and inspiring Lethal Rebirth's development.**
+
+**Huge thanks to [Purple](https://thunderstore.io/c/lethal-company/p/purpletheproto/?section=modpacks), creator of the [Arduous Modpacks](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Arduous-Hardships-&-Journeys), for inspiring this modpack, offering feedback on the mods included, and inspiring the direction of Lethal Rebirth.**
