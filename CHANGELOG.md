@@ -21,11 +21,22 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 - LoadingScreen: Now uses the Lethal Rebirth Icon properly. (WIP)
 - CustomStoryLogs: Logs are properly placed in plugin folder. (WIP, mod will be implemented once logs are done)
 
-### Removed [unreleased]
+### Noted [unreleased]
+
+- Updated Dependencies.
+
+## [unreleased/v2.3.5] - 2025-11-?? | ??? (v73)
+
+### Changed [v2.3.5]
+
+- GeneralImprovements: Changed Masked Settings to reflect vanilla more. Set down FPS for ship cams for better perfomance. Replacted TotalDays with CompanyBuyRate monitor. Changed money to always be set to 60c instead of adjusting with player count due to inconsistency in its behavior. Disabled scan player.
+- Poltergeist: Increased costs of spectator interactions to limit interference (but allow *some* mostly helpful behavior with patience and low player count).
+
+### Removed [v2.3.5]
 
 - Mimics + CoronerMimics: Do not aid the gameplay in anyway and make fire exits unreasonably dangerous.
 
-### Noted [unreleased]
+### Noted [v2.3.5]
 
 - Updated Dependencies.
 
