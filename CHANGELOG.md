@@ -27,6 +27,10 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 ## [unreleased/v2.3.5] - 2025-11-?? | ??? (v73)
 
+### Added [v2.3.5]
+
+- [Longer_Day](https://thunderstore.io/c/lethal-company/p/Megalophobia/Longer_Day/): Increases time on moons *slightly*.
+
 ### Changed [v2.3.5]
 
 - GeneralImprovements: Changed Masked Settings to reflect vanilla more. Set down FPS for ship cams for better perfomance. Replacted TotalDays with CompanyBuyRate monitor. Changed money to always be set to 60c instead of adjusting with player count due to inconsistency in its behavior. Disabled scan player.
