@@ -23,7 +23,7 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 ### Removed [unreleased]
 
-- Mimics + CoronerMimics: Do not aid the gameplay in anyway and make fire exits unreasonably dangerous. No reason to be here.
+- Mimics + CoronerMimics: Do not aid the gameplay in anyway and make fire exits unreasonably dangerous.
 
 ### Noted [unreleased]
 
