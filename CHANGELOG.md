@@ -38,13 +38,14 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 - MaskFixes: Enabled random suits.
 - LGU (moreshipupgrades.cfg): Changed Bigger Loungs effect distribution to make it easier to get early. 
 - InteriorTitleCards: Improved Interior Name Overrides and Interior name display delay.
+- ButteryFixes: Golden cups are now named "Golden goblet" and body signal will be lost when bodies are destroyed by the Company Monster or similar.
 
 ### Removed [v2.3.5]
 
 - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) + [CoronerMimics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CoronerMimics/): Discourages use of fire exits with no intriguing counterplay, which does not fit with the intent of this pack. Thus, now a [Recommended Mod](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods) that has a configuration featured that only allows 1 mimic to exist with a chance of 30%.
 - [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/): Goes against the vanilla idea of the Masked and replaces them entirely. Still a very fun and good mod and thus now a [Recommended Mod](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods)
 - [NightOfTheLivingMimic](https://thunderstore.io/c/lethal-company/p/slayer6409/NightOfTheLivingMimic/): Punishes bringing your fallen assets to the shipt due to potential revives. Also entirely senseless without Mirage.
-- [SlimeTamingFix](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/SlimeTamingFix/): Already featured by ButteryFixes.
+- [SlimeTamingFix](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/SlimeTamingFix/): Making slimes tamable per Boombox is already featured by ButteryFixes.
 
 ### Noted [v2.3.5]
 
