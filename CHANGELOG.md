@@ -35,6 +35,7 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 - LethalHUD: Deactivated total.
 - LethalCasino: (STILL NOT INCLUDED, just [Recommended](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods)); Included configuration to reduce abusability of it.
 - EnhancedLockpicker: Increased lockpicking and door jamming time from 7 seconds to 15 seconds.
+- MaskFixes: Enabled random suits.
 
 ### Removed [v2.3.5]
 
