@@ -37,6 +37,7 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 - EnhancedLockpicker: Increased lockpicking and door jamming time from 7 seconds to 15 seconds.
 - MaskFixes: Enabled random suits.
 - LGU (moreshipupgrades.cfg): Changed Bigger Loungs effect distribution to make it easier to get early. 
+- InteriorTitleCards: Improved Interior Name Overrides and Interior name display delay.
 
 ### Removed [v2.3.5]
 
