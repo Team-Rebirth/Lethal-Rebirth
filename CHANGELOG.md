@@ -33,6 +33,7 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 - Poltergeist: Increased costs of spectator interactions to limit interference (but allow *some* mostly helpful behavior with patience and low player count).
 - EntranceTeleportOptimization: Reduced range for outside enemy detection.
 - LethalHUD: Deactivated total.
+- LethalCasino: (STILL NOT INCLUDED, just [Recommended](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods)); Included configuration to reduce abusability of it.
 
 ### Removed [v2.3.5]
 
