@@ -32,6 +32,7 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 - GeneralImprovements: Changed Masked Settings to reflect vanilla more. Set down FPS for ship cams for better perfomance. Replacted TotalDays with CompanyBuyRate monitor. Changed money to always be set to 60c instead of adjusting with player count due to inconsistency in its behavior. Disabled scan player.
 - Poltergeist: Increased costs of spectator interactions to limit interference (but allow *some* mostly helpful behavior with patience and low player count).
 - EntranceTeleportOptimization: Reduced range for outside enemy detection.
+- LethalHUD: Deactivated total.
 
 ### Removed [v2.3.5]
 
