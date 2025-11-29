@@ -73,6 +73,7 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 - ScienceBird_Tweaks: Disabled DustCloud rework configs.
 - WeatherTweaks: Disabled vanilla algorithm for first day.
 - BetterFog: Adapted to work with combined weathers featuring foggy through the adapted names.
+- NaturalHealthRegen: Decreased max health regen, made regeneration in ship better.
 
 ### Noted [v2.3.3]
 
