@@ -40,9 +40,10 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 - LethalCasino: (STILL NOT INCLUDED, just [Recommended](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods)); Included configuration to reduce abusability of it.
 - EnhancedLockpicker: Increased lockpicking and door jamming time from 7 seconds to 15 seconds.
 - MaskFixes: Enabled random suits.
-- LGU (moreshipupgrades.cfg): Changed Bigger Loungs effect distribution to make it easier to get early. 
+- LGU (moreshipupgrades.cfg): Changed Bigger Loungs effect distribution to make it easier to get early. Reduced worth of monster samples.
 - InteriorTitleCards: Improved Interior Name Overrides and Interior name display delay.
 - ButteryFixes: Golden cups are now named "Golden goblet" and body signal will be lost when bodies are destroyed by the Company Monster or similar.
+- WeatherRegistry: Adapted weather multipliers to be less rewarding and more of a minor compensation.
 
 ### Removed [v2.3.5]
 
