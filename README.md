@@ -137,7 +137,6 @@ Everything in this category especially is less set in stone.
 - [ ] Testing - [CodeRebirth by XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/CodeRebirth/): Either integration or compatibility
 - [ ] Testing - [DawnLib by TeamXiaolan](https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/): Integration (+ Company_Globes!)
 - [ ] Testing - [Biodiversity by super_fucking_cool_and_basass_team](https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/): Integration when fitting
-- [ ] Testing - [FacelessStalker by Sparble](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/): Integration when fitting
 - [ ] Testing - [InsanityRemastered by BudgetAirpods](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/): When updated for v73 and deemed fitting
 - [ ] Testing - [MapImprovements by SpookyBuddy](https://thunderstore.io/c/lethal-company/p/SpookyBuddy/MapImprovements/): When compatible with RebalancedMoons or as an alternative.
 - [ ] Testing - [LCGoldScrapMod by SimonTendo](https://thunderstore.io/c/lethal-company/p/SimonTendo/LCGoldScrapMod/): Needs proper adjustment
