@@ -27,6 +27,8 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 ## [v2.4.0] - 2025-11-30 | Vanilla-Adaptation (v73)
 
+The goal of this update was to offer an experience more closely aligned with vanilla while providing some more minor enhancements and moving some mods that do not fit the base vision to be recommended instead.
+
 ### Added [v2.4.0]
 
 - [Longer_Day by Megalophobia](https://thunderstore.io/c/lethal-company/p/Megalophobia/Longer_Day/): Increases time on moons *slightly*.
