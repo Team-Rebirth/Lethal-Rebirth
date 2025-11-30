@@ -1,8 +1,10 @@
-* We added loading tips :3
+﻿## ===== About Lethal Rebirth =====
+We added loading tips :3
 Lethal Rebirth emerged simply to make each time playing LC just a bit better.
 Lethal Rebirth has a Wiki on GitHub! Guides, Challenges, and more are to be found there.
 Team Rebirth welcomes any contributions and feedback.
-* The ship has been arranged with care.
+## ===== Ship =====
+The ship has been arranged with care.
 A door's bell attracts keen ears...
 The monitor's text now automatically scrolls up and down!
 Ever thought the ship was too small? Enjoy this leviathan of a ship!
@@ -20,17 +22,20 @@ The ship provided for Operation Rebirth is cleaned up and up to current standard
 A maximum occupancy of 8 is assumed. Bring more friends along if you want to have more party.
 The ship's floodlight rotates now! Use the button panel to change its speed & behavior.
 The annoying squeaky noice from the ship has been replaced with more pleasant ones :3
-* The Terminal's upgrades exist thanks to the excellent assets Darmuh & Mrov!
+## ===== Terminal =====
+The Terminal's upgrades exist thanks to the excellent assets Darmuh & Mrov!
 Open the "Other" page in the terminal to see new commands!
 You can now type "previous" besides using the arrow keys to navigate in "view monitor"!
 Use the up and down arrows to navigate your command history!
 Type "suits" in the terminal to select a suit. The webcam will show you your style!
 The newly formatted terminal makes sure you can easily find what you need on any given page!
 Radar maps for the monitor and terminal operate independently now!
-* A cruiser a day keeps the doctor away, for the gravedigger will receive their pay.
+## ==== Cruiser =====
+A cruiser a day keeps the doctor away, for the gravedigger will receive their pay.
 You can look over your shoulder when in the cruiser now!
 Maybe play a tune and see what it does...
-* Check out Wesley's Moons if you are in need for more!
+## ===== Moons =====
+Check out Wesley's Moons if you are in need for more!
 Thanks to Atlas the skies are prettier.
 You may notice the fog is a bit more lenient and more atmospheric now ^-^
 The fog is colored now, making every moon just a bit more atmospheric. You might see better too!
@@ -43,14 +48,16 @@ Offense now has a longer route to the fire exit... No extension ladder required.
 Most moons are more cruiser friendly now...
 Notice the water tower on March, maybe you'll find something nearby...
 March's bridge is between Vow's and Admance's in durability...
-* The weather system has been entirely overhauled.
+## ===== Moon Conditions (Weather) =====
+The weather system has been entirely overhauled.
 Cloudy weather tends to show a coming decline...
 It always rains on March, but there are not always mud puddles.
 The entire weather system has been revamped for easier tweaking and better balance!
 "Foggy?" means it most likely is... But not guaranteed...
 [UNKNOWN] is a fun surprise? Come on, live a little!
 Forsaken describes the moon's state pretty well...
-* Lethal Rebirth features a big variety of interiors.
+## ===== Interiors =====
+Lethal Rebirth features a big variety of interiors.
 Manors attract those meant to maintain them...
 The main entrance is now wodden for Manors!
 You may see more different kinds of manor fake-windows.
@@ -74,26 +81,35 @@ The vanilla factory & mineshaft have been replaced with extended variants!
 Mind the pesticides in the greenhouse!
 It slithers in the walls...
 Mind the traps!
-* The Company assures personel that scavenging should come with no danger of relevance.
+## ===== Enemies =====
+The Company assures personel that scavenging should come with no danger of relevance.
 The Forest's Keepers will now loose suspicion the longer it does not see you.
-* Watch your step, always.
-* Quality of Life decreases pain and keeps your strive.
+## ===== Hazards =====
+Watch your step, always.
+## ===== QoL =====
+Quality of Life decreases pain and keeps your strive.
 When oxygen reaches 0 you receive damage until you die. Any damage taken will regenerate once you breathe fresh air again!
 You have quick drop! Upon dropping anything the slot changes to one with something in it. Scrap is always dropped first!
 If you do not want your messages to be read by text-to-speech put a ! before it!
-* For Operation Rebirth, the Company unlocked elite equipment options!
+## ===== Equipment =====
+For Operation Rebirth, the Company unlocked elite equipment options!
 The Zap Gun can now also disable traps and open shelter doors! Be careful with the latter...
-* New treasures can be found!
+## ===== Scraps =====
+New treasures can be found!
 An axe might prove superior to a shovel...
-* Lethal Rebirth: Live your fashion :P
-* You might notice better Performance!
-* Many fixes are included in Lethal Rebirth.
+## ===== Cosmetics =====
+Lethal Rebirth: Live your fashion :P
+## ===== Performance =====
+You might notice better Performance!
+## ===== Fixes =====
+Many fixes are included in Lethal Rebirth.
 The maneater can now be damaged properly using a shotgun!
 Barbers now spawn in groups!
 You won't leave the fire exit the wrong way again...
 Slimes can be tamed using the boombox! Just as vanilla intended.
 The terminal might understand you better now.
-* Got an idea for a loading tip? Let us know!
+## ===== General Tips =====
+Got an idea for a loading tip? Let us know!
 If you are back at the ship, maybe look at the radar to see if your pals are still kickin'...
 If you hear a screeching... Maybe look above and greet it.
 Do not carry metal through the metal detector! One did... let's say, they regretted it...
