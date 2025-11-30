@@ -38,14 +38,14 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 - Poltergeist: Increased costs of spectator interactions to limit interference (but allow *some* mostly helpful behavior with patience and low player count).
 - EntranceTeleportOptimization: Reduced range for outside enemy detection.
 - LethalHUD: Deactivated total.
-- LethalCasino (Not included, [Recommended](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods)): Included configuration to reduce abusability of it.
+- LethalCasino (Mod not included, [Recommended](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods)): Included configuration to reduce abusability of it.
 - EnhancedLockpicker: Increased lockpicking and door jamming time from 7 seconds to 15 seconds.
 - MaskFixes: Enabled random suits.
 - LGU (moreshipupgrades.cfg): Changed Bigger Loungs effect distribution to make it easier to get early. Reduced worth of monster samples.
 - InteriorTitleCards: Improved Interior Name Overrides and Interior name display delay.
 - ButteryFixes: Golden cups are now named "Golden goblet" and body signal will be lost when bodies are destroyed by the Company Monster or similar.
 - WeatherRegistry: Adapted weather multipliers to be less rewarding and more of a minor compensation.
-- TooManyEmotes (Not included, [Recommended](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods)): Unlocks all emotes from the start, makes emote wheel toggle based.
+- TooManyEmotes (Mod not included, [Recommended](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods)): Unlocks all emotes from the start, makes emote wheel toggle based.
 
 ### Removed [v2.3.5]
 
