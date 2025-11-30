@@ -145,6 +145,7 @@ Everything in this category especially is less set in stone.
 - [ ] Testing - [LethalThings by Evaisa](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/): Either integration or compatibility
 - [ ] Testing - [Piggys_Variety_Mod by Piggy](https://thunderstore.io/c/lethal-company/p/Piggy/Piggys_Variety_Mod/): Either integration or compatibility
 - [ ] Testing - [Company Hauler by Glojam](https://thunderstore.io/c/lethal-company/p/Glojam/Company_Hauler/): Integration when compatible with v73, CruiserImproved & LC_VR
+- [ ] Testing - [GhostCodes by darmuh](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/): Integration when compatible with v73
 
 ## Installation
 
