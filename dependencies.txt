@@ -60,7 +60,6 @@ DiFFoZ-HarmonyXTranspilerFix@1.1.0
 DiFFoZ-LethalPerformance@1.2.1
 DiggC-CruiserImproved@1.5.2
 DOkge-InventoryFixPlugin@0.0.1
-dopadream-Atlas@1.0.7
 dopadream-BarberMaterialTweaks@1.1.1
 dopadream-HexiShotgunTweaks@1.0.1
 dopadream-LLLHotreloadPatch@1.0.1
@@ -227,7 +226,6 @@ Zaggy1024-TwoRadarMaps@1.6.4
 zealsprince-Locker@1.6.2
 Zehs-LCBetterSavesFix@1.0.0
 Zehs-MelaniesVoice@1.3.0
-Zehs-TwitchChatAPI@2.0.0
 Zehs-WesleysInteriorsAddon@1.1.0
 Zigzag-Combined_Weathers_Toolkit@1.0.2
 ZetaArcade-Dusted@1.0.1

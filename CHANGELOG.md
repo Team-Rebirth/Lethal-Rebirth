@@ -25,6 +25,21 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
+## [v2.4.1] - 2025-11-30 | Terminal Hotfix (v73)
+
+### Changed [v2.4.1]
+
+- TerminalStuff: Enabled networking, **solving an issue that would make the Terminal uninteractable after a client attempted to use it**.
+
+### Removed [v2.4.1]
+
+- TwitchChatAPI: Unneeded nor required anymore after the removal of NightofTheLivingMimic
+- Atlas
+
+### Noted [v2.4.1]
+
+- Updated Dependencies.
+
 ## [v2.4.0] - 2025-11-30 | Vanilla-Adaptation (v73)
 
 The goal of this update was to offer an experience more closely aligned with vanilla while providing some more minor enhancements and moving some mods that do not fit the base vision to be recommended instead.
