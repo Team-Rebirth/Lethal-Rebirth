@@ -29,7 +29,8 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 ### Added [v2.3.5]
 
-- [Longer_Day](https://thunderstore.io/c/lethal-company/p/Megalophobia/Longer_Day/): Increases time on moons *slightly*.
+- [Longer_Day by Megalophobia](https://thunderstore.io/c/lethal-company/p/Megalophobia/Longer_Day/): Increases time on moons *slightly*.
+- [SpectateDeathCause by ViViKo](https://thunderstore.io/c/lethal-company/p/ViViKo/SpectateDeathCause/): Displays cause of death for your fellow spectators.
 
 ### Changed [v2.3.5]
 
