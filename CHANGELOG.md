@@ -25,7 +25,7 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
-## [unreleased/v2.3.5] - 2025-11-?? | ??? (v73)
+## [unreleased/v2.3.5] - 2025-11-30 | Vanilla-Adaptation (v73)
 
 ### Added [v2.3.5]
 
