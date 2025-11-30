@@ -13,7 +13,6 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 >
 > Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
-
 ## [unreleased/v2.?.?] - 2025-??-?? | ??? (v73)
 
 ### Changed [unreleased]
@@ -25,14 +24,14 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
-## [unreleased/v2.3.5] - 2025-11-30 | Vanilla-Adaptation (v73)
+## [v2.4.0] - 2025-11-30 | Vanilla-Adaptation (v73)
 
-### Added [v2.3.5]
+### Added [v2.4.0]
 
 - [Longer_Day by Megalophobia](https://thunderstore.io/c/lethal-company/p/Megalophobia/Longer_Day/): Increases time on moons *slightly*.
 - [SpectateDeathCause by ViViKo](https://thunderstore.io/c/lethal-company/p/ViViKo/SpectateDeathCause/): Displays cause of death for your fellow spectators.
 
-### Changed [v2.3.5]
+### Changed [v2.4.0]
 
 - GeneralImprovements: Changed Masked Settings to reflect vanilla more. Set down FPS for ship cams for better perfomance. Replacted TotalDays with CompanyBuyRate monitor. Changed money to always be set to 60c instead of adjusting with player count due to inconsistency in its behavior. Disabled scan player.
 - Poltergeist: Increased costs of spectator interactions to limit interference (but allow *some* mostly helpful behavior with patience and low player count).
@@ -47,14 +46,14 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 - WeatherRegistry: Adapted weather multipliers to be less rewarding and more of a minor compensation.
 - TooManyEmotes (Mod not included, [Recommended](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods)): Unlocks all emotes from the start, makes emote wheel toggle based.
 
-### Removed [v2.3.5]
+### Removed [v2.4.0]
 
 - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) + [CoronerMimics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CoronerMimics/): Discourages use of fire exits with no intriguing counterplay, which does not fit with the intent of this pack. Thus, now a [Recommended Mod](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods) that has a configuration featured that only allows 1 mimic to exist with a chance of 30%.
 - [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/): Goes against the vanilla idea of the Masked and replaces them entirely. Still a very fun and good mod and thus now a [Recommended Mod](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Recommended-Mods).
 - [NightOfTheLivingMimic](https://thunderstore.io/c/lethal-company/p/slayer6409/NightOfTheLivingMimic/): Punishes bringing your fallen assets to the shipt due to potential revives. Also entirely senseless without Mirage.
 - [SlimeTamingFix](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/SlimeTamingFix/): Making slimes tamable per Boombox is already featured by ButteryFixes.
 
-### Noted [v2.3.5]
+### Noted [v2.4.0]
 
 - Updated Dependencies.
 

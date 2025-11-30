@@ -52,6 +52,7 @@
 !config/com.malco.lethalcompany.moreshipupgrades.cfg
 !config/com.nozz.lethalmissions.cfg
 !config/com.zealsprince.locker.cfg
+!config/Damir.longerDayMod.cfg
 !config/Darkbrewery.Emblem.cfg
 !config/darmuh.suitsTerminal.cfg
 !config/darmuh.TerminalStuff.cfg
@@ -67,6 +68,7 @@
 !config/FlipMods.HotbarPlus.cfg
 !config/FlipMods.ReservedItemSlotCore.cfg
 !config/FlipMods.ReservedUtilitySlot.cfg
+!config/FlipMods.TooManyEmotes.cfg
 !config/furiante.WeedKillerTweaks.cfg
 !config/GoldenKitten.FairAI.cfg
 !config/HookGenPatcher.cfg
@@ -95,6 +97,7 @@
 !config/MegaPiggy.BuyableShotgunShells.cfg
 !config/Mirage.General.cfg
 !config/Missile.LCEliteFlashlight.cfg
+!config/mrgrm7.LethalCasino.cfg
 !config/MrHydralisk.EnhancedLockpicker.cfg
 !config/MrHydralisk.EnhancedRadarBooster.cfg
 !config/MrHydralisk.MajorityVote.cfg
