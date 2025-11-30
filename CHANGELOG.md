@@ -30,6 +30,7 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 ### Changed [v2.4.1]
 
 - TerminalStuff: Enabled networking, **solving an issue that would make the Terminal uninteractable after a client attempted to use it**.
+- LoadingTips: Better Section Markers that are entirely unnoticed for players.
 
 ### Removed [v2.4.1]
 
