@@ -20,6 +20,8 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 - LoadingScreen: Now uses the Lethal Rebirth Icon properly. (WIP)
 - CustomStoryLogs: Logs are properly placed in plugin folder. (WIP, mod will be implemented once logs are done)
 - LoadingTips: Better sectioning in the loading tips using comments, thanks to Zeta (ZetaArcade) 
+- ButteRyBalance: No longer handles moon outdoor power, moon interior multipliers, scrap spawn weights, and enemy spawn weights.
+- LunarConfigMoons: Now handles moon outdoor power, moon interior multipliers, scrap spawn weights, and enemy spawn weights in favor of a differently, hopefully more vanilla aligned, balance.
 
 ### Noted [unreleased]
 
