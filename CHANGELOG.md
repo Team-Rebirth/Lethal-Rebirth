@@ -22,6 +22,8 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 - LoadingTips: Better sectioning in the loading tips using comments, thanks to Zeta (ZetaArcade) 
 - ButteRyBalance: No longer handles moon outdoor power, moon interior multipliers, scrap spawn weights, and enemy spawn weights.
 - LunarConfigMoons: Now handles moon outdoor power, moon interior multipliers, scrap spawn weights, and enemy spawn weights in favor of a differently, hopefully more vanilla aligned, balance.
+  - Major input for the balance changes and how they are managed are found in [Minaxa's Video](https://youtu.be/QAmIlFehVVA?si=OgYTosJnzVyrVd3T&t=2065) and [ButteRyBalance's Wiki](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/).
+- LunarConfigItems: Doubled scrap value of v73's body part scraps.
 
 ### Noted [unreleased]
 
