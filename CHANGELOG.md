@@ -29,6 +29,18 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
+## [v2.4.2] - 2025-12-07 | Dependency Update + The Drains (v73)
+
+### Changed [v2.4.2]
+
+- Add "The Drains" interior from Generic Interiors to spawn pool for some moons.
+- Adjusted some interior spawn weights to focus on fewer per moon.
+
+### Noted [v2.4.2]
+
+- Updated Dependencies.
+- Hunter Sample removal on lobby reload is fixed now and thus no longer mentioned in README.
+
 ## [v2.4.1] - 2025-11-30 | Terminal Hotfix (v73)
 
 ### Changed [v2.4.1]
