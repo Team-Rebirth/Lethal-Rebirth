@@ -89,9 +89,8 @@ Updating the mods after installing the modpack can cause new issues! Please let 
 
 Issues can easily be reported per [GitHub Issue](https://github.com/Team-Rebirth/Lethal-Rebirth/issues) or in [our Discord Thread on the Official LC Modding Discord Server](https://discord.com/channels/1168655651455639582/1433832543060496404).
 
-- **Monster Samples disappearing on lobby reload**: Might be fixed soon, is an error caused by the v73 update that has yet to be fixed.
 - **Game Crash when hosting after having been a client**: Restart the game whenever you have been a client and want to host a lobby afterwards. Seems to be caused by LLL & LeathalNetworkAPI, will address it sometime.
-- **Betterfog Preset Desync**: Betterfog might use the incorrect preset, which can be noticed by unfittig color or higher fog density than your peers.
+- **Betterfog Preset Desync**: Betterfog might use the incorrect preset (has not occured since v2.1.0), which can be noticed by unfittig color or higher fog density than your peers.
   - **How to deal with it**: Press F1, disable autosync, then revert to vanilla mode or manually select the correct preset. To understand which preset is used when, check out the [BetterFog Configuration Guide](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/BetterFog).
 - **General Desync**: Terminal purchases or similar functions may become unavailable to one or more players.
   - **How to deal with it**: All affected players must exit and rejoin the lobby.
@@ -99,10 +98,10 @@ Issues can easily be reported per [GitHub Issue](https://github.com/Team-Rebirth
   - **How to deal with it**: Disable the mod and restart. As the mod is wholly clientside, it should be save to disable.
 - **Wheelbarrow / Shopping Cart glitch**: You can not place items into it again despite it being empty.
   - **How to deal with it**: Use the `Middle Mouse Button` to wholly empty the wheelbarrow/shopping cart to remove it.
-- **Invisible Maneater**: Sometimes a man eater that ate scrap is invisible before pick up. Cause is unknown (maybe Cullfactory?).
+- **Invisible Maneater**: Sometimes a man eater that ate scrap is invisible before pick up. Cause is unknown.
 - **0 value Anvil**: Sometimes the anvil from Immersive Scrap does not have any value. Cause is unknown.
 - **Airborn Mines/Hazards**: Some hazards, mostly (prison) mines might float above the floor or cliffs. Cause is unknown.
-- **Unable to enter PW for lobby**: Had it occur once that no PW could be entered. Pressing space might have fixed it. Cause is unknown.
+- **Unable to enter PW for lobby**: Had it occur once that no PW could be entered. More Probable on Linux, presumably related to window focus problems.
 
 ### Future Plans
 
@@ -118,7 +117,7 @@ Here an overview over our future plans and priorities. **Everything on here is n
 - [X] LunarConfigMoons: Vanilla-like Interior Weights
 - [X] LoadingTips for most mods.
 - [X] Better Solo Balancing
-- [ ] LunarConfig: Implement [ButteRyBalance](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/)'s changes for moon balancing & enemy weights manually & tweak it.
+- [ ] WIP: LunarConfig: Implement [ButteRyBalance](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/)'s changes for moon balancing & enemy weights manually & tweak it.
 - [ ] Weather Overhaul with [Combined Weathers Toolkit](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/) & [LethalElementsTheta](https://thunderstore.io/c/lethal-company/p/pacoito/LethalElementsTheta/) + [Weather_Probe](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Weather_Probe/)
 - [ ] Custom Logs (Lore, Info, Modpack Intro)
 - [ ] Skin Registry integration & configuration
