@@ -17,13 +17,12 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 ### Changed [unreleased]
 
-- LoadingScreen: Now uses the Lethal Rebirth Icon properly. (WIP)
-- CustomStoryLogs: Logs are properly placed in plugin folder. (WIP, mod will be implemented once logs are done)
-- LoadingTips: Better sectioning in the loading tips using comments, thanks to Zeta (ZetaArcade) 
-- ButteRyBalance: No longer handles moon outdoor power, moon interior multipliers, scrap spawn weights, and enemy spawn weights.
-- LunarConfigMoons: Now handles moon outdoor power, moon interior multipliers, scrap spawn weights, and enemy spawn weights in favor of a differently, hopefully more vanilla aligned, balance.
+- LoadingScreen (WIP): Now uses the Lethal Rebirth Icon properly.
+- CustomStoryLogs (WIP): Logs are properly placed in plugin folder.
+- ButteRyBalance (WIP): No longer handles moon outdoor power, moon interior multipliers, scrap spawn weights, and enemy spawn weights.
+- LunarConfigMoons (WIP): Now handles moon outdoor power, moon interior multipliers, scrap spawn weights, and enemy spawn weights in favor of a differently, hopefully more vanilla aligned, balance.
   - Major input for the balance changes and how they are managed are found in [Minaxa's Video](https://youtu.be/QAmIlFehVVA?si=OgYTosJnzVyrVd3T&t=2065) and [ButteRyBalance's Wiki](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/).
-- LunarConfigItems: Doubled scrap value of v73's body part scraps.
+- LunarConfigItems (WIP): Doubled scrap value of v73's body part scraps as Dine now only spawns half the mass.
 
 ### Noted [unreleased]
 
@@ -33,12 +32,16 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 ### Changed [v2.4.2]
 
-- Add "The Drains" interior from Generic Interiors to spawn pool for some moons.
-- Adjusted some interior spawn weights to focus on fewer per moon.
+- LunarConfigCentral: Disabled all but the Moon config.
+- LunarConfigMoons: Added `Drains` interior from Generic Interiors to spawn pool for some moons.
+- LunarConfigMoons: Adjusted some interior spawn weights to focus on fewer per moon.
+- InteriorTitleCards: Added name override for `Drains`.
 
 ### Noted [v2.4.2]
 
 - Updated Dependencies.
+- [Interior chances in Wiki](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Interiors) have been adjusted for inclusion of Drains.
+- Removed not yet used LunarConfigs and options to reduce files transferred and file size.
 - Hunter Sample removal on lobby reload is fixed now and thus no longer mentioned in README.
 
 ## [v2.4.1] - 2025-11-30 | Terminal Hotfix (v73)
@@ -46,7 +49,7 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 ### Changed [v2.4.1]
 
 - TerminalStuff: Enabled networking, **solving an issue that would make the Terminal uninteractable after a client attempted to use it**.
-- LoadingTips: Better Section Markers that are entirely unnoticed for players.
+- LoadingTips: Better Section Markers that are entirely unnoticed for players, thanks to Zeta (ZetaArcade).
 
 ### Removed [v2.4.1]
 
