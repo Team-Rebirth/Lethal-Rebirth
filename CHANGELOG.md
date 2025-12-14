@@ -30,6 +30,13 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 ## [unreleased/v2.5.0] - 2025-12-?? | ??? (v73)
 
+> DO NOT UPDATE IF YOU ARE NOT READY TO LOOSE SAFE DATA!
+>
+> With this update **DawnLib** is introduced to this modpack, which will bring lots of good, such as a better, faster, and more reliable safe system. This sadly leads to a whipe of existing safes though.
+
+After all this time LunarConfig by Crafty finally made the jump to using DawnLib by TeamXiaolan!
+Have a few minor balance changes and neat additions as well.
+
 ### Added [v2.5.0]
 
 - [Company_Globes by DeviousEquine](https://thunderstore.io/c/lethal-company/p/DeviousEquine/Company_Globes/): Adds collectible, moon-based, globes as scrap.
