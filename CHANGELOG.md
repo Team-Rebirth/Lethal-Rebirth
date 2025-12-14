@@ -28,6 +28,25 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
+## [unreleased/v2.5.0] - 2025-12-?? | ??? (v73)
+
+### Added [v2.5.0]
+
+- [Company_Globes by DeviousEquine](https://thunderstore.io/c/lethal-company/p/DeviousEquine/Company_Globes/): Adds collectible, moon-based, globes as scrap.
+- [Whiteboard by Zehs](https://thunderstore.io/c/lethal-company/p/Zehs/Whiteboard/): Adds a whiteboard as a furniture item.
+- [DawnLib by TeamXiaolan](https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/): The Dawn of Lethal Company modding (Centralized Library for all sorts of things).
+
+### Changed [v2.5.0]
+
+- MoreCupboards: Set price to 0 and allows buying max. 1, which only allows the orange cupboard.
+- FurnitureLock: No longer auto unlocks purple cupboard (as it currently does not work with DawnLib), sets predefined positions for all cupboards. Also added the whiteboard.
+- Lategame Upgrades (moreshipupgrades.cfg): Raised amount of quota credits needed for player credits (PCs); Decreased the amount of player credits that will be received.
+- LunarConfigCentral: Migrated from v0.1 to v0.2 of LunarConfig!
+
+### Noted [v2.5.0]
+
+- Updated Dependencies.
+
 ## [v2.4.2] - 2025-12-07 | Dependency Update + The Drains (v73)
 
 ### Changed [v2.4.2]

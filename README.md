@@ -89,6 +89,8 @@ Updating the mods after installing the modpack can cause new issues! Please let 
 
 Issues can easily be reported per [GitHub Issue](https://github.com/Team-Rebirth/Lethal-Rebirth/issues) or in [our Discord Thread on the Official LC Modding Discord Server](https://discord.com/channels/1168655651455639582/1433832543060496404).
 
+- **Unable to interact, locked on one item in the inventory**: If this occurs, press `,` and it should be fixed.
+- **Unable to interact after using LGU GUI**: If this occurs, open the menu again and close it once more (may need to try a few times) and it should work again. *Maybe avoid using the menu when landed to avoid stressful situations because of it.*
 - **Game Crash when hosting after having been a client**: Restart the game whenever you have been a client and want to host a lobby afterwards. Seems to be caused by LLL & LeathalNetworkAPI, will address it sometime.
 - **Betterfog Preset Desync**: Betterfog might use the incorrect preset (has not occured since v2.1.0), which can be noticed by unfittig color or higher fog density than your peers.
   - **How to deal with it**: Press F1, disable autosync, then revert to vanilla mode or manually select the correct preset. To understand which preset is used when, check out the [BetterFog Configuration Guide](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/BetterFog).
