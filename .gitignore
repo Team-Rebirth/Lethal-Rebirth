@@ -33,6 +33,7 @@
 !config/butterystancakes.lethalcompany.halloweenaction.cfg
 !config/butterystancakes.lethalcompany.halloweenelevator.cfg
 !config/butterystancakes.lethalcompany.jetpackfixes.cfg
+!config/butterystancakes.lethalcompany.keepunlocks.cfg
 !config/butterystancakes.lethalcompany.maskfixes.cfg
 !config/butterystancakes.lethalcompany.snowyholidaydropship.cfg
 !config/butterystancakes.lethalcompany.restoremapper.cfg
@@ -48,6 +49,7 @@
 !config/com.github.WhiteSpike.ExtendDeadline.cfg
 !config/com.github.WhiteSpike.ShoppingCart.cfg
 !config/com.github.WhiteSpike.Wheelbarrow.cfg
+!config/com.github.zehsteam.Whiteboard.cfg
 !config/com.github.zehsteam.KidnapperFoxSettings.cfg
 !config/com.malco.lethalcompany.moreshipupgrades.cfg
 !config/com.nozz.lethalmissions.cfg
@@ -63,6 +65,7 @@
 !config/dopadream.lethalcompany.HexiShotgunTweaks.cfg
 !config/dopadream.lethalcompany.rebalancedmoons.cfg
 !config/e3s1.BetterLadders.cfg
+!config/fandovec03.NaturalSelection.cfg
 !config/fandovec03.SpiderPositionFix.cfg
 !config/FlipMods.FasterItemDropship.cfg
 !config/FlipMods.HotbarPlus.cfg
@@ -93,6 +96,7 @@
 !config/Mirage.General.cfg
 !config/Missile.LCEliteFlashlight.cfg
 !config/mrgrm7.LethalCasino.cfg
+!config/MrHat.NicheTweaks.cfg
 !config/MrHydralisk.EnhancedLockpicker.cfg
 !config/MrHydralisk.EnhancedRadarBooster.cfg
 !config/MrHydralisk.MajorityVote.cfg

@@ -41,11 +41,11 @@ Have a few minor balance changes and neat additions as well.
 - [FlashlightToolLoader by Sniper1_1](https://thunderstore.io/c/lethal-company/p/Sniper1_1/FlashlightToolLoader/): Makes the light when custom flashlights are in the off-hand consistent with their normal light. Thanks a lot to ThecheeseXD for the recommendation!
 - [BetterCruiserSync by MysticDEV](https://thunderstore.io/c/lethal-company/p/MysticDEV/BetterCruiserSync/): Makes sure the Cruiser syncs more properly for clients.
 - [LethalScrollFix by slayer6409](https://thunderstore.io/c/lethal-company/p/slayer6409/LethalScrollFix/): Fixes the erratic scrolling introduced by v73.
-- [NicheTweaks by mr_hat](https://thunderstore.io/c/lethal-company/p/mr_hat/NicheTweaks/): 
-- [KeepUnlocks by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/KeepUnlocks/):
-- [MorePartyPoppers by Zeldahu](https://thunderstore.io/c/lethal-company/p/Zeldahu/MorePartyPoppers/)
-- [Natural_selection by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/Natural_selection/):
-  - [NaturalSelectionLib by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/NaturalSelectionLib/):
+- [NicheTweaks by mr_hat](https://thunderstore.io/c/lethal-company/p/mr_hat/NicheTweaks/): Makes the MoreCompany cosmetics icon orange. Removes LethalConfig main menu. Makes footsteps last longer. Causes blood effects when damaged. Enables global voice volume slider. More minor tweaks that improve the experience.
+- [KeepUnlocks by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/KeepUnlocks/): Keep suits and furniture past save reset due to failed quota or reset command.
+- [MorePartyPoppers by Zeldahu](https://thunderstore.io/c/lethal-company/p/Zeldahu/MorePartyPoppers/): Adds party poppers as scrap.
+- [Natural_selection by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/Natural_selection/): Makes Spiders & Circuit bees chase & kill a selection of enemies. Forest Keepers have a low chance to be set on fire by circuit bees and a low chance to extinguish the fire before death.
+  - [NaturalSelectionLib by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/NaturalSelectionLib/)
 
 ### Removed [v2.5.0]
 
@@ -59,6 +59,7 @@ Have a few minor balance changes and neat additions as well.
 - ButteRyBalance: No longer handles moon outdoor power, moon interior multipliers, scrap spawn weights, and enemy spawn weights. Jester has no collision when winding up now. Apparatus price is now randomized when plugged out. No longer handles Zap Gun battery & item weight changes.
 - ScieneBirdTweaks: Set Zapgun battery to 92 seconds.
 - ImmersiveScrap: Set weights to 0 for custom moons.
+- FairAI: Tulip snakes are no longer affected by quicksand.
 - **LunarConfigCentral**: Migrated from v0.1 to v0.2 of LunarConfig! **We took the opportunity to balance the modpack better as well.**
     - Major input for the balance changes and how they are managed are found in [Minaxa's Video](https://youtu.be/QAmIlFehVVA?si=OgYTosJnzVyrVd3T&t=2065) and [ButteRyBalance's Wiki](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/).
     - Every change followed by `(BRB)` is based on changes made by ButteRyBalance and thus **a change that was already present** in a *similar* fashion.

@@ -119,7 +119,7 @@ Here an overview over our future plans and priorities. **Everything on here is n
 - [X] LunarConfigMoons: Vanilla-like Interior Weights
 - [X] LoadingTips for most mods.
 - [X] Better Solo Balancing
-- [ ] WIP: LunarConfig: Implement [ButteRyBalance](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/)'s changes for moon balancing & enemy weights manually & tweak it.
+- [X] LunarConfig: Implement [ButteRyBalance](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/)'s changes for moon balancing & enemy weights manually & tweak it.
 - [ ] Weather Overhaul with [Combined Weathers Toolkit](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/) & [LethalElementsTheta](https://thunderstore.io/c/lethal-company/p/pacoito/LethalElementsTheta/) + [Weather_Probe](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Weather_Probe/)
 - [ ] Custom Logs (Lore, Info, Modpack Intro)
 - [ ] Skin Registry integration & configuration
@@ -135,7 +135,7 @@ Everything in this category especially is less set in stone.
 - [X] Testing - [FairAI by TheFluff](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/changelog/): Integration when compatible
 - [ ] Testing - [FacilityMeltdown by loaforc](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdownExperimental/) (+chance): Re-implementation when functional again
 - [ ] Testing - [CodeRebirth by XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/CodeRebirth/): Either integration or compatibility
-- [ ] Testing - [DawnLib by TeamXiaolan](https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/): Integration (+ Company_Globes!)
+- [X] Testing - [DawnLib by TeamXiaolan](https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/): Integration (+ Company_Globes!)
 - [ ] Testing - [Biodiversity by super_fucking_cool_and_basass_team](https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/): Integration when fitting
 - [ ] Testing - [InsanityRemastered by BudgetAirpods](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/): When updated for v73 and deemed fitting
 - [ ] Testing - [MapImprovements by SpookyBuddy](https://thunderstore.io/c/lethal-company/p/SpookyBuddy/MapImprovements/): When compatible with RebalancedMoons or as an alternative.

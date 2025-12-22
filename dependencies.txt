@@ -86,7 +86,7 @@ Furiante-WeedKillerTweaks@1.0.0
 FutureSavior-Boombox_Sync_Fix@1.1.3
 Generic_GMD-Generic_Cosmetics@1.0.3
 Generic_GMD-Generic_Doorscript@1.0.1
-Generic_GMD-Generic_Interiors@4.0.2
+Generic_GMD-Generic_Interiors@4.0.3
 Generic_GMD-Generic_Scraps@1.0.1
 giosuel-ToiletPaperNormalizer@1.0.0
 Hamunii-AutoHookGenPatcher@1.0.9
