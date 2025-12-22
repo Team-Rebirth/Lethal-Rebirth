@@ -24,20 +24,19 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
-## [unreleased/v2.5.0] - 2025-12-?? | The LunarConfig Update! (v73)
+## [unreleased/v3.0.0] - 2025-12-?? | The Dawn of Rebirth (v73)
 
-> DO NOT UPDATE IF YOU ARE NOT READY TO LOSE SAFE DATA!
+> **DO NOT UPDATE IF YOU ARE NOT READY TO LOSE SAFE DATA!**
 >
-> With this update **DawnLib** is introduced to this modpack, which will bring lots of good, such as a better, faster, and more reliable safe system. This sadly leads to a whipe of existing safes though.
+> With this update **DawnLib** is introduced to this modpack, which will bring *lots of good*, such as a better, faster, and more reliable safe system but also leads to **a whipe of existing safes**.
 
-After all this time LunarConfig by Crafty finally made the jump to using DawnLib by TeamXiaolan!
-Have a few minor balance changes and neat additions as well.
+After all this time LunarConfig by Crafty finally made the jump to using DawnLib by TeamXiaolan! This means this mod comes with a breaking change, not allowing backwards compatibility whatsoever. The experience will also have changed in a miriad of subtle ways as the balancing is now no longer handled by [ButteRyBalance](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/) alone but also by us directly and minor tweaks have been introduced.
 
-### Added [v2.5.0]
+### Added [v3.0.0]
 
+- [DawnLib by TeamXiaolan](https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/): The Dawn of Lethal Company modding (Centralized Library for all sorts of things).
 - [Company_Globes by DeviousEquine](https://thunderstore.io/c/lethal-company/p/DeviousEquine/Company_Globes/): Adds collectible, moon-based, globes as scrap.
 - [Whiteboard by Zehs](https://thunderstore.io/c/lethal-company/p/Zehs/Whiteboard/): Adds a whiteboard as a furniture item.
-- [DawnLib by TeamXiaolan](https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/): The Dawn of Lethal Company modding (Centralized Library for all sorts of things).
 - [FlashlightToolLoader by Sniper1_1](https://thunderstore.io/c/lethal-company/p/Sniper1_1/FlashlightToolLoader/): Makes the light when custom flashlights are in the off-hand consistent with their normal light. Thanks a lot to ThecheeseXD for the recommendation!
 - [BetterCruiserSync by MysticDEV](https://thunderstore.io/c/lethal-company/p/MysticDEV/BetterCruiserSync/): Makes sure the Cruiser syncs more properly for clients.
 - [LethalScrollFix by slayer6409](https://thunderstore.io/c/lethal-company/p/slayer6409/LethalScrollFix/): Fixes the erratic scrolling introduced by v73.
@@ -47,58 +46,26 @@ Have a few minor balance changes and neat additions as well.
 - [Natural_selection by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/Natural_selection/): Makes Spiders & Circuit bees chase & kill a selection of enemies. Forest Keepers have a low chance to be set on fire by circuit bees and a low chance to extinguish the fire before death.
   - [NaturalSelectionLib by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/NaturalSelectionLib/)
 
-### Removed [v2.5.0]
+### Removed [v3.0.0]
 
 - LethalLevelLoaderUpdated: Pacoito now maintains the main mod and thus deprecated this branch.
 
-### Changed [v2.5.0]
+### Changed [v3.0.0]
 
 - MoreCupboards: Set price to 0 and allows buying max. 1, which only allows the orange cupboard.
 - FurnitureLock: No longer auto unlocks purple cupboard (as it currently does not work with DawnLib), sets predefined positions for all cupboards. Also added the whiteboard.
-- Lategame Upgrades (moreshipupgrades.cfg): Raised amount of quota credits needed for player credits (PCs); Decreased the amount of player credits that will be received.
-- ButteRyBalance: No longer handles moon outdoor power, moon interior multipliers, scrap spawn weights, and enemy spawn weights. Jester has no collision when winding up now. Apparatus price is now randomized when plugged out. No longer handles Zap Gun battery & item weight changes.
+- Lategame Upgrades (moreshipupgrades.cfg): Raised amount of quota credits needed for player credits (PCs); Decreased the amount of player credits that will be received. Decreased value of some hunter samples.
+- ButteRyBalance: No longer handles moon outdoor power, moon interior multipliers, scrap spawn weights, and enemy spawn weights. Jester has no collision when winding up now. Apparatus price is now randomized when plugged out. No longer handles Zap Gun battery & item weight changes. Now shrinks mineshaft interiors.
 - ScieneBirdTweaks: Set Zapgun battery to 92 seconds.
-- ImmersiveScrap: Set weights to 0 for custom moons.
+- ImmersiveScrap: Set weights to 0 for custom moons going forward.
 - FairAI: Tulip snakes are no longer affected by quicksand.
 - **LunarConfigCentral**: Migrated from v0.1 to v0.2 of LunarConfig! **We took the opportunity to balance the modpack better as well.**
     - Major input for the balance changes and how they are managed are found in [Minaxa's Video](https://youtu.be/QAmIlFehVVA?si=OgYTosJnzVyrVd3T&t=2065) and [ButteRyBalance's Wiki](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/).
-    - Every change followed by `(BRB)` is based on changes made by ButteRyBalance and thus **a change that was already present** in a *similar* fashion.
+    - Every change followed by `(BRB)` is based on changes made by ButteRyBalance and thus **a change that was already present** in a *similar* or the same fashion.
     - Every change followed by `(MIN)` is based on Minaxa's video and is ***new***.
-- **LunarConfigMoons**:
-  - All: Added Gold, Silver, and Bronze bars. (BRB)
-  - All: Where comedy or tragedy can be found Masked now have a chance to spawn. (BRB)
-  - All: Adjusted Locker chances per moon.
-  - All: Adjusted modded scrap chances, which most often debuffs lower tier moons and buffs higher tier moons (as modded scrap had equal chances everywhere prior, which equalized the scrap quality more toward the middle across moons and broke balancing).
-  - Experimentation: 
-    - Increased scrap count.
-    - Removed Forest Keeper & Easter Egg spawn. (BRB)
-  - Assurance:
-    - Scrap value no longer decreased. (MIN)
-  - Vow:
-    - Removed Coil Heads. (BRB)
-    - Scrap value no longer decreased. (MIN)
-  - Adamance: 
-    - Decreased outdoor power from 13 -> 11. (BRB)
-  - Rend: 
-    - Decreased interior multiplier from 1.8 to 1.6. (BRB)
-    - Reintroduced Earth Leviathan. (BRB)
-    - Scrap value no longer decreased. (MIN)
-  - Dine:
-    - Halfed scrap amount and expanded scrap pool. (BRB)
-      - This way Dine is now close to its current vanilla implementation instead of v72's as it was before.
-    - Diversified enemy spawn pool. (BRB)
-    - Decreased Eyeless Dog & Forest Keeper spawn rates. (BRB)
-  - Titan: 
-    - Increased scrap amount. (BRB/MIN)
-    - Adjusted enemies: Fewer Jesters and Forest Keepers, more Old Bids. (BRB)
-  - Embrion: 
-    - Made a day last 1/4th longer!
-    - Massively increased scrap amount. (BRB)
-    - Increased interior multiplier from 1.1 to 1.8. (BRB)
-    - Massively reduced biological enemy spawn rates. (BRB)
-  - Artifice:
-    - Lockers can spawn outside, rarely.
+    - All changes with nothing followed are "original" and also **new**.
 - **LunarConfigItems**:
+  - Set up proper aliases for items (Iwrench & OfficeWrench + OfficeScrewdriver, GenScrewdriver & Iscrewdriver).
   - Increased Bee-hive minimum value.
   - Decreased Lightswitch & Fire Axe value.
   - Doubled value of all Body Part/Corpse Scrap items. (BRB)
@@ -107,12 +74,62 @@ Have a few minor balance changes and neat additions as well.
   - Increased weight for Chemical Jug, Large Axle, Golden Goblet, Fancy Lamp, Hairdryer, Garbage Lid, and clock. (BRB)
 - **LunarConfigEnemies**:
   - Spore Lizard: Can now be killed. Has 6 HP.
-  - Hoarding Bugs: Power level set to 0.5 and they now spawn in groups. HP decreased from 3 to 2.
-  - Coil Head: Power level set from 1 to 2. (BRB)
-  - Nutcracker: Power level set from 1 to 2.
+  - Hoarding Bugs: 
+    - Power level set to 0.5 .
+    - Now spawn in groups of 2. 
+    - HP decreased from 3 to 2.
+  - Coil Head: Power level set from 1 to 2. (BRB) (Serves to make their spawn more relevant on lower tier moons)
+  - Nutcracker: Power level set from 1 to 2. (Serves to make their spawn more relevant on lower tier moons)
   - Maneater: Power level set from 2 to 3. (BRB)
+- **LunarConfigDungeons**:
+  - Set up aliases for interiors.
+- **LunarConfigMoons**:
+  - All: 
+    - Added Gold, Silver, and Bronze bars. (BRB)
+    - Where comedy or tragedy can be found Masked now have a chance to spawn. (BRB)
+    - Adjusted Locker chances per moon.
+    - Adjusted modded scrap chances, which most often debuffs lower tier moons and buffs higher tier moons (as modded scrap had equal chances everywhere prior, which equalized the scrap quality more toward the middle across moons and broke balancing).
+    - Adjusted interior weights due to new info about future moon reworks and reworked Generic Interiors! (The Storehouse is incredible now)
+  - Experimentation: 
+    - Increased scrap count from 8-12 to 10-13. (BRB)
+    - Removed Forest Keeper & Easter Egg spawn.
+  - Assurance:
+    - Base scrap value no longer decreased. (MIN)
+  - Vow:
+    - Reduced chance for Coil Heads. (BRB)
+    - Base scrap value no longer decreased. (MIN)
+  - Offense:
+    - Increased indoor power from 12 to 13 (to accomondate Nutcracker/Coil-Head power level inrease).
+    - Increased scrap amount from 14-18 to 18-23. (BRB/MIN)
+  - March:
+    - Increased scrap count from 13-17 to 16-21. (BRB)
+  - Adamance: 
+    - Decreased outdoor power from 13 -> 11. (BRB)
+  - Rend: 
+    - Decreased interior multiplier from 1.8 to 1.7. (BRB)
+    - Reintroduced Earth Leviathan. (BRB)
+    - Base scrap value no longer decreased. (MIN)
+    - Increased interior power from 10 to 13 (to accomondate Nutcracker/Coil-Head power level inrease).
+  - Dine:
+    - Halfed scrap amount and expanded scrap pool. (BRB)
+      - This way Dine is now close to its current vanilla implementation instead of v72's as it was before.
+    - Diversified enemy spawn pool. (BRB)
+    - Decreased Eyeless Dog & Forest Keeper spawn chances. (BRB)
+  - Titan: 
+    - Increased scrap amount from 28-32 to 28-35. (BRB/MIN)
+    - Adjusted enemies: Fewer Jesters and Forest Keepers, more Old Bids. (BRB)
+    - Decreased interior multiplier from 2.2 to 2.1. (BRB)
+  - Embrion: 
+    - Made a day on embrionlast 10% longer.
+    - Massively increased scrap amount from 14-17 to 23-28. (BRB)
+    - Increased interior multiplier from 1.1 to 1.8. (BRB)
+    - Massively reduced biological enemy spawn rates. (BRB)
+    - Increased interior power from 8 to 12.
+  - Artifice:
+    - Incresed scrap count from 26-31 to 31-37. (BRB)
+    - Increased interior power from 13 to 15 (to accomondate Nutcracker/Coil-Head power level inrease).
 
-### Noted [v2.5.0]
+### Noted [v3.0.0]
 
 - Updated Dependencies.
 
