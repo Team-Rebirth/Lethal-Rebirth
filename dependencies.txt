@@ -45,7 +45,7 @@ DaanSmoki-ReviveDesyncPatch@1.0.0
 Darkbrewery-Emblem@1.6.4
 darmuh-darmuhsTerminalStuff@3.9.0
 darmuh-OpenLib@0.4.1
-darmuh-suitsTerminal@1.6.2
+darmuh-suitsTerminal@1.7.2
 DaXcess-NoJumpDelay@1.1.1
 DBJ-BetterScanVision@0.0.6
 debit_card_debit-RuntimeIcons_BetterRotations@1.1.9
@@ -96,7 +96,7 @@ Hardy-LCMaxSoundsFix@1.2.0
 Hexnet111-SuitSaver@1.2.1
 HGG-JigglePhysicsPlugin@1.1.21
 hu_luo_bo_ya-V73dcfix@1.0.5
-IAmBatby-LethalLevelLoader@1.6.1
+IAmBatby-LethalLevelLoader@1.6.2
 ironthumb-BetterFog@3.4.1
 JacobG5-JLL@1.9.9
 JacobG5-LostEnemyFix@1.1.0
@@ -115,7 +115,7 @@ Lunxara-Lunxaras_Addons@6.0.1
 Lunxara-Lunxaras_Menu_Theme@3.0.6
 Magic_Wesley-Wesleys_Ememy_Variants@1.2.1
 Magic_Wesley-Wesleys_Weathers@1.2.8
-Magic_Wesley-WesleysInteriors@4.1.12
+Magic_Wesley-WesleysInteriors@4.1.13
 malco-Lategame_Upgrades@3.12.9
 Mattomo-WaluigiSuitLite@1.0.0
 mattymatty-AsyncLoggers@2.2.3

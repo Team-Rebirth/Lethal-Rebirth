@@ -42,6 +42,8 @@ The concept of Lethal Rebirth is simple: optimize some of the game's mechanics, 
 > For a proper guide to these changes, [check here](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki).
 >
 > ℹ️ For a complete list of all gameplay-relevant mods and what they do in this modpack, [check here](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Mods-&-Features).
+> 
+> Also mind the Known Issues further below!
 
 We recommend installing [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/) if you aim for a more casual, relaxed experience when meeting your quota!
 

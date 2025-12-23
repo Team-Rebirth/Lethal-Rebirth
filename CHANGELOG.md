@@ -41,6 +41,7 @@ After all this time LunarConfig by Crafty finally made the jump to using DawnLib
 - [BetterCruiserSync by MysticDEV](https://thunderstore.io/c/lethal-company/p/MysticDEV/BetterCruiserSync/): Makes sure the Cruiser syncs more properly for clients.
 - [LethalScrollFix by slayer6409](https://thunderstore.io/c/lethal-company/p/slayer6409/LethalScrollFix/): Fixes the erratic scrolling introduced by v73.
 - [NicheTweaks by mr_hat](https://thunderstore.io/c/lethal-company/p/mr_hat/NicheTweaks/): Makes the MoreCompany cosmetics icon orange. Removes LethalConfig main menu. Makes footsteps last longer. Causes blood effects when damaged. Enables global voice volume slider. More minor tweaks that improve the experience.
+- [SavePlayerVolume by egg_node](https://thunderstore.io/c/lethal-company/p/egg_node/SavePlayerVolume/)
 - [KeepUnlocks by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/KeepUnlocks/): Keep suits and furniture past save reset due to failed quota or reset command.
 - [MorePartyPoppers by Zeldahu](https://thunderstore.io/c/lethal-company/p/Zeldahu/MorePartyPoppers/): Adds party poppers as scrap.
 - [Natural_selection by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/Natural_selection/): Makes Spiders & Circuit bees chase & kill a selection of enemies. Forest Keepers have a low chance to be set on fire by circuit bees and a low chance to extinguish the fire before death.
@@ -55,17 +56,22 @@ After all this time LunarConfig by Crafty finally made the jump to using DawnLib
 - MoreCupboards: Set price to 0 and allows buying max. 1, which only allows the orange cupboard.
 - FurnitureLock: No longer auto unlocks purple cupboard (as it currently does not work with DawnLib), sets predefined positions for all cupboards. Also added the whiteboard.
 - Lategame Upgrades (moreshipupgrades.cfg): Raised amount of quota credits needed for player credits (PCs); Decreased the amount of player credits that will be received. Decreased value of some hunter samples.
+- Shopping_Card: Altered spawn weights on a per-moon basis. Reduced item amount and tolerated weight.
+- Wheelbarrow: Buffed weight decrease, reduced item amount.
 - ButteRyBalance: No longer handles moon outdoor power, moon interior multipliers, scrap spawn weights, and enemy spawn weights. Jester has no collision when winding up now. Apparatus price is now randomized when plugged out. No longer handles Zap Gun battery & item weight changes. Now shrinks mineshaft interiors.
-- ScieneBirdTweaks: Set Zapgun battery to 92 seconds.
-- ImmersiveScrap: Set weights to 0 for custom moons going forward.
+- ScieneBirdTweaks: Set Zapgun battery to 92 seconds. Rebalanced interior-based scrap bonuses.
+- ImmersiveScrap: Set initial weights to 0 for everything.
 - FairAI: Tulip snakes are no longer affected by quicksand.
+- Betterfog: Fixed fog density getting too high on Adamance in foggy weather.
+- TestAccountVariety: Disabled cage mines due to too frequent spawns. Will be reimplemented soon.
+- MajorityVote: Set min votes to 1 as 2 had no effect in duo sessions.
 - **LunarConfigCentral**: Migrated from v0.1 to v0.2 of LunarConfig! **We took the opportunity to balance the modpack better as well.**
     - Major input for the balance changes and how they are managed are found in [Minaxa's Video](https://youtu.be/QAmIlFehVVA?si=OgYTosJnzVyrVd3T&t=2065) and [ButteRyBalance's Wiki](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/).
     - Every change followed by `(BRB)` is based on changes made by ButteRyBalance and thus **a change that was already present** in a *similar* or the same fashion.
     - Every change followed by `(MIN)` is based on Minaxa's video and is ***new***.
     - All changes with nothing followed are "original" and also **new**.
 - **LunarConfigItems**:
-  - Set up proper aliases for items (Iwrench & OfficeWrench + OfficeScrewdriver, GenScrewdriver & Iscrewdriver).
+  - Set up proper aliases for items (Iwrench & OfficeWrench + OfficeScrewdriver, Generic Screwdriver & Iscrewdriver).
   - Increased Bee-hive minimum value.
   - Decreased Lightswitch & Fire Axe value.
   - Doubled value of all Body Part/Corpse Scrap items. (BRB)
@@ -73,11 +79,12 @@ After all this time LunarConfig by Crafty finally made the jump to using DawnLib
   - Decreased weight for Bottles, Brush, Candy, Metal Sheet, Ring, Stop Sign, Tea Kettle, Yield Sign, Flask, and Soccer Ball. (BRB/MIN)
   - Increased weight for Chemical Jug, Large Axle, Golden Goblet, Fancy Lamp, Hairdryer, Garbage Lid, and clock. (BRB)
 - **LunarConfigEnemies**:
-  - Spore Lizard: Can now be killed. Has 6 HP.
+  - Spore Lizard: ~~Can now be killed. Has 6 HP.~~ - Does not work yet.
   - Hoarding Bugs: 
     - Power level set to 0.5 .
     - Now spawn in groups of 2. 
     - HP decreased from 3 to 2.
+  - Bunker Spiders: Spawn cap from 1 to 2.
   - Coil Head: Power level set from 1 to 2. (BRB) (Serves to make their spawn more relevant on lower tier moons)
   - Nutcracker: Power level set from 1 to 2. (Serves to make their spawn more relevant on lower tier moons)
   - Maneater: Power level set from 2 to 3. (BRB)
@@ -88,7 +95,7 @@ After all this time LunarConfig by Crafty finally made the jump to using DawnLib
     - Added Gold, Silver, and Bronze bars. (BRB)
     - Where comedy or tragedy can be found Masked now have a chance to spawn. (BRB)
     - Adjusted Locker chances per moon.
-    - Adjusted modded scrap chances, which most often debuffs lower tier moons and buffs higher tier moons (as modded scrap had equal chances everywhere prior, which equalized the scrap quality more toward the middle across moons and broke balancing).
+    - Adjusted modded scrap chances, which most often debuffs lower tier moons and buffs higher tier moons (as modded scrap had equal chances everywhere prior, which equalized the scrap quality more toward the middle across moons and broke balancing). It should also feel a bit more vanilla-like, for better or worse. Will need more adjusting in the future.
     - Adjusted interior weights due to new info about future moon reworks and reworked Generic Interiors! (The Storehouse is incredible now)
   - Experimentation: 
     - Increased scrap count from 8-12 to 10-13. (BRB)
@@ -99,12 +106,13 @@ After all this time LunarConfig by Crafty finally made the jump to using DawnLib
     - Reduced chance for Coil Heads. (BRB)
     - Base scrap value no longer decreased. (MIN)
   - Offense:
-    - Increased indoor power from 12 to 13 (to accomondate Nutcracker/Coil-Head power level inrease).
+    - Increased indoor power from 12 to 13 (to accomondate Nutcracker/Coil-Head power level increase).
     - Increased scrap amount from 14-18 to 18-23. (BRB/MIN)
   - March:
     - Increased scrap count from 13-17 to 16-21. (BRB)
   - Adamance: 
     - Decreased outdoor power from 13 -> 11. (BRB)
+    - Increased scrap amount from 16-19 to 19-23. (BRB)
   - Rend: 
     - Decreased interior multiplier from 1.8 to 1.7. (BRB)
     - Reintroduced Earth Leviathan. (BRB)
@@ -132,6 +140,7 @@ After all this time LunarConfig by Crafty finally made the jump to using DawnLib
 ### Noted [v3.0.0]
 
 - Updated Dependencies.
+  - Especially notable are suitsTerminal's rework and Generic Interior's Storehouse & Drains rework.
 
 ## [v2.4.2] - 2025-12-07 | Dependency Update + The Drains (v73)
 

@@ -43,6 +43,7 @@
 !config/com.elitemastereric.coroner.cfg
 !config/com.fumiko.CullFactory.cfg
 !config/com.github.CharlesE2.HostFixes.cfg
+!config/com.github.darmuh.suitsTerminal.cfg
 !config/com.github.interiortitlecards.cfg
 !config/com.github.lethalcompanymodding.runtimeicons.cfg
 !config/com.github.WhiteSpike.DivingKit.cfg
@@ -56,7 +57,6 @@
 !config/com.zealsprince.locker.cfg
 !config/Damir.longerDayMod.cfg
 !config/Darkbrewery.Emblem.cfg
-!config/darmuh.suitsTerminal.cfg
 !config/darmuh.TerminalStuff.cfg
 !config/DBJ.BetterScanVision.cfg
 !config/DiFFoZTweaks.cfg
@@ -86,6 +86,9 @@
 !config/LoadingTips.txt
 !config/LunarConfigCentral.cfg
 !config/LunarConfig
+!config/LunarConfig/LunarConfigDungeons.cfg
+!config/LunarConfig/LunarConfigEnemies.cfg
+!config/LunarConfig/LunarConfigItems.cfg
 !config/LunarConfig/LunarConfigMoons.cfg
 !config/mattymatty.BagConfig.cfg
 !config/mattymatty.EntranceTeleportOptimizations.cfg
