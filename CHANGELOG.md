@@ -24,7 +24,7 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
-## [unreleased/v3.0.0] - 2025-12-?? | The Dawn of Rebirth (v73)
+## [v3.0.0] - 2025-12-24 | The Dawn of Rebirth (v73)
 
 > **DO NOT UPDATE IF YOU ARE NOT READY TO LOSE SAFE DATA!**
 >
