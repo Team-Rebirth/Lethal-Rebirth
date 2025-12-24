@@ -24,6 +24,16 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
+## [v3.0.1] - 2025-12-24 | Tweaks (v73)
+
+### Changed [v3.0.1]
+
+- LunarConfigMoons: Adjusted srap pools.
+
+### Noted [v3.0.1]
+
+- Updated Dependencies.
+
 ## [v3.0.0] - 2025-12-24 | The Dawn of Rebirth (v73)
 
 > **DO NOT UPDATE IF YOU ARE NOT READY TO LOSE SAFE DATA!**
@@ -128,13 +138,13 @@ After all this time LunarConfig by Crafty finally made the jump to using DawnLib
     - Adjusted enemies: Fewer Jesters and Forest Keepers, more Old Bids. (BRB)
     - Decreased interior multiplier from 2.2 to 2.1. (BRB)
   - Embrion: 
-    - Made a day on embrionlast 10% longer.
+    - Made a day on embrion last 10% longer.
     - Massively increased scrap amount from 14-17 to 23-28. (BRB)
     - Increased interior multiplier from 1.1 to 1.8. (BRB)
     - Massively reduced biological enemy spawn rates. (BRB)
     - Increased interior power from 8 to 12.
   - Artifice:
-    - Incresed scrap count from 26-31 to 31-37. (BRB)
+    - Increased scrap count from 26-31 to 31-37. (BRB)
     - Increased interior power from 13 to 15 (to accomondate Nutcracker/Coil-Head power level inrease).
 
 ### Noted [v3.0.0]
