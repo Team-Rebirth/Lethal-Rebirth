@@ -48,7 +48,7 @@ darmuh-OpenLib@0.4.1
 darmuh-suitsTerminal@1.7.3
 DaXcess-NoJumpDelay@1.1.1
 DBJ-BetterScanVision@0.0.6
-debit_card_debit-RuntimeIcons_BetterRotations@1.1.9
+debit_card_debit-RuntimeIcons_BetterRotations@1.1.10
 debit_card_debit-UniqueItemSounds@0.1.4
 Dev1A3-LethalFixes@1.2.9
 Dev1A3-LobbyImprovements@1.1.2
@@ -131,8 +131,8 @@ MegaPiggy-BuyableShotgunShells@1.3.0
 Mhz-MoreHead@1.2.6
 MikuOreo-Fairer_Fire_Exits@1.2.1
 MissileMann-EliteFlashlight@1.1.0
-MonoDetour-MonoDetour_BepInEx_5@0.7.8
-MonoDetour-MonoDetour@0.7.8
+MonoDetour-MonoDetour_BepInEx_5@0.7.9
+MonoDetour-MonoDetour@0.7.9
 MrHydralisk-EnhancedLockpicker@1.1.8
 MrHydralisk-EnhancedRadarBooster@1.8.1
 MrHydralisk-MajorityVote@1.1.2
@@ -151,7 +151,7 @@ Nikki-NikkisCosmeticKingdom@3.0.1
 Nikki-StarTrekSuitsCore@1.1.4
 notnotnotswipez-MoreCompany@1.12.0
 OniroDev-WeedKillerAdjuster@1.0.1
-pacoito-itolib@0.6.1
+pacoito-itolib@0.7.0
 Piggy-DynamicJesterCrank@1.0.2
 Piggy-JesterStompShake@1.0.11
 Piggy-LC_Office@2.3.4
@@ -186,7 +186,7 @@ taffyko-NameplateTweaks@1.0.7
 taffyko-NiceChat@1.2.7
 taffyko-QuickQuitToMenu@1.0.1
 TeamClark-SCP_Foundation_Suit@1.1.0
-TeamXiaolan-DawnLib@0.5.11
+TeamXiaolan-DawnLib@0.5.13
 TestAccount666-AnnounceMoonAndWeatherChange@2.0.5
 TestAccount666-AntiSlimeCamp@2.0.0
 TestAccount666-DoorBreach@1.5.0

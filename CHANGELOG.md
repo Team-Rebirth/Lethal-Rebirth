@@ -24,11 +24,22 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
+
+## [unreleased/v3.0.2] - 2025-12-25 | Tweaks & Hotfix (v73)
+
+### Changed [v3.0.2]
+
+- NicheTweaks: Changed configuration for EladsHUD.
+
+### Noted [v3.0.2]
+
+- Updated Dependencies.
+
 ## [v3.0.1] - 2025-12-24 | Tweaks (v73)
 
 ### Changed [v3.0.1]
 
-- LunarConfigMoons: Adjusted srap pools.
+- LunarConfigMoons: Adjusted scrap pools.
 
 ### Noted [v3.0.1]
 
