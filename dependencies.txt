@@ -39,7 +39,7 @@ chuxiaaaa-LethalError@1.0.3
 chuxiaaaa-LoadingInfo@1.1.0
 coderCleric-Poltergeist@1.2.9
 companyemployee-EquipmentCompany@1.3.0
-Crafty-LunarConfig@0.2.2
+Crafty-LunarConfig@0.2.6
 crump_laude-VisorColorsCosmetics@1.0.0
 DaanSmoki-ReviveDesyncPatch@1.0.0
 Darkbrewery-Emblem@1.6.4
@@ -86,7 +86,7 @@ Furiante-WeedKillerTweaks@1.0.0
 FutureSavior-Boombox_Sync_Fix@1.1.3
 Generic_GMD-Generic_Cosmetics@1.0.3
 Generic_GMD-Generic_Doorscript@1.0.1
-Generic_GMD-Generic_Interiors@4.0.3
+Generic_GMD-Generic_Interiors@4.0.4
 Generic_GMD-Generic_Scraps@1.0.1
 giosuel-ToiletPaperNormalizer@1.0.0
 Hamunii-AutoHookGenPatcher@1.0.9
@@ -125,6 +125,7 @@ mattymatty-EntranceTeleportOptimizations@0.0.5
 mattymatty-FurnitureLock@1.4.5
 mattymatty-LobbyControl@2.5.11
 mattymatty-Matty_Fixes@1.1.35
+mattymatty-MonkeyInjectionLibrary@1.0.2
 MaxWasUnavailable-LethalModDataLib@1.2.2
 Megalophobia-Longer_Day@1.0.0
 MegaPiggy-BuyableShotgunShells@1.3.0
@@ -186,7 +187,7 @@ taffyko-NameplateTweaks@1.0.7
 taffyko-NiceChat@1.2.7
 taffyko-QuickQuitToMenu@1.0.1
 TeamClark-SCP_Foundation_Suit@1.1.0
-TeamXiaolan-DawnLib@0.5.13
+TeamXiaolan-DawnLib@0.5.16
 TestAccount666-AnnounceMoonAndWeatherChange@2.0.5
 TestAccount666-AntiSlimeCamp@2.0.0
 TestAccount666-DoorBreach@1.5.0
