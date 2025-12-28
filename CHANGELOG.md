@@ -24,8 +24,7 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
-
-## [unreleased/v3.0.2] - 2025-12-25 | Tweaks & Hotfix (v73)
+## [v3.0.2] - 2025-12-28 | Tweaks & Hotfix (v73)
 
 ### Changed [v3.0.2]
 
@@ -34,6 +33,7 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 ### Noted [v3.0.2]
 
 - Updated Dependencies.
+  - This fixes the `moons`-command & (lobby) quit button not working.
 
 ## [v3.0.1] - 2025-12-24 | Tweaks (v73)
 
