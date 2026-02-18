@@ -113,15 +113,23 @@ Here an overview over our future plans and priorities. **Everything on here is n
 
 #### Update Roadmap
 
-- [X] Release Lethal Rebirth v2.0.0 pre-Halloween
-- [X] Re-add BetterSpraypaint: Once updated to v73
-- [X] Re-add [FixCharWarn by chuxiaaaa](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/FixCharWarn/): Once updated to be compatible with LGU
-- [X] Re-enable EnhancedLockPicker/RadarBooster Enhancements: Once updated for v73
-- [X] LGU Pricing & Upgrade distribution Overhaul
-- [X] LunarConfigMoons: Vanilla-like Interior Weights
-- [X] LoadingTips for most mods.
-- [X] Better Solo Balancing
-- [X] LunarConfig: Implement [ButteRyBalance](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/)'s changes for moon balancing & enemy weights manually & tweak it.
+<details>
+  <summary>Completed</summary>
+
+  <ul>
+    <li>Release Lethal Rebirth v2.0.0 pre-Halloween</li>
+    <li>Re-add BetterSpraypaint: Once updated to v73</li>
+    <li>Re-add <a href="https://thunderstore.io/c/lethal-company/p/chuxiaaaa/FixCharWarn/">FixCharWarn by chuxiaaaa</a>: Once updated to be compatible with LGU</li>
+    <li>Re-enable EnhancedLockPicker/RadarBooster Enhancements: Once updated for v73</li>
+    <li>LGU Pricing &amp; Upgrade distribution Overhaul</li>
+    <li>LunarConfigMoons: Vanilla-like Interior Weights</li>
+    <li>LoadingTips for most mods.</li>
+    <li>Better Solo Balancing</li>
+    <li>LunarConfig: Implement <a href="https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/">ButteRyBalance</a>'s changes for moon balancing &amp; enemy weights manually & tweak it.</li>
+  </ul>
+
+</details>
+
 - [ ] Weather Overhaul with [Combined Weathers Toolkit](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/) & [LethalElementsTheta](https://thunderstore.io/c/lethal-company/p/pacoito/LethalElementsTheta/) + [Weather_Probe](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Weather_Probe/)
 - [ ] Custom Logs (Lore, Info, Modpack Intro)
 - [ ] Skin Registry integration & configuration
@@ -131,14 +139,31 @@ Here an overview over our future plans and priorities. **Everything on here is n
 
 Everything in this category especially is less set in stone.
 
-- [X] BetterFog Enhancement: Custom presets for Embrion & Eclipsed Artifice - *Already implemented, dependent on betterfog patch to work*
+<details>
+  <summary>Completed</summary>
+
+  <ul>
+    <li> Release Lethal Rebirth v2.0.0 pre-Halloween</li>
+    <li>Re-add BetterSpraypaint: Once updated to v73</li>
+    <li>Re-add <a href="https://thunderstore.io/c/lethal-company/p/chuxiaaaa/FixCharWarn/">FixCharWarn by chuxiaaaa</a>: Once updated to be compatible with LGU</li>
+    <li>Re-enable EnhancedLockPicker/RadarBooster Enhancements: Once updated for v73</li>
+    <li>LGU Pricing &amp; Upgrade distribution Overhaul</li>
+    <li>LunarConfigMoons: Vanilla-like Interior Weights</li>
+    <li>LoadingTips for most mods.</li>
+    <li>Better Solo Balancing</li>
+    <li>LunarConfig: Implement <a href="https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/">ButteRyBalance</a>'s changes for moon balancing &amp; enemy weights manually & tweak it.</li>
+    <li>BetterFog Enhancement: Custom presets for Embrion & Eclipsed Artifice</li>
+    <li>Testing - <a href="https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/changelog/">FairAI by TheFluff</a>: Integration when compatible</li>
+    <li>Testing - <a href="https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/">DawnLib by TeamXiaolan</a>: Integration (+ Company_Globes!)</li>
+  </ul>
+
+</details>
+
 - [ ] More Vanilla-like Interior Mods (Maybe Castellum Carnis, PlayZone, [Cabin](https://thunderstore.io/c/lethal-company/p/Sniper1_1/CabIn/), and/or Sector0(Beta)?)
-- [ ] More Vanilla-like Moon Mods (Maybe Tunere, Oxyde, Lua, Seichi, and/or Wither?)
-- [X] Testing - [FairAI by TheFluff](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/changelog/): Integration when compatible
+- [ ] Add Vanilla-like Moon Mods (Maybe Tunere, Oxyde, Lua, Seichi, and/or Wither?)
 - [ ] Testing - [FacilityMeltdown by loaforc](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdownExperimental/) (+chance): Re-implementation when functional again
 - [ ] Testing - [CodeRebirth by XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/CodeRebirth/): Either integration or compatibility
-- [X] Testing - [DawnLib by TeamXiaolan](https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/): Integration (+ Company_Globes!)
-- [ ] Testing - [Biodiversity by super_fucking_cool_and_basass_team](https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/): Integration when fitting
+- [ ] Testing - [Biodiversity by super_fucking_cool_and_basass_team](https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/) + [Shisha by s1ckboy](https://thunderstore.io/c/lethal-company/p/s1ckboy/Shisha/) + [Peepers by x753](https://thunderstore.io/c/lethal-company/p/x753/Peepers/): Integration when fitting
 - [ ] Testing - [InsanityRemastered by BudgetAirpods](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/): When updated for v73 and deemed fitting
 - [ ] Testing - [MapImprovements by SpookyBuddy](https://thunderstore.io/c/lethal-company/p/SpookyBuddy/MapImprovements/): When compatible with RebalancedMoons or as an alternative.
 - [ ] Testing - [LCGoldScrapMod by SimonTendo](https://thunderstore.io/c/lethal-company/p/SimonTendo/LCGoldScrapMod/): Needs proper adjustment
@@ -171,7 +196,7 @@ Big thanks to [Zeekerss](https://bsky.app/profile/zeekerss.bsky.social), the cre
 
 We’d also like to thank all the mod creators whose work is included in this pack. Their contributions add variety and make the experience a lot more engaging. [Check out our list of mods and what they add to this modpack](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Mods-&-Features).
 
-Additional thanks go out to other fellow modpack creators, like [ZetaArcade](https://github.com/Zeta-Arcade), [Moroxide](https://thunderstore.io/c/lethal-company/p/Megalophobia/MEGALOPHOBIA/) and [ProfoundlyPurple](https://www.youtube.com/channel/UCegCZVxrWaOay_0sKO4TOAw), who through their own perspectives and ideas also inspire the development of this modpack. Their stuff is worth checking out!
+Additional thanks go out to other fellow modpack creators, like [Moroxide](https://thunderstore.io/c/lethal-company/p/Megalophobia/MEGALOPHOBIA/), [ZetaArcade](https://github.com/Zeta-Arcade), [ProfoundlyPurple](https://www.youtube.com/channel/UCegCZVxrWaOay_0sKO4TOAw), and [TheCheeseXD](https://thunderstore.io/c/lethal-company/p/ThecheeseXD/Starter_Pack_Plus/), who through their own perspectives and ideas also inspire the development of this modpack. Their stuff is worth checking out!
 
 Also consider joining the [Lethal Company Modding Community Server](https://discord.gg/ffCEu5KC5D)!
 
@@ -181,9 +206,9 @@ Also consider joining the [Lethal Company Modding Community Server](https://disc
 
 **Technical execution of the modpack and its publishing, done by [Nando Lawson](https://github.com/nandolawson), member of [Team Rebirth](https://github.com/Team-Rebirth).**
 
-**Thanks to [ThecheeseXD](https://github.com/thecheesexd) for providing feedback on the Wiki and Mod choice!**
+**Big thanks to [ThecheeseXD](https://thunderstore.io/c/lethal-company/p/ThecheeseXD/), the creator of the [Starter Pack Plus](https://thunderstore.io/c/lethal-company/p/ThecheeseXD/Starter_Pack_Plus/), for providing feedback on the Wiki and helping out with curating the mods and updating the modpack!**
 
-**Thanks to [Jovius](https://github.com/Jovyus), who helped us with the promotional material.**
+**Thanks to [Jovius](https://github.com/Jovyus), who helped us with the promotional material & playtesting.**
 
 **Thanks to [Zeta](https://thunderstore.io/c/lethal-company/p/ZetaArcade/?section=modpacks) (aka. ZetaArcade), creator of the [Testudination Modpacks](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Testudination) for providing feedback and inspiring Lethal Rebirth's development.**
 

@@ -13,7 +13,7 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 >
 > Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
-## [unreleased/v2.?.?] - 2025-??-?? | ??? (v73)
+## [unreleased/v3.?.?] - 2025-??-?? | ??? (v73)
 
 ### Changed [unreleased]
 
@@ -23,6 +23,21 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 ### Noted [unreleased]
 
 - Updated Dependencies.
+
+## [unreleased/v3.0.3] - 2025-??-?? | ??? (v73)
+
+### Added [v3.0.3]
+
+- 
+
+### Changed [v3.0.3]
+
+- LethalHUD: Set Damage display to vanilla.
+- Added LethalLevelLoaderUpdated back to the dependencies, as it is installed automatically anyway due to some mods having it as a dependency. That leads to it being installed in an older version which then leads the mod manager to offer updates.
+
+### Noted [v3.0.3]
+
+- Updated Dependencies. **LOTS OF UPDATES**.
 
 ## [v3.0.2] - 2025-12-28 | Tweaks & Hotfix (v73)
 
