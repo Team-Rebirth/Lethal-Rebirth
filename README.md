@@ -32,8 +32,6 @@ The concept of Lethal Rebirth is simple: optimize some of the game's mechanics, 
   - **Expanded Interiors**: The Facility and Mineshaft interiors have been **replaced** by Wesley's expanded variants, featuring new rooms that expand the experience in an immersive way. There is also a Manor alternative.
 - **Better Immersion**: Cave variants & new fog styles
 - **New enemies**: Two additional threats: The Locker & The Cabinet. *Infestation variants are also present.*
-- **Mirages**: Masked individuals have found ways to imitate both the appearance and voice of an employee. They appear to be rare, but should be approached with caution.
-  - Cautious with the body of fallen crewmates as well...
 - **Lategame Upgrades**: Various ship and equipment upgrades
 - **Additional Slots**: *1 additional equipment-only slot* can be purchased.
 - **Quota Rollover**: Rollover for superceeded quotas. In the event that all crew members die, the quota rollover will be reduced by 50%.

@@ -28,7 +28,9 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 ### Added [v3.0.3]
 
-- 
+### Removed [v.3.0.3]
+
+- Dusted: Now handled by WeatherInjector.
 
 ### Changed [v3.0.3]
 
