@@ -28,18 +28,22 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 ### Added [v3.0.3]
 
+- WeatherInjector by ZetaArcade: Allows injecting weathers and adapting their strength/effects on a per moon basis.
+
 ### Removed [v.3.0.3]
 
-- Dusted: Now handled by WeatherInjector.
+- Dusted: Now handled by WeatherInjector and thus removed.
 
 ### Changed [v3.0.3]
 
 - LethalHUD: Set Damage display to vanilla.
-- Added LethalLevelLoaderUpdated back to the dependencies, as it is installed automatically anyway due to some mods having it as a dependency. That leads to it being installed in an older version which then leads the mod manager to offer updates.
+- WeatherInjector: Reduced Offense Eclipsed intensity (4 -> 3)
+- Added LethalLevelLoaderUpdated back to the dependencies, as it is installed automatically anyway due to some mods having it as a dependency. That leads to it being installed in an older vesrsion which then leads the mod manager to offer updates.
 
 ### Noted [v3.0.3]
 
 - Updated Dependencies. **LOTS OF UPDATES**.
+- Cleaned up README.
 
 ## [v3.0.2] - 2025-12-28 | Tweaks & Hotfix (v73)
 
