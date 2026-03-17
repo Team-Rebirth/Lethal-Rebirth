@@ -39,10 +39,11 @@ LunarConfig's new DungeonInjection is something I really wanna mess with but tha
 
 ### Removed [v.3.0.3]
 
+- **LategameUpgrades** (+ LGU GUI): **Entirely malfunctioned for me**, leaving nothing but a few items it could spawn. I do not have the time to test it currently so I decided to remove it, temporarily…
 - Dusted: Now handled by WeatherInjector and thus removed.
 - FairAI: Caused issues on the last playtest by making traps ignore all entities among other things and thus is temporarily removed as I do not have the time to figure them out. Config is retained because it will be readded once it works well again.
 - TerminalConflictFix: Now handled by DawnLib.
-- LategameUpgrades (+ LGU GUI): Entirely malfunctioned for me, leaving nothing but a few items it could spawn. I do not have the time to test it currently so I decided to remove it, temporarily…
+- DynamicJesterCrank: Dragged down performance.
 
 ### Changed [v3.0.3]
 

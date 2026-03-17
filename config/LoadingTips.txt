@@ -9,13 +9,14 @@ A door's bell attracts keen ears...
 The monitor's text now automatically scrolls up and down!
 Ever thought the ship was too small? Enjoy this leviathan of a ship!
 You can see the moons in the ship external camera, just like in v38!
-The Company has provided you a second cupboard. Enjoy it!
+The Company has sponsors you with a second cupboard. Get it in the shop and enjoy it!
 The loud horn is now auto unlocked; Figure how to use it wisely or die trying!
 Extra Monitors, extra display; Upgrades, people! Upgrades!
 The new monitors show you day, scrap value on ship, and a bit more...
 The inverse Teleporter's cooldown has been reduced to 60 seconds. Enjoy!
 Scanable lightswitch? Sign me up!
-Type "lgu" to buy lategame upgrades!
+## Type "lgu" to buy lategame upgrades!
+Lategame Upgrades have been temporarily removed due to technical problems.
 Careful when closing the ship doors! If something gets trapped inbetween it ain't pretty.
 The ship Person can now watch their friends' actions per bodycam!
 The ship provided for Operation Rebirth is cleaned up and up to current standards.
@@ -76,7 +77,7 @@ DO NOT ENTER THE RUBBER ROOMS.
 Some interiors like eclipsed weather...
 Rumors say the toy store's nutcrackers may spring into action, sometime...
 You are not alone in the Sewers.
-Is the head or the body what controls a coil head...
+Is it the head or the body that controls a coil head...
 The vanilla factory & mineshaft have been replaced with extended variants!
 Mind the pesticides in the greenhouse!
 It slithers in the walls...
