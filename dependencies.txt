@@ -155,7 +155,6 @@ NutDaddy-GlitchedAddonsSuits@1.2.1
 OniroDev-WeedKillerAdjuster@1.0.1
 pacoito-itolib@0.9.0
 pacoito-LethalLevelLoaderUpdated@1.6.0
-Piggy-DynamicJesterCrank@1.0.2
 Piggy-JesterStompShake@1.0.11
 Piggy-LC_Office@2.3.4
 Pooble-LCBetterSaves@1.7.3
