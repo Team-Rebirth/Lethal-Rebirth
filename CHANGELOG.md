@@ -24,26 +24,43 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
-## [unreleased/v3.0.3] - 2025-??-?? | ??? (v73)
+## [unreleased/v3.0.3] - 2025-03-?? | Back to it (v73)
+
+This update is several weeks late due to my current study phase with the exams coming up and sadly not as well tested nor as feature complete as I had to sacrifice some mods that caused issues that I couldn't investigate. I am trying to maintain this pack in an okay-ish fashion until I am more available again. And maybe until v80 drops which is not that far in the horizon.
+
+LunarConfig's new DungeonInjection is something I really wanna mess with but that will have to wait as I'd have to test its interactions with ButteRyBalance first, for which I lack time.
 
 ### Added [v3.0.3]
 
-- WeatherInjector by ZetaArcade: Allows injecting weathers and adapting their strength/effects on a per moon basis.
+- [BetterSpectator by Aelstraz](https://thunderstore.io/c/lethal-company/p/Aelstraz/BetterSpectator/): Improves
+- [WeatherInjector by ZetaArcade](https://thunderstore.io/c/lethal-company/p/ZetaArcade/WeatherInjector/): Allows injecting weathers and adapting their strength/effects on a per moon basis.
+- [Additional Networking by mattymatty](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/): Networks the game more for a better experience in sync.
+- [LethalScrollFix](https://thunderstore.io/c/lethal-company/p/slayer6409/LethalScrollFix/): Thought I added it already.
 
 ### Removed [v.3.0.3]
 
 - Dusted: Now handled by WeatherInjector and thus removed.
+- FairAI: Caused issues on the last playtest by making traps ignore all entities among other things and thus is temporarily removed as I do not have the time to figure them out. Config is retained because it will be readded once it works well again.
+- TerminalConflictFix: Now handled by DawnLib.
+- LategameUpgrades (+ LGU GUI): Entirely malfunctioned for me, leaving nothing but a few items it could spawn. I do not have the time to test it currently so I decided to remove it, temporarily…
 
 ### Changed [v3.0.3]
 
+- LategameUpgrades (moreshipupgrades.cfg): Uses DawnLib for initialization now (IDK why it didn't before)
 - LethalHUD: Set Damage display to vanilla.
 - WeatherInjector: Reduced Offense Eclipsed intensity (4 -> 3)
 - Added LethalLevelLoaderUpdated back to the dependencies, as it is installed automatically anyway due to some mods having it as a dependency. That leads to it being installed in an older vesrsion which then leads the mod manager to offer updates.
+- TestAccountVariety: Disabled Trap Mines, disable acid spitters, disable propulsion mines, disable rocket, disable Evil YIPPEE, disable gift mimic, disable Stone, disable telepad, disable tree cookie, disable ginger bread man, increase light switch energy usage
+- DawnLib: Now handles the terminal conflict specificity.
+- LunarConfigCentral: Disabled DungeonInjection.
+- LunarConfigEnemies: Made Spore Lizard immortal again to avoid weird death behavior.
+- LunarConfigMoons: Decreased Light Switch spawnrate across the board. Added the `Webbed`-tag to Offense to DeepCore Mines webbed.
 
 ### Noted [v3.0.3]
 
-- Updated Dependencies. **LOTS OF UPDATES**.
-- Cleaned up README.
+- This modpack is now compliant with [ThecheeseXD's Starter Pack](https://thunderstore.io/c/lethal-company/p/ThecheeseXD/Starter_Pack/) which contains all basic performance improvement and bug fix mods one could want.
+- Updated Dependencies. **LOTS OF UPDATES…**
+- Cleaned up README & fixed minor formatting errors in Changelog.
 
 ## [v3.0.2] - 2025-12-28 | Tweaks & Hotfix (v73)
 
@@ -108,10 +125,10 @@ After all this time LunarConfig by Crafty finally made the jump to using DawnLib
 - TestAccountVariety: Disabled cage mines due to too frequent spawns. Will be reimplemented soon.
 - MajorityVote: Set min votes to 1 as 2 had no effect in duo sessions.
 - **LunarConfigCentral**: Migrated from v0.1 to v0.2 of LunarConfig! **We took the opportunity to balance the modpack better as well.**
-    - Major input for the balance changes and how they are managed are found in [Minaxa's Video](https://youtu.be/QAmIlFehVVA?si=OgYTosJnzVyrVd3T&t=2065) and [ButteRyBalance's Wiki](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/).
-    - Every change followed by `(BRB)` is based on changes made by ButteRyBalance and thus **a change that was already present** in a *similar* or the same fashion.
-    - Every change followed by `(MIN)` is based on Minaxa's video and is ***new***.
-    - All changes with nothing followed are "original" and also **new**.
+  - Major input for the balance changes and how they are managed are found in [Minaxa's Video](https://youtu.be/QAmIlFehVVA?si=OgYTosJnzVyrVd3T&t=2065) and [ButteRyBalance's Wiki](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/wiki/).
+  - Every change followed by `(BRB)` is based on changes made by ButteRyBalance and thus **a change that was already present** in a *similar* or the same fashion.
+  - Every change followed by `(MIN)` is based on Minaxa's video and is ***new***.
+  - All changes with nothing followed are "original" and also **new**.
 - **LunarConfigItems**:
   - Set up proper aliases for items (Iwrench & OfficeWrench + OfficeScrewdriver, Generic Screwdriver & Iscrewdriver).
   - Increased Bee-hive minimum value.
@@ -122,9 +139,9 @@ After all this time LunarConfig by Crafty finally made the jump to using DawnLib
   - Increased weight for Chemical Jug, Large Axle, Golden Goblet, Fancy Lamp, Hairdryer, Garbage Lid, and clock. (BRB)
 - **LunarConfigEnemies**:
   - Spore Lizard: ~~Can now be killed. Has 6 HP.~~ - Does not work yet.
-  - Hoarding Bugs: 
+  - Hoarding Bugs:
     - Power level set to 0.5 .
-    - Now spawn in groups of 2. 
+    - Now spawn in groups of 2.
     - HP decreased from 3 to 2.
   - Bunker Spiders: Spawn cap from 1 to 2.
   - Coil Head: Power level set from 1 to 2. (BRB) (Serves to make their spawn more relevant on lower tier moons)
@@ -133,13 +150,13 @@ After all this time LunarConfig by Crafty finally made the jump to using DawnLib
 - **LunarConfigDungeons**:
   - Set up aliases for interiors.
 - **LunarConfigMoons**:
-  - All: 
+  - All:
     - Added Gold, Silver, and Bronze bars. (BRB)
     - Where comedy or tragedy can be found Masked now have a chance to spawn. (BRB)
     - Adjusted Locker chances per moon.
     - Adjusted modded scrap chances, which most often debuffs lower tier moons and buffs higher tier moons (as modded scrap had equal chances everywhere prior, which equalized the scrap quality more toward the middle across moons and broke balancing). It should also feel a bit more vanilla-like, for better or worse. Will need more adjusting in the future.
     - Adjusted interior weights due to new info about future moon reworks and reworked Generic Interiors! (The Storehouse is incredible now)
-  - Experimentation: 
+  - Experimentation:
     - Increased scrap count from 8-12 to 10-13. (BRB)
     - Removed Forest Keeper & Easter Egg spawn.
   - Assurance:
@@ -152,10 +169,10 @@ After all this time LunarConfig by Crafty finally made the jump to using DawnLib
     - Increased scrap amount from 14-18 to 18-23. (BRB/MIN)
   - March:
     - Increased scrap count from 13-17 to 16-21. (BRB)
-  - Adamance: 
+  - Adamance:
     - Decreased outdoor power from 13 -> 11. (BRB)
     - Increased scrap amount from 16-19 to 19-23. (BRB)
-  - Rend: 
+  - Rend:
     - Decreased interior multiplier from 1.8 to 1.7. (BRB)
     - Reintroduced Earth Leviathan. (BRB)
     - Base scrap value no longer decreased. (MIN)
@@ -165,11 +182,11 @@ After all this time LunarConfig by Crafty finally made the jump to using DawnLib
       - This way Dine is now close to its current vanilla implementation instead of v72's as it was before.
     - Diversified enemy spawn pool. (BRB)
     - Decreased Eyeless Dog & Forest Keeper spawn chances. (BRB)
-  - Titan: 
+  - Titan:
     - Increased scrap amount from 28-32 to 28-35. (BRB/MIN)
     - Adjusted enemies: Fewer Jesters and Forest Keepers, more Old Bids. (BRB)
     - Decreased interior multiplier from 2.2 to 2.1. (BRB)
-  - Embrion: 
+  - Embrion:
     - Made a day on embrion last 10% longer.
     - Massively increased scrap amount from 14-17 to 23-28. (BRB)
     - Increased interior multiplier from 1.1 to 1.8. (BRB)

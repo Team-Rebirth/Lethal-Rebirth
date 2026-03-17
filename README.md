@@ -36,11 +36,12 @@ The concept of Lethal Rebirth is simple: optimize some of the game's mechanics, 
 - **Additional Slots**: *1 additional equipment-only slot* can be purchased.
 - **Quota Rollover**: Rollover for superceeded quotas. In the event that all crew members die, the quota rollover will be reduced by 50%.
 - **Terminal Improvements**: New commands & formatting.
+- **General Improvements**: This pack includes all the choices in the [Starter Pack by TheCheeseXD](https://thunderstore.io/c/lethal-company/p/ThecheeseXD/Starter_Pack/), which provides improvements to performance and a myriad of bug fixes!
 
 > For a proper guide to these changes, [check here](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki).
 >
 > ℹ️ For a complete list of all gameplay-relevant mods and what they do in this modpack, [check here](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/Mods-&-Features).
-> 
+>
 > Also mind the Known Issues further below!
 
 We recommend installing [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/) if you aim for a more casual, relaxed experience when meeting your quota!
@@ -128,6 +129,7 @@ Here an overview over our future plans and priorities. **Everything on here is n
 
 </details>
 
+- [ ] Dungeon Injection with LunarConfig (instead of ButteRyBalance handling it all)
 - [ ] Weather Overhaul with [Combined Weathers Toolkit](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/) & [LethalElementsTheta](https://thunderstore.io/c/lethal-company/p/pacoito/LethalElementsTheta/) + [Weather_Probe](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Weather_Probe/)
 - [ ] Custom Logs (Lore, Info, Modpack Intro)
 - [ ] Skin Registry integration & configuration
