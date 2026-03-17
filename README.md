@@ -133,7 +133,9 @@ Here an overview over our future plans and priorities. **Everything on here is n
 - [ ] Weather Overhaul with [Combined Weathers Toolkit](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/) & [LethalElementsTheta](https://thunderstore.io/c/lethal-company/p/pacoito/LethalElementsTheta/) + [Weather_Probe](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Weather_Probe/)
 - [ ] Custom Logs (Lore, Info, Modpack Intro)
 - [ ] Skin Registry integration & configuration
+- [ ] [Biodiversity by super_fucking_cool_and_basass_team](https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/) + [Shisha by s1ckboy](https://thunderstore.io/c/lethal-company/p/s1ckboy/Shisha/) + [Peepers by x753](https://thunderstore.io/c/lethal-company/p/x753/Peepers/): Integration when fitting
 - [ ] Wesley's Moons Compatibility per Configuration
+- [ ] [Company Hauler by Glojam](https://thunderstore.io/c/lethal-company/p/Glojam/Company_Hauler/): Testing
 
 #### Sometime
 
@@ -163,15 +165,15 @@ Everything in this category especially is less set in stone.
 - [ ] Add Vanilla-like Moon Mods (Maybe Tunere, Oxyde, Lua, Seichi, and/or Wither?)
 - [ ] Testing - [FacilityMeltdown by loaforc](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdownExperimental/) (+chance): Re-implementation when functional again
 - [ ] Testing - [CodeRebirth by XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/CodeRebirth/): Either integration or compatibility
-- [ ] Testing - [Biodiversity by super_fucking_cool_and_basass_team](https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/) + [Shisha by s1ckboy](https://thunderstore.io/c/lethal-company/p/s1ckboy/Shisha/) + [Peepers by x753](https://thunderstore.io/c/lethal-company/p/x753/Peepers/): Integration when fitting
-- [ ] Testing - [InsanityRemastered by BudgetAirpods](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/): When updated for v73 and deemed fitting
-- [ ] Testing - [MapImprovements by SpookyBuddy](https://thunderstore.io/c/lethal-company/p/SpookyBuddy/MapImprovements/): When compatible with RebalancedMoons or as an alternative.
-- [ ] Testing - [LCGoldScrapMod by SimonTendo](https://thunderstore.io/c/lethal-company/p/SimonTendo/LCGoldScrapMod/): Needs proper adjustment
-- [ ] Testing - [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/): Needs proper adjustment for compatibility & balancing.
+- [ ] Testing - [MetalItemVariants by mr_hat](https://thunderstore.io/c/lethal-company/p/mr_hat/MetalItemVariants/): Needs proper adjustment
 - [ ] Testing - [LethalThings by Evaisa](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/): Either integration or compatibility
 - [ ] Testing - [Piggys_Variety_Mod by Piggy](https://thunderstore.io/c/lethal-company/p/Piggy/Piggys_Variety_Mod/): Either integration or compatibility
-- [ ] Testing - [Company Hauler by Glojam](https://thunderstore.io/c/lethal-company/p/Glojam/Company_Hauler/): Integration when compatible with v73, CruiserImproved & LC_VR
+
+#### Once Fixed
+
 - [ ] Testing - [GhostCodes by darmuh](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/): Integration when compatible with v73
+- [ ] Testing - [MapImprovements by SpookyBuddy](https://thunderstore.io/c/lethal-company/p/SpookyBuddy/MapImprovements/): When compatible with RebalancedMoons or as an alternative.
+- [ ] Testing - [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/): Needs proper adjustment for compatibility & balancing.
 
 ## Installation
 
