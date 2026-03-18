@@ -24,7 +24,7 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
-## [unreleased/v3.1.0] - 2025-03-?? | Back to it; Pre-v80 (v73)
+## [v3.1.0] - 2025-03-?? | Back to it; Pre-v80 (v73)
 
 This update is several weeks late due to my ~~current~~ past study phase with the exams coming up and sadly not as well tested nor as feature complete as I had to sacrifice some mods that caused issues that I couldn't investigate. I am trying to maintain this pack in an okay-ish fashion until I am more available again. And maybe until v80 drops which is not that far in the horizon.
 
