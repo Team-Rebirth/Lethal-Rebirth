@@ -43,7 +43,6 @@ LunarConfig's new Dungeon- & Weather-Injection is something I really wanna mess 
 - Dusted: Now handled by WeatherInjector and thus removed.
 - FairAI: Caused issues on the last playtest by making traps ignore all entities among other things and thus is temporarily removed as I do not have the time to figure them out. Config is retained because it will be readded once it works well again.
 - TerminalConflictFix: Now handled by DawnLib.
-- DynamicJesterCrank: Dragged down performance.
 
 ### Changed [v3.1.0]
 
@@ -52,7 +51,7 @@ LunarConfig's new Dungeon- & Weather-Injection is something I really wanna mess 
 - Added LethalLevelLoaderUpdated back to the dependencies, as it is installed automatically anyway due to some mods having it as a dependency. That leads to it being installed in an older vesrsion which then leads the mod manager to offer updates.
 - TestAccountVariety: Disabled Trap Mines, disable acid spitters, disable propulsion mines, disable rocket, disable Evil YIPPEE, disable gift mimic, disable Stone, disable telepad, disable tree cookie, disable ginger bread man, increase light switch energy usage
 - DawnLib: Now handles the terminal conflict specificity.
-- LunarConfigCentral: Disabled DungeonInjection.
+- LunarConfigCentral: Disabled Dungeon- & Weather-Injection.
 - LunarConfigEnemies: Made Spore Lizard immortal again to avoid weird death behavior.
 - LunarConfigMoons: Decreased Light Switch spawnrate across the board. Added the `Webbed`-tag to Offense to DeepCore Mines webbed.
 
