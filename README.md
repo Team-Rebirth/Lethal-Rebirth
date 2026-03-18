@@ -164,6 +164,7 @@ Everything in this category especially is less set in stone.
 
 - [ ] More Vanilla-like Interior Mods (Maybe Castellum Carnis, PlayZone, [Cabin](https://thunderstore.io/c/lethal-company/p/Sniper1_1/CabIn/), and/or Sector0(Beta)?)
 - [ ] Add Vanilla-like Moon Mods (Maybe Tunere, Oxyde, Lua, Seichi, and/or Wither?)
+- [ ] Testing - [Boom_Variants by Boom aka. BLB_Thunderstore_Mods_LOL](https://thunderstore.io/c/lethal-company/p/BLB_Thunderstore_Mods_LOL/Boom_Variants/): Would make awesome scenarios for higher level moons!
 - [ ] Testing - [FacilityMeltdown by loaforc](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdownExperimental/) (+chance): Re-implementation when functional again
 - [ ] Testing - [CodeRebirth by XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/CodeRebirth/): Either integration or compatibility
 - [ ] Testing - [MetalItemVariants by mr_hat](https://thunderstore.io/c/lethal-company/p/mr_hat/MetalItemVariants/): Needs proper adjustment
