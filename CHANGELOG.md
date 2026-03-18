@@ -24,20 +24,20 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
-## [unreleased/v3.0.3] - 2025-03-?? | Back to it (v73)
+## [unreleased/v3.1.0] - 2025-03-?? | Back to it; Pre-v80 (v73)
 
-This update is several weeks late due to my current study phase with the exams coming up and sadly not as well tested nor as feature complete as I had to sacrifice some mods that caused issues that I couldn't investigate. I am trying to maintain this pack in an okay-ish fashion until I am more available again. And maybe until v80 drops which is not that far in the horizon.
+This update is several weeks late due to my ~~current~~ past study phase with the exams coming up and sadly not as well tested nor as feature complete as I had to sacrifice some mods that caused issues that I couldn't investigate. I am trying to maintain this pack in an okay-ish fashion until I am more available again. And maybe until v80 drops which is not that far in the horizon.
 
-LunarConfig's new DungeonInjection is something I really wanna mess with but that will have to wait as I'd have to test its interactions with ButteRyBalance first, for which I lack time.
+LunarConfig's new Dungeon- & Weather-Injection is something I really wanna mess with but that will have to wait as I'd have to test its interactions with ButteRyBalance first, for which I lack time.
 
-### Added [v3.0.3]
+### Added [v3.1.0]
 
 - [BetterSpectator by Aelstraz](https://thunderstore.io/c/lethal-company/p/Aelstraz/BetterSpectator/): Improves
 - [WeatherInjector by ZetaArcade](https://thunderstore.io/c/lethal-company/p/ZetaArcade/WeatherInjector/): Allows injecting weathers and adapting their strength/effects on a per moon basis.
 - [Additional Networking by mattymatty](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/): Networks the game more for a better experience in sync.
 - [LethalScrollFix](https://thunderstore.io/c/lethal-company/p/slayer6409/LethalScrollFix/): Thought I added it already.
 
-### Removed [v.3.0.3]
+### Removed [v.3.1.0]
 
 - **LategameUpgrades** (+ LGU GUI): **Entirely malfunctioned for me**, leaving nothing but a few items it could spawn. I do not have the time to test it currently so I decided to remove it, temporarily…
 - Dusted: Now handled by WeatherInjector and thus removed.
@@ -45,9 +45,8 @@ LunarConfig's new DungeonInjection is something I really wanna mess with but tha
 - TerminalConflictFix: Now handled by DawnLib.
 - DynamicJesterCrank: Dragged down performance.
 
-### Changed [v3.0.3]
+### Changed [v3.1.0]
 
-- LategameUpgrades (moreshipupgrades.cfg): Uses DawnLib for initialization now (IDK why it didn't before)
 - LethalHUD: Set Damage display to vanilla.
 - WeatherInjector: Reduced Offense Eclipsed intensity (4 -> 3)
 - Added LethalLevelLoaderUpdated back to the dependencies, as it is installed automatically anyway due to some mods having it as a dependency. That leads to it being installed in an older vesrsion which then leads the mod manager to offer updates.
@@ -57,7 +56,7 @@ LunarConfig's new DungeonInjection is something I really wanna mess with but tha
 - LunarConfigEnemies: Made Spore Lizard immortal again to avoid weird death behavior.
 - LunarConfigMoons: Decreased Light Switch spawnrate across the board. Added the `Webbed`-tag to Offense to DeepCore Mines webbed.
 
-### Noted [v3.0.3]
+### Noted [v3.1.0]
 
 - This modpack is now compliant with [ThecheeseXD's Starter Pack](https://thunderstore.io/c/lethal-company/p/ThecheeseXD/Starter_Pack/) which contains all basic performance improvement and bug fix mods one could want.
 - Updated Dependencies. **LOTS OF UPDATES…**

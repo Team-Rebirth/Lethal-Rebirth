@@ -1,5 +1,7 @@
 # Lethal Rebirth
 
+PLEASE redownload the pack from scrap after any minor or major update to make sure no weird issues occur…
+
 [![GitHub Wiki](https://img.shields.io/badge/Wiki-%20-FFFFFF?style=for-the-badge)](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki)
 [![GitHub](https://img.shields.io/badge/GitHub-%20-FFFFFF?style=for-the-badge)](https://github.com/Team-Rebirth/Lethal-Rebirth)
 [![Thunderstore](https://img.shields.io/badge/Thunderstore-%20-229EC6?style=for-the-badge)](https://thunderstore.io/c/lethal-company/p/Rebirth/Lethal_Rebirth/)
@@ -91,7 +93,6 @@ Updating the mods after installing the modpack can cause new issues! Please let 
 Issues can easily be reported per [GitHub Issue](https://github.com/Team-Rebirth/Lethal-Rebirth/issues) or in [our Discord Thread on the Official LC Modding Discord Server](https://discord.com/channels/1168655651455639582/1433832543060496404).
 
 - **Unable to interact, locked on one item in the inventory**: If this occurs, press `,` and it should be fixed.
-- **Unable to interact after using LGU GUI**: If this occurs, open the menu again and close it once more (may need to try a few times) and it should work again. *Maybe avoid using the menu when landed to avoid stressful situations because of it.*
 - **Game Crash when hosting after having been a client**: Restart the game whenever you have been a client and want to host a lobby afterwards. Seems to be caused by LLL & LeathalNetworkAPI, will address it sometime.
 - **Betterfog Preset Desync**: Betterfog might use the incorrect preset (has not occured since v2.1.0), which can be noticed by unfittig color or higher fog density than your peers.
   - **How to deal with it**: Press F1, disable autosync, then revert to vanilla mode or manually select the correct preset. To understand which preset is used when, check out the [BetterFog Configuration Guide](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki/BetterFog).
@@ -104,7 +105,7 @@ Issues can easily be reported per [GitHub Issue](https://github.com/Team-Rebirth
 - **Invisible Maneater**: Sometimes a man eater that ate scrap is invisible before pick up. Cause is unknown.
 - **0 value Anvil**: Sometimes the anvil from Immersive Scrap does not have any value. Cause is unknown.
 - **Airborn Mines/Hazards**: Some hazards, mostly (prison) mines might float above the floor or cliffs. Cause is unknown.
-- **Unable to enter PW for lobby**: Had it occur once that no PW could be entered. More Probable on Linux, presumably related to window focus problems.
+- **Unable to enter PW for lobby**: Had it occur once that no PW could be entered. More Probable on Linux, presumably related to window focus problems or related to the window manager.
 
 ### Future Plans
 
@@ -129,7 +130,7 @@ Here an overview over our future plans and priorities. **Everything on here is n
 
 </details>
 
-- [ ] Dungeon Injection with LunarConfig (instead of ButteRyBalance handling it all)
+- [ ] Dungeon & Weather Injection with LunarConfig (instead of ButteRyBalance handling it all)
 - [ ] Weather Overhaul with [Combined Weathers Toolkit](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/) & [LethalElementsTheta](https://thunderstore.io/c/lethal-company/p/pacoito/LethalElementsTheta/) + [Weather_Probe](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Weather_Probe/)
 - [ ] Custom Logs (Lore, Info, Modpack Intro)
 - [ ] Skin Registry integration & configuration
