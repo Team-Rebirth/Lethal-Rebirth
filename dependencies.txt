@@ -50,7 +50,7 @@ DaXcess-NoJumpDelay@1.1.1
 DBJ-BetterScanVision@0.0.6
 debit_card_debit-RuntimeIcons_BetterRotations@1.1.11
 debit_card_debit-UniqueItemSounds@0.1.5
-Dev1A3-LethalFixes@1.2.9
+Dev1A3-LethalFixes@1.3.0
 Dev1A3-LobbyImprovements@1.1.2
 Dev1A3-YesFox@1.1.6
 DeviousEquine-Company_Globes@1.0.6
@@ -71,7 +71,7 @@ EliteMasterEric-Coroner@2.3.0
 Endoxicom-Gradient_Suits@1.2.1
 Enova-LoadingTips@1.1.7
 Entity378-HexiBetterShotgunFixed@1.0.1
-Entity378-Lethal_Doors_Fixed@1.2.0
+Entity378-Lethal_Doors_Fixed@1.2.1
 Evaisa-FixPluginTypesSerialization@1.1.4
 Evaisa-HookGenPatcher@0.0.5
 Evaisa-LethalLib@1.1.1
