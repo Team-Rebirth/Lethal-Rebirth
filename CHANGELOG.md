@@ -24,13 +24,15 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
-## [unreleased/v3.1.1] - 2025-03-19 | More to it; Pre-v80 (v73)
+## [unreleased/v3.2.0] - 2025-03-19 | More to it; Pre-v80 (v73)
 
 This update is me going through all the updates and checking the status of the pack, only to realize I messed up a lot with the v3.0.0 release. I am now rectifying that and trying to catch up on any past mistakes.
 
-### Added [v3.1.1]
+As I managed to miss some pretty gameplay relevant changes it is a minor update.
 
-Basically everything that should've been here since v3.0.0 or should've been in the last update.
+### Added [v3.2.0]
+
+Basically everything that should've been here since v3.0.0 or should've been in the last update + some more things that I wanted to add since a while.
 
 - [BetterSpectator by Aelstraz](https://thunderstore.io/c/lethal-company/p/Aelstraz/BetterSpectator)
 - [SavePlayerVolume by egg_node](https://thunderstore.io/c/lethal-company/p/egg_node/SavePlayerVolume/)
@@ -41,7 +43,7 @@ Basically everything that should've been here since v3.0.0 or should've been in 
 - [Natural_selection by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/Natural_selection/): Makes Spiders & Circuit bees chase & kill a selection of enemies. Forest Keepers have a low chance to be set on fire by circuit bees and a low chance to extinguish the fire before death.
   - [NaturalSelectionLib by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/NaturalSelectionLib/)
 
-### Noted [v3.1.1]
+### Noted [v3.2.0]
 
 - Updated Dependencies.
 - ***Updated the Wiki!*** It is much closer to a finished state now and up to date again.
