@@ -24,6 +24,28 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
+## [unreleased/v3.1.1] - 2025-03-19 | More to it; Pre-v80 (v73)
+
+This update is me going through all the updates and checking the status of the pack, only to realize I messed up a lot with the v3.0.0 release. I am now rectifying that and trying to catch up on any past mistakes.
+
+### Added [v3.1.1]
+
+Basically everything that should've been here since v3.0.0 or should've been in the last update.
+
+- [BetterSpectator by Aelstraz](https://thunderstore.io/c/lethal-company/p/Aelstraz/BetterSpectator)
+- [SavePlayerVolume by egg_node](https://thunderstore.io/c/lethal-company/p/egg_node/SavePlayerVolume/)
+- [BetterCruiserSync by MysticDEV](https://thunderstore.io/c/lethal-company/p/MysticDEV/BetterCruiserSync/): Makes sure the Cruiser syncs more properly for clients.
+- [NicheTweaks by mr_hat](https://thunderstore.io/c/lethal-company/p/mr_hat/NicheTweaks/): Makes the MoreCompany cosmetics icon orange. Removes LethalConfig main menu. Makes footsteps last longer. Causes blood effects when damaged. Enables global voice volume slider. More minor tweaks that improve the experience.
+- [KeepUnlocks by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/KeepUnlocks/): Keep suits and furniture past save reset due to failed quota or reset command.
+- [MorePartyPoppers by Zeldahu](https://thunderstore.io/c/lethal-company/p/Zeldahu/MorePartyPoppers/): Adds party poppers as scrap.
+- [Natural_selection by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/Natural_selection/): Makes Spiders & Circuit bees chase & kill a selection of enemies. Forest Keepers have a low chance to be set on fire by circuit bees and a low chance to extinguish the fire before death.
+  - [NaturalSelectionLib by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/NaturalSelectionLib/)
+
+### Noted [v3.1.1]
+
+- Updated Dependencies.
+- ***Updated the Wiki!*** It is much closer to a finished state now and up to date again.
+
 ## [v3.1.0] - 2025-03-18 | Back to it; Pre-v80 (v73)
 
 This update is several weeks late due to my ~~current~~ past study phase with the exams coming up and sadly not as well tested nor as feature complete as I had to sacrifice some mods that caused issues that I couldn't investigate. I am trying to maintain this pack in an okay-ish fashion until I am more available again. And maybe until v80 drops which is not that far in the horizon.
@@ -32,7 +54,7 @@ LunarConfig's new Dungeon- & Weather-Injection is something I really wanna mess 
 
 ### Added [v3.1.0]
 
-- [BetterSpectator by Aelstraz](https://thunderstore.io/c/lethal-company/p/Aelstraz/BetterSpectator/): Improves
+- ~~[BetterSpectator by Aelstraz](https://thunderstore.io/c/lethal-company/p/Aelstraz/BetterSpectator)~~ – Forgot to add
 - [WeatherInjector by ZetaArcade](https://thunderstore.io/c/lethal-company/p/ZetaArcade/WeatherInjector/): Allows injecting weathers and adapting their strength/effects on a per moon basis.
 - [Additional Networking by mattymatty](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/): Networks the game more for a better experience in sync.
 - [LethalScrollFix](https://thunderstore.io/c/lethal-company/p/slayer6409/LethalScrollFix/): Thought I added it already.
@@ -41,7 +63,7 @@ LunarConfig's new Dungeon- & Weather-Injection is something I really wanna mess 
 
 - **LategameUpgrades** (+ LGU GUI): **Entirely malfunctioned for me**, leaving nothing but a few items it could spawn. I do not have the time to test it currently so I decided to remove it, temporarily…
 - Dusted: Now handled by WeatherInjector and thus removed.
-- FairAI: Caused issues on the last playtest by making traps ignore all entities among other things and thus is temporarily removed as I do not have the time to figure them out. Config is retained because it will be readded once it works well again.
+- **FairAI**: Caused issues on the last playtest by making traps ignore all entities among other things and thus is temporarily removed as I do not have the time to figure them out. Config is retained because it will be readded once it works well again.
 - TerminalConflictFix: Now handled by DawnLib.
 
 ### Changed [v3.1.0]
@@ -92,18 +114,20 @@ After all this time LunarConfig by Crafty finally made the jump to using DawnLib
 
 ### Added [v3.0.0]
 
+For some reason half of the mods weren't added in restrospective. I am sorry.
+
 - [DawnLib by TeamXiaolan](https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/): The Dawn of Lethal Company modding (Centralized Library for all sorts of things).
 - [Company_Globes by DeviousEquine](https://thunderstore.io/c/lethal-company/p/DeviousEquine/Company_Globes/): Adds collectible, moon-based, globes as scrap.
 - [Whiteboard by Zehs](https://thunderstore.io/c/lethal-company/p/Zehs/Whiteboard/): Adds a whiteboard as a furniture item.
 - [FlashlightToolLoader by Sniper1_1](https://thunderstore.io/c/lethal-company/p/Sniper1_1/FlashlightToolLoader/): Makes the light when custom flashlights are in the off-hand consistent with their normal light. Thanks a lot to ThecheeseXD for the recommendation!
-- [BetterCruiserSync by MysticDEV](https://thunderstore.io/c/lethal-company/p/MysticDEV/BetterCruiserSync/): Makes sure the Cruiser syncs more properly for clients.
+- ~~[BetterCruiserSync by MysticDEV](https://thunderstore.io/c/lethal-company/p/MysticDEV/BetterCruiserSync/): Makes sure the Cruiser syncs more properly for clients.~~ – Not added back then for some reason.
 - [LethalScrollFix by slayer6409](https://thunderstore.io/c/lethal-company/p/slayer6409/LethalScrollFix/): Fixes the erratic scrolling introduced by v73.
-- [NicheTweaks by mr_hat](https://thunderstore.io/c/lethal-company/p/mr_hat/NicheTweaks/): Makes the MoreCompany cosmetics icon orange. Removes LethalConfig main menu. Makes footsteps last longer. Causes blood effects when damaged. Enables global voice volume slider. More minor tweaks that improve the experience.
-- [SavePlayerVolume by egg_node](https://thunderstore.io/c/lethal-company/p/egg_node/SavePlayerVolume/)
-- [KeepUnlocks by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/KeepUnlocks/): Keep suits and furniture past save reset due to failed quota or reset command.
-- [MorePartyPoppers by Zeldahu](https://thunderstore.io/c/lethal-company/p/Zeldahu/MorePartyPoppers/): Adds party poppers as scrap.
-- [Natural_selection by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/Natural_selection/): Makes Spiders & Circuit bees chase & kill a selection of enemies. Forest Keepers have a low chance to be set on fire by circuit bees and a low chance to extinguish the fire before death.
-  - [NaturalSelectionLib by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/NaturalSelectionLib/)
+- ~~[NicheTweaks by mr_hat](https://thunderstore.io/c/lethal-company/p/mr_hat/NicheTweaks/): Makes the MoreCompany cosmetics icon orange. Removes LethalConfig main menu. Makes footsteps last longer. Causes blood effects when damaged. Enables global voice volume slider. More minor tweaks that improve the experience.~~ – Not added back then for some reason.
+- ~~[SavePlayerVolume by egg_node](https://thunderstore.io/c/lethal-company/p/egg_node/SavePlayerVolume/)~~ – Was not added here for some reason.
+- ~~[KeepUnlocks by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/KeepUnlocks/): Keep suits and furniture past save reset due to failed quota or reset command.~~ – For some reason not added back then.
+- ~~[MorePartyPoppers by Zeldahu](https://thunderstore.io/c/lethal-company/p/Zeldahu/MorePartyPoppers/): Adds party poppers as scrap.~~
+- ~~[Natural_selection by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/Natural_selection/): Makes Spiders & Circuit bees chase & kill a selection of enemies. Forest Keepers have a low chance to be set on fire by circuit bees and a low chance to extinguish the fire before death.~~
+  - ~~[NaturalSelectionLib by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/NaturalSelectionLib/)~~
 
 ### Removed [v3.0.0]
 
@@ -239,7 +263,7 @@ The goal of this update was to offer an experience more closely aligned with van
 ### Added [v2.4.0]
 
 - [Longer_Day by Megalophobia](https://thunderstore.io/c/lethal-company/p/Megalophobia/Longer_Day/): Increases time on moons *slightly*.
-- [SpectateDeathCause by ViViKo](https://thunderstore.io/c/lethal-company/p/ViViKo/SpectateDeathCause/): Displays cause of death for your fellow spectators.
+- ~~[SpectateDeathCause by ViViKo](https://thunderstore.io/c/lethal-company/p/ViViKo/SpectateDeathCause/): Displays cause of death for your fellow spectators.~~ – Wasn't added.
 
 ### Changed [v2.4.0]
 
