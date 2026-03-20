@@ -194,7 +194,7 @@ taffyko-NameplateTweaks@1.0.7
 taffyko-NiceChat@1.2.7
 taffyko-QuickQuitToMenu@1.0.1
 TeamClark-SCP_Foundation_Suit@1.1.0
-TeamXiaolan-DawnLib@0.8.10
+TeamXiaolan-DawnLib@0.8.12
 TestAccount666-AnnounceMoonAndWeatherChange@2.0.5
 TestAccount666-AntiSlimeCamp@2.0.0
 TestAccount666-DoorBreach@1.5.0
@@ -207,7 +207,7 @@ ThePotato-scanForItemsFix@1.0.4
 TiltedTomb-The_Femmployee_Mod@1.1.9
 toosday-ShipAudioTweaks@2.1.1
 TronMan63304-Colorful_1000_Quota_Stare@1.0.1
-Turkeysteaks-CoronerIntegrations@0.4.1
+Turkeysteaks-CoronerIntegrations@0.5.0
 TwinDimensionalProductions-CoilHeadStare@1.1.0
 Unyucord-TransmitPunctuation@1.0.3
 v0xx-TerraMesh@1.2.0
