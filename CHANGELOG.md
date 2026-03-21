@@ -42,6 +42,7 @@ Basically everything that should've been here since v3.0.0 or should've been in 
 - [MorePartyPoppers by Zeldahu](https://thunderstore.io/c/lethal-company/p/Zeldahu/MorePartyPoppers/): Adds party poppers as scrap.
 - [Natural_selection by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/Natural_selection/): Makes Spiders & Circuit bees chase & kill a selection of enemies. Forest Keepers have a low chance to be set on fire by circuit bees and a low chance to extinguish the fire before death.
   - [NaturalSelectionLib by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/NaturalSelectionLib/)
+- [Lethal_Questing by Fighter](https://thunderstore.io/c/lethal-company/p/Fighter/Lethal_Questing/): Adds quests with minor rewards.
 
 ### Noted [v3.2.0]
 

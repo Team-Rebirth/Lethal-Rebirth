@@ -52,6 +52,8 @@ We recommend installing [LethalCasino](https://thunderstore.io/c/lethal-company/
 
 ### Hotkeys
 
+Not a hotkey but if you are using `3 shov` for example to buy 3 shovels it is recommended to switch to `shov 3` as `2` and `3` in the beginning will trigger an elevator move command for LC Office instead of buying an item.
+
 **General:**
 
 - `F`: Flashlight control

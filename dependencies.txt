@@ -81,6 +81,7 @@ Evaisa-LethalLib@1.1.1
 Fandovec03-Natural_selection@0.4.18
 Fandovec03-NaturalSelectionLib@0.8.2
 Fandovec03-SpiderPositionFix@1.5.3
+Fighter-Lethal_Questing@1.3.0
 FiligraniCringeGang-ProperOxygen@1.0.0
 FlipMods-HotbarPlus@1.8.6
 FlipMods-ReservedItemSlotCore@2.0.54
@@ -194,7 +195,7 @@ taffyko-NameplateTweaks@1.0.7
 taffyko-NiceChat@1.2.7
 taffyko-QuickQuitToMenu@1.0.1
 TeamClark-SCP_Foundation_Suit@1.1.0
-TeamXiaolan-DawnLib@0.8.12
+TeamXiaolan-DawnLib@0.8.15
 TestAccount666-AnnounceMoonAndWeatherChange@2.0.5
 TestAccount666-AntiSlimeCamp@2.0.0
 TestAccount666-DoorBreach@1.5.0
