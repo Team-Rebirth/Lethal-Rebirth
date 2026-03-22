@@ -4,6 +4,7 @@ AinaVT-LethalConfig@1.4.6
 Alice-DungeonGenerationPlus@1.4.1
 AtomicStudio-Atomics_Cosmetics@1.3.4
 AtomicStudio-Left_and_Right_Map_Indicator@1.1.1
+BADQUEST-FancyWeatherAPI@1.0.1
 Beaniebe-Beanie_Lib@1.0.7
 Beaniebe-Deepcore_Mines@1.0.6
 BepInEx-BepInExPack@5.4.2305
@@ -14,11 +15,11 @@ Bobbie-NAudio@2.2.2
 BunyaPineTree-ModelReplacementAPI@2.4.19
 ButteryStancakes-AccurateStaminaDisplay@2.2.1
 ButteryStancakes-BarberFixes@1.3.0
-ButteryStancakes-ButteRyBalance@0.3.1
-ButteryStancakes-ButteryFixes@1.16.2
-ButteryStancakes-Chameleon@2.2.3
+ButteryStancakes-ButteRyBalance@0.3.2
+ButteryStancakes-ButteryFixes@1.16.3
+ButteryStancakes-Chameleon@2.2.4
 ButteryStancakes-ClassicSuitRestoration@2.1.3
-ButteryStancakes-EnemySoundFixes@1.8.6
+ButteryStancakes-EnemySoundFixes@1.8.7
 ButteryStancakes-HalloweenAction@1.0.2
 ButteryStancakes-HalloweenElevator@1.0.1
 ButteryStancakes-JetpackFixes@1.5.4
@@ -27,6 +28,7 @@ ButteryStancakes-KickWithoutBan@1.0.1
 ButteryStancakes-MaskFixes@1.5.2
 ButteryStancakes-MeleeFixes@1.4.1
 ButteryStancakes-SafeSoloScrap@2.0.1
+ButteryStancakes-SpawnCycleFixes@1.0.0
 ButteryStancakes-RadioBabyFace@1.0.1
 ButteryStancakes-RestoreMapper@1.3.2
 ButteryStancakes-RevisitStingers@1.3.0
@@ -89,6 +91,7 @@ FlipMods-ReservedUtilitySlot@1.0.7
 FREAKS-SuitsPlus@3.0.0
 fumiko-CullFactory@2.0.4
 Furiante-WeedKillerTweaks@1.0.0
+Fusition-BetterSpectate@1.0.0
 FutureSavior-Boombox_Sync_Fix@1.1.3
 Generic_GMD-Generic_Cosmetics@1.0.3
 Generic_GMD-Generic_Doorscript@1.0.1
@@ -102,6 +105,7 @@ Hardy-LCMaxSoundsFix@1.2.0
 Hexnet111-SuitSaver@1.2.1
 HGG-JigglePhysicsPlugin@1.1.21
 hu_luo_bo_ya-V73dcfix@1.0.6
+HQ_Team-ReservedSlotPositionsForInventory@1.0.1
 IAmBatby-LethalLevelLoader@1.6.8
 ironthumb-BetterFog@3.4.1
 JacobG5-JLL@1.9.9
@@ -166,6 +170,7 @@ pacoito-LethalLevelLoaderUpdated@1.6.0
 Piggy-JesterStompShake@1.0.11
 Piggy-LC_Office@2.3.4
 Pooble-LCBetterSaves@1.7.3
+PureFPSZac-NestFix@1.2.0
 quackandcheese-ToggleMute@1.3.1
 rectorado-FontUpdate@0.8.2
 Rminin-FinallyCorrectKeys@1.6.1
@@ -198,6 +203,7 @@ TeamClark-SCP_Foundation_Suit@1.1.0
 TeamXiaolan-DawnLib@0.8.15
 TestAccount666-AnnounceMoonAndWeatherChange@2.0.5
 TestAccount666-AntiSlimeCamp@2.0.0
+TestAccount666-BetterLightning@1.0.2
 TestAccount666-DoorBreach@1.5.0
 TestAccount666-GoodItemScan@1.14.0
 TestAccount666-LooseJesterSpring@1.0.5
@@ -206,6 +212,7 @@ TestAccount666-TestAccountFixes@1.4.0
 TestAccount666-TestAccountVariety@1.44.0
 ThePotato-scanForItemsFix@1.0.4
 TiltedTomb-The_Femmployee_Mod@1.1.9
+Tomatobird-AlwaysInBounds@1.2.1
 toosday-ShipAudioTweaks@2.1.1
 TronMan63304-Colorful_1000_Quota_Stare@1.0.1
 Turkeysteaks-CoronerIntegrations@0.5.0

@@ -138,7 +138,7 @@ Here an overview over our future plans and priorities. **Everything on here is n
 - [ ] Skin Registry integration & configuration
 - [ ] [Biodiversity by super_fucking_cool_and_basass_team](https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/) + [Shisha by s1ckboy](https://thunderstore.io/c/lethal-company/p/s1ckboy/Shisha/) + [Peepers by x753](https://thunderstore.io/c/lethal-company/p/x753/Peepers/): Integration when fitting
 - [ ] Wesley's Moons Compatibility per Configuration
-- [ ] [Company Hauler by Glojam](https://thunderstore.io/c/lethal-company/p/Glojam/Company_Hauler/): Testing
+- [ ] [Company Hauler by Glojam](https://thunderstore.io/c/lethal-company/p/Glojam/Company_Hauler/) & [Boom Vehicles by Boom](https://thunderstore.io/c/lethal-company/p/BLB_Thunderstore_Mods_LOL/Boom_Vehicles/): Testing
 
 #### Sometime
 
@@ -166,6 +166,7 @@ Everything in this category especially is less set in stone.
 
 - [ ] More Vanilla-like Interior Mods (Maybe Castellum Carnis, PlayZone, [Cabin](https://thunderstore.io/c/lethal-company/p/Sniper1_1/CabIn/), and/or Sector0(Beta)?)
 - [ ] Add Vanilla-like Moon Mods (Maybe Tunere, Oxyde, Lua, Seichi, and/or Wither?)
+- [ ] Improve Scrap Pool with [Boom Scraps by Boom aka. BLB_Thunderstore_Mods_LOL](https://thunderstore.io/c/lethal-company/p/BLB_Thunderstore_Mods_LOL/Boom_Scraps/)
 - [ ] Testing - [Boom_Variants by Boom aka. BLB_Thunderstore_Mods_LOL](https://thunderstore.io/c/lethal-company/p/BLB_Thunderstore_Mods_LOL/Boom_Variants/): Would make awesome scenarios for higher level moons!
 - [ ] Testing - [FacilityMeltdown by loaforc](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdownExperimental/) (+chance): Re-implementation when functional again
 - [ ] Testing - [CodeRebirth by XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/CodeRebirth/): Either integration or compatibility

@@ -43,11 +43,17 @@ Basically everything that should've been here since v3.0.0 or should've been in 
 - [Natural_selection by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/Natural_selection/): Makes Spiders & Circuit bees chase & kill a selection of enemies. Forest Keepers have a low chance to be set on fire by circuit bees and a low chance to extinguish the fire before death.
   - [NaturalSelectionLib by Fandovec03](https://thunderstore.io/c/lethal-company/p/Fandovec03/NaturalSelectionLib/)
 - [Lethal_Questing by Fighter](https://thunderstore.io/c/lethal-company/p/Fighter/Lethal_Questing/): Adds quests with minor rewards.
+- [SpawnCycleFixes by ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/SpawnCycleFixes/)
+- [BetterSpectate by Fusition](https://thunderstore.io/c/lethal-company/p/Fusition/BetterSpectate/): Adds first-person spectator view (toggle `P`) and scrolling for 3rd person view.
+- [FancyWeatherAPI by BADQUEST](https://thunderstore.io/c/lethal-company/p/BADQUEST/FancyWeatherAPI/): Custom Animations for custom weathers :3
+- [AlwaysInBounds by Tomatobird](https://thunderstore.io/c/lethal-company/p/Tomatobird/AlwaysInBounds/): If you fall out of the map you are teleported to the ship or entrance.
+- [NestFix by PureFPSZac](https://thunderstore.io/c/lethal-company/p/PureFPSZac/NestFix/): Make sure Baboon Hawk nests choose reasonable spots.
+- [ReservedSlotPositionsForInventory](https://thunderstore.io/c/lethal-company/p/HQ_Team/ReservedSlotPositionsForInventory/): Makes any items that count as equipment visible on the body when in the inventory (no matter if reserved slot or not).
 
 ### Noted [v3.2.0]
 
 - Updated Dependencies.
-- ***Updated the Wiki!*** It is much closer to a finished state now and up to date again.
+- ***Updated the Wiki!*** It is much closer to a finished state now and up to date again! Check it NOW, YES, NOW!!!!!
 
 ## [v3.1.0] - 2025-03-18 | Back to it; Pre-v80 (v73)
 
