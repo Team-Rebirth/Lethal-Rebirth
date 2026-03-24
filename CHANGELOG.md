@@ -24,9 +24,9 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
-## [unreleased/v3.2.0] - 2025-03-19 | More to it; Pre-v80 (v73)
+## [v3.2.0] - 2025-03-24 | More to it; Pre-v80 (v73)
 
-This update is me going through all the updates and checking the status of the pack, only to realize I messed up a lot with the v3.0.0 release. I am now rectifying that and trying to catch up on any past mistakes.
+This update is me going through all the updates and checking the status of the pack, only to realize I messed up a lot with the v3.0.0 release. I am now rectifying that and trying to catch up on any past mistakes. Additionally, I had a lot of minor additions on the shelf since a while so I figured it'd make sense to include them now :3
 
 As I managed to miss some pretty gameplay relevant changes it is a minor update.
 
@@ -51,10 +51,14 @@ Basically everything that should've been here since v3.0.0 or should've been in 
 - [ReservedJsonSlots by JacobG5](https://thunderstore.io/c/lethal-company/p/JacobG5/ReservedJsonSlots/): Allows custom inventory slots using json files. (The implemented slots are made using [ReservedCustomPosition v1.1.1 by Moroxide](https://thunderstore.io/c/lethal-company/p/Moroxide/ReservedCustomPosition/) as a base, thanks!)
 - [ReservedSlotPositionsForInventory](https://thunderstore.io/c/lethal-company/p/HQ_Team/ReservedSlotPositionsForInventory/): Makes any items with custom reserved slots positions also take the position when in the inventory and not held. (The implemented positions are made using [ReservedCustomPosition v1.1.1 by Moroxide](https://thunderstore.io/c/lethal-company/p/Moroxide/ReservedCustomPosition/) as a base, thanks!)
 
+### Removed [v3.2.0]
+
+- ReservedUtilitySlot: Now handled with custom slots. Do not worry, if you unlocked it in your current run the new one is unlocked as well!
+
 ### Noted [v3.2.0]
 
 - Updated Dependencies.
-- ***Updated the Wiki!*** It is much closer to a finished state now and up to date again! Check it NOW, YES, NOW!!!!!
+- ***Updated the [Wiki](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki)!*** It is much closer to a finished state now and up to date again! Check it NOW, YES, NOW!!!!!
 
 ## [v3.1.0] - 2025-03-18 | Back to it; Pre-v80 (v73)
 
