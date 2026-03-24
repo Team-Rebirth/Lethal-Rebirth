@@ -176,7 +176,6 @@ rectorado-FontUpdate@0.8.2
 Rminin-FinallyCorrectKeys@1.6.1
 Rune580-LethalCompany_InputUtils@0.7.12
 s1ckboy-LethalHUD@1.4.6
-ScienceBird-MoreCupboards@1.4.0
 ScienceBird-Polished_Plushies_and_Silly_Scrap@1.0.4
 ScienceBird-ScienceBird_Tweaks@4.6.1
 ScienceBird-Universal_Radar@1.2.3

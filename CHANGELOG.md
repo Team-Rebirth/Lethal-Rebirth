@@ -54,6 +54,13 @@ Basically everything that should've been here since v3.0.0 or should've been in 
 ### Removed [v3.2.0]
 
 - ReservedUtilitySlot: Now handled with custom slots. Do not worry, if you unlocked it in your current run the new one is unlocked as well!
+- MoreCupboards: Hasn't worked properly for a while.
+
+### Changed [v3.2.0]
+
+- LunarConfigEnemies: Set Butlerbees/Masked Hornet Powerlevel from 2 to 1.
+- SpawnCycleFixes: Enabled Masked Hornet Power fix (mentioned as this setting was from ButteryFixes prior).
+- Whiteboard: Changed text.
 
 ### Noted [v3.2.0]
 
