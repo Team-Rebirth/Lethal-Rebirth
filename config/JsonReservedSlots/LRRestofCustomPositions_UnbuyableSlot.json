@@ -1,0 +1,767 @@
+{
+  "reservedSlotName": "ignore",
+  "slotPriority": 80,
+  "purchasePrice": 9999999,
+  "itemsForSlot": [
+    {
+      "itemName": "Shovel",
+      "bone": 3,
+      "position": {
+        "x": 0.06,
+        "y": -0.0,
+        "z": -0.37
+      },
+      "rotation": {
+        "x": -75,
+        "y": 90,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Stop sign",
+      "bone": 3,
+      "position": {
+        "x": 0.06,
+        "y": -0.06,
+        "z": -0.3
+      },
+      "rotation": {
+        "x": -75,
+        "y": 90,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Yield sign",
+      "bone": 3,
+      "position": {
+        "x": 0.06,
+        "y": -0.1,
+        "z": -0.3
+      },
+      "rotation": {
+        "x": -75,
+        "y": 90,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Kitchen knife",
+      "bone": 3,
+      "position": {
+        "x": 0.15,
+        "y": 0.3,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 90,
+        "y": 0,
+        "z": 90
+      }
+    },
+	{
+      "itemName": "Axe",
+      "bone": 3,
+      "position": {
+        "x": 0.14,
+        "y": 0.25,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": -75,
+        "y": 90,
+        "z": -90
+      }
+    },
+	{
+      "itemName": "Sledgehammer",
+      "bone": 3,
+      "position": {
+        "x": 0.2,
+        "y": 0.6,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": -75,
+        "y": 90,
+        "z": 90
+      }
+    },
+	{
+      "itemName": "Chainsaw",
+      "bone": 3,
+      "position": {
+        "x": 0.25,
+        "y": 0.7,
+        "z": -0.2
+      },
+      "rotation": {
+        "x": -105,
+        "y": -90,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Circular saw",
+      "bone": 3,
+      "position": {
+        "x": 0,
+        "y": 0.2,
+        "z": -0.7
+      },
+      "rotation": {
+        "x": 180,
+        "y": 0,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Crystalline pickaxe",
+      "bone": 3,
+      "position": {
+        "x": 0.15,
+        "y": 0.3,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": -15
+      }
+    },
+	{
+      "itemName": "Crystalline sledgehammer",
+	  "bone": 4,
+      "position": {
+        "x": 0.15,
+        "y": 0.1,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 75
+      }
+    },
+	{
+      "itemName": "Mortar hammer",
+      "bone": 4,
+      "position": {
+        "x": 0.15,
+        "y": 0.2,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 15,
+        "y": 90,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Pencil",
+      "bone": 4,
+      "position": {
+        "x": 0.15,
+        "y": 0.0,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Pickaxe",
+      "bone": 3,
+      "position": {
+        "x": 0.15,
+        "y": 0.3,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": -15
+      }
+    },
+	{
+      "itemName": "Ritual dagger",
+      "bone": 4,
+      "position": {
+        "x": 0.15,
+        "y": 0.1,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Stun baton",
+      "bone": 3,
+      "position": {
+        "x": 0.15,
+        "y": 0.3,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Crowbar",
+      "bone": 3,
+      "position": {
+        "x": 0.15,
+        "y": 0.2,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 90,
+        "y": 0,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Candy Dispenser",
+      "bone": 3,
+      "position": {
+        "x": 0.0,
+        "y": -0.4,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": -15
+      }
+    },
+	{
+      "itemName": "Epic Axe",
+      "bone": 3,
+      "position": {
+        "x": 0.1,
+        "y": 0,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": -15
+      }
+    },
+	{
+      "itemName": "Spiky Mace",
+      "bone": 3,
+      "position": {
+        "x": 0.15,
+        "y": 0.3,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": -15
+      }
+    },
+	{
+      "itemName": "Nature's Mace",
+      "bone": 3,
+      "position": {
+        "x": 0.15,
+        "y": 0.3,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": -15
+      }
+    },
+	{
+      "itemName": "Icy Hammer",
+      "bone": 3,
+      "position": {
+        "x": 0.15,
+        "y": 0.3,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": -15
+      }
+    },
+	{
+      "itemName": "Puppeteer's Needle",
+      "bone": 4,
+      "position": {
+        "x": 0.15,
+        "y": -0.2,
+        "z": -0.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Golden Pickaxe",
+      "bone": 3,
+      "position": {
+        "x": 0.15,
+        "y": 0.3,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 75,
+        "y": 270,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Golden Glove",
+      "bone": 3,
+      "position": {
+        "x": 0.15,
+        "y": -0,
+        "z": -0.55
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "IFireAxe",
+      "bone": 3,
+      "position": {
+        "x": 0.1,
+        "y": 0.08,
+        "z": -0.37
+      },
+      "rotation": {
+        "x": 90,
+        "y": -45,
+        "z": 135
+      }
+    },
+	{
+      "itemName": "Plunger",
+      "bone": 3,
+      "position": {
+        "x": 0.3,
+        "y": 0.9,
+        "z": -0.37
+      },
+      "rotation": {
+        "x": 180,
+        "y": 0,
+        "z": 15
+      }
+    },
+	{
+      "itemName": "IBaseball bat",
+      "bone": 3,
+      "position": {
+        "x": 0.2,
+        "y": 0.3,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 285,
+        "y": 90,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Blue Shrimp",
+      "bone": 3,
+      "position": {
+        "x": 0.06,
+        "y": -0.1,
+        "z": -0.37
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Mole Digger",
+      "bone": 3,
+      "position": {
+        "x": 0.1,
+        "y": 0.1,
+        "z": -0.9
+      },
+      "rotation": {
+        "x": 90,
+        "y": 0,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Brrreaker",
+      "bone": 3,
+      "position": {
+        "x": -0.22,
+        "y": -1,
+        "z": -0.37
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": -15
+      }
+    },
+	{
+      "itemName": "Turbulence",
+      "bone": 3,
+      "position": {
+        "x": 0.12,
+        "y": 1.9,
+        "z": -0.37
+      },
+      "rotation": {
+        "x": 180,
+        "y": 0,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Marrow Splitter",
+      "bone": 3,
+      "position": {
+        "x": 0.12,
+        "y": 0.3,
+        "z": -0.8
+      },
+      "rotation": {
+        "x": 90,
+        "y": 0,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Toma Hop",
+      "bone": 3,
+      "position": {
+        "x": 0.23,
+        "y": 0.5,
+        "z": -0.37
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": -15
+      }
+    },
+	{
+      "itemName": "Assimilated bracken arm",
+      "bone": 3,
+      "position": {
+        "x": 0.15,
+        "y": 0.3,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 0,
+        "y": 180,
+        "z": -90
+      }
+    },
+	{
+      "itemName": "Harold hammer",
+      "bone": 3,
+      "position": {
+        "x": 0.15,
+        "y": 0.3,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": -15
+      }
+    },
+	{
+      "itemName": "Painful pencil",
+      "bone": 4,
+      "position": {
+        "x": 0.15,
+        "y": 0.0,
+        "z": -0.4
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Toy Hammer",
+      "bone": 3,
+      "position": {
+        "x": 0.1,
+        "y": 0.08,
+        "z": -0.37
+      },
+      "rotation": {
+        "x": -75,
+        "y": 90,
+        "z": 90
+      }
+    },
+  {
+      "itemName": "Battery",
+      "bone": 1,
+      "position": {
+        "x": 0.23,
+        "y": 0.05,
+        "z": 0.15
+      },
+      "rotation": {
+        "x": -20,
+        "y": 0,
+        "z": 0
+      }
+    },
+      {
+      "itemName": "Ammo",
+      "bone": 1,
+      "position": {
+        "x": -0.23,
+        "y": 0.05,
+        "z": 0.15
+      },
+      "rotation": {
+        "x": -110.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+	{
+      "itemName": "Magazine",
+      "bone": 1,
+      "position": {
+        "x": -0.23,
+        "y": 0.05,
+        "z": 0.15
+      },
+      "rotation": {
+        "x": -110.0,
+        "y": 0.0,
+        "z": -30
+      }
+    },
+	{
+      "itemName": "Bullet",
+      "bone": 1,
+      "position": {
+        "x": -0.23,
+        "y": 0.05,
+        "z": 0.15
+      },
+      "rotation": {
+        "x": -110.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+	{
+      "itemName": "Ammo Tin",
+      "bone": 1,
+      "position": {
+        "x": -0.28,
+        "y": 0.0,
+        "z": 0.25
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -35.0,
+        "z": 10.0
+      }
+    },
+	{
+      "itemName": "Shell",
+      "bone": 1,
+      "position": {
+        "x": -0.25,
+        "y": 0.05,
+        "z": 0.15
+      },
+      "rotation": {
+        "x": -110.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+	{
+      "itemName": "Shells",
+      "bone": 1,
+      "position": {
+        "x": -0.25,
+        "y": 0.05,
+        "z": 0.15
+      },
+      "rotation": {
+        "x": -110.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+	{
+      "itemName": "Emergency Flare (ammo)",
+      "bone": 1,
+      "position": {
+        "x": -0.25,
+        "y": 0.05,
+        "z": 0.15
+      },
+      "rotation": {
+        "x": -20.0,
+        "y": 0.0,
+        "z": 90.0
+      }
+    },
+      {
+      "itemName": "Shotgun",
+      "bone": 3,
+      "position": {
+        "x": -0.2,
+        "y": 0.3,
+        "z": -0.45
+      },
+      "rotation": {
+        "x": 75,
+        "y": 90,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Revolver",
+      "bone": 3,
+      "position": {
+        "x": -0.2,
+        "y": 0.5,
+        "z": -0.45
+      },
+      "rotation": {
+        "x": 285,
+        "y": 270,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Rifle",
+	  "bone": 3,
+      "position": {
+        "x": -0.1,
+        "y": 0.3,
+        "z": -0.45
+      },
+      "rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 75
+      }
+    },
+	{
+      "itemName": "Double-Barreled Shotgun",
+      "bone": 3,
+      "position": {
+        "x": -0.2,
+        "y": 0.3,
+        "z": -0.45
+      },
+      "rotation": {
+        "x": 75,
+        "y": 90,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Rail Slugger",
+      "bone": 3,
+      "position": {
+        "x": -0.17,
+        "y": 0.3,
+        "z": -0.45
+      },
+      "rotation": {
+        "x": 180,
+        "y": 0,
+        "z": -15
+      }
+    },
+	{
+      "itemName": "Oxidizer",
+      "bone": 3,
+      "position": {
+        "x": 0,
+        "y": 0.3,
+        "z": -0.54
+      },
+      "rotation": {
+        "x": 0,
+        "y": 20,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Ceasefire",
+      "bone": 3,
+      "position": {
+        "x": -0.2,
+        "y": -0.2,
+        "z": -0.45
+      },
+      "rotation": {
+        "x": 90,
+        "y": 0,
+        "z": 0
+      }
+    },
+	{
+      "itemName": "Rocket Launcher",
+      "bone": 3,
+      "position": {
+        "x": -0.2,
+        "y": 0.3,
+        "z": -0.3
+      },
+      "rotation": {
+        "x": -15,
+        "y": 90,
+        "z": -90
+      }
+    },
+      {
+      "itemName": "Key",
+      "bone": 1,
+      "position": {
+        "x": -0.15,
+        "y": 0.05,
+        "z": 0.21
+      },
+      "rotation": {
+        "x": -110,
+        "y": 0,
+        "z": 80
+      }
+    }
+  ],
+  "equipKeybind": {
+	"defaultBind": "",
+    "toggle": true
+  }
+}

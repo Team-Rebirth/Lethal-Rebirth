@@ -48,7 +48,8 @@ Basically everything that should've been here since v3.0.0 or should've been in 
 - [FancyWeatherAPI by BADQUEST](https://thunderstore.io/c/lethal-company/p/BADQUEST/FancyWeatherAPI/): Custom Animations for custom weathers :3
 - [AlwaysInBounds by Tomatobird](https://thunderstore.io/c/lethal-company/p/Tomatobird/AlwaysInBounds/): If you fall out of the map you are teleported to the ship or entrance.
 - [NestFix by PureFPSZac](https://thunderstore.io/c/lethal-company/p/PureFPSZac/NestFix/): Make sure Baboon Hawk nests choose reasonable spots.
-- [ReservedSlotPositionsForInventory](https://thunderstore.io/c/lethal-company/p/HQ_Team/ReservedSlotPositionsForInventory/): Makes any items that count as equipment visible on the body when in the inventory (no matter if reserved slot or not).
+- [ReservedJsonSlots by JacobG5](https://thunderstore.io/c/lethal-company/p/JacobG5/ReservedJsonSlots/): Allows custom inventory slots using json files. (The implemented slots are made using [ReservedCustomPosition v1.1.1 by Moroxide](https://thunderstore.io/c/lethal-company/p/Moroxide/ReservedCustomPosition/) as a base, thanks!)
+- [ReservedSlotPositionsForInventory](https://thunderstore.io/c/lethal-company/p/HQ_Team/ReservedSlotPositionsForInventory/): Makes any items with custom reserved slots positions also take the position when in the inventory and not held. (The implemented positions are made using [ReservedCustomPosition v1.1.1 by Moroxide](https://thunderstore.io/c/lethal-company/p/Moroxide/ReservedCustomPosition/) as a base, thanks!)
 
 ### Noted [v3.2.0]
 

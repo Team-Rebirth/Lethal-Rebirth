@@ -69,7 +69,6 @@
 !config/FlipMods.FasterItemDropship.cfg
 !config/FlipMods.HotbarPlus.cfg
 !config/FlipMods.ReservedItemSlotCore.cfg
-!config/FlipMods.ReservedUtilitySlot.cfg
 !config/FlipMods.TooManyEmotes.cfg
 !config/furiante.WeedKillerTweaks.cfg
 !config/GoldenKitten.FairAI.cfg
@@ -78,6 +77,10 @@
 !config/ironthumb.BetterFog.cfg
 !config/JLL
 !config/JLL/Magic Wesley.Toy Store.cfg
+!config/JsonReservedSlots
+!config/JsonReservedSlots/PlayerBones.txt
+!config/JsonReservedSlots/LRRestofCustomPositions_UnbuyableSlot.json
+!config/JsonReservedSlots/LRUtilitySlot.json
 !config/LethalHUD.cfg
 !config/LethalPerformance.cfg
 !config/LethalSponge.cfg
