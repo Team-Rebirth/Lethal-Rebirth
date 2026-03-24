@@ -84,9 +84,11 @@ Not a hotkey but if you are using `3 shov` for example to buy 3 shovels it is re
 
 **Spectator:**
 
+- `P`: Switch to 1st Person spectator mode
+- `Scrolling`: Scroll-in/-out in 3rd person (default) spectator mode
+- `H`: Show poltergeist keybinds
 - `Q`: Switch to poltergeist spectator mode
 - `LMB` in poltergeist: Enable night vision
-- `H`: Show poltergeist keybinds
 
 ### Known Issues
 
