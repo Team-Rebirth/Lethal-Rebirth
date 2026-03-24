@@ -1,6 +1,6 @@
 # Lethal Rebirth
 
-PLEASE redownload the pack from scrap after any minor or major update to make sure no weird issues occur…
+PLEASE redownload the pack from scrap after any minor or major updates to make sure no weird issues occur…
 
 [![GitHub Wiki](https://img.shields.io/badge/Wiki-%20-FFFFFF?style=for-the-badge)](https://github.com/Team-Rebirth/Lethal-Rebirth/wiki)
 [![GitHub](https://img.shields.io/badge/GitHub-%20-FFFFFF?style=for-the-badge)](https://github.com/Team-Rebirth/Lethal-Rebirth)
