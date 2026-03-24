@@ -24,6 +24,17 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
+## [v3.2.1] - 2025-03-24 | Hotfix (v73)
+
+### Changed [v3.2.1]
+
+- Interior Title Cards: Interior Title Overwrites now work.
+
+### Noted [v3.2.1]
+
+- Updated Dependencies.
+- Corrected minor typos and such.
+
 ## [v3.2.0] - 2025-03-24 | More to it; Pre-v80 (v73)
 
 This update is me going through all the updates and checking the status of the pack, only to realize I messed up a lot with the v3.0.0 release. I am now rectifying that and trying to catch up on any past mistakes. Additionally, I had a lot of minor additions on the shelf since a while so I figured it'd make sense to include them now :3
