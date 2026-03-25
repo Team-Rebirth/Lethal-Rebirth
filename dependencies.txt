@@ -63,7 +63,7 @@ DiFFoZ-BepInEx_MonoMod_Debug_Patcher@1.1.1
 DiFFoZ-DiFFoZTweaks@1.5.1
 DiFFoZ-HarmonyXTranspilerFix@1.1.0
 DiFFoZ-LethalPerformance@1.2.1
-DiggC-CruiserImproved@1.5.4
+DiggC-CruiserImproved@1.5.5
 DOkge-InventoryFixPlugin@0.0.1
 dopadream-BarberMaterialTweaks@1.1.1
 dopadream-HexiShotgunTweaks@1.0.1
