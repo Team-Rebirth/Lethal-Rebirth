@@ -63,6 +63,7 @@ Not a hotkey but if you are using `3 shov` for example to buy 3 shovels it is re
 - `F1`: Betterfog configuration menu
 - `F2`: Toggle HUD
 - `P`: Inventory Lock Fix (if you inventory behaves very strangely or doesn't let you switch items, press it)
+- `X`: Toggle Utility Slot.
 
 **Special:**
 

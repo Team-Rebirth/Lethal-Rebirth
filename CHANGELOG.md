@@ -24,6 +24,18 @@ We adhere to a slightly altered version of [Semantic Versioning](https://semver.
 
 - Updated Dependencies.
 
+## [v3.2.2] - 2025-03-25 | Hotfix (v73)
+
+### Changed [v3.2.2]
+
+- ReservedJsonSlots: Utility Slot now also holds Stun Grenades & Homemade Flashbangs.
+- LoadingTips: Reworked, added, and removed some.
+
+### Noted [v3.2.1]
+
+- Updated Dependencies.
+- Corrected minor typos and such.
+
 ## [v3.2.1] - 2025-03-24 | Hotfix (v73)
 
 ### Changed [v3.2.1]

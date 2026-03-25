@@ -9,7 +9,7 @@ A door's bell attracts keen ears...
 The monitor's text now automatically scrolls up and down!
 Ever thought the ship was too small? Enjoy this leviathan of a ship!
 You can see the moons in the ship external camera, just like in v38!
-The Company has sponsors you with a second cupboard. Get it in the shop and enjoy it!
+## The Company has sponsors you with a second cupboard. Get it in the shop and enjoy it!
 The loud horn is now auto unlocked; Figure how to use it wisely or die trying!
 Extra Monitors, extra display; Upgrades, people! Upgrades!
 The new monitors show you day, scrap value on ship, and a bit more...
@@ -23,6 +23,7 @@ The ship provided for Operation Rebirth is cleaned up and up to current standard
 A maximum occupancy of 8 is assumed. Bring more friends along if you want to have more party.
 The ship's floodlight rotates now! Use the button panel to change its speed & behavior.
 The annoying squeaky noice from the ship has been replaced with more pleasant ones :3
+Note the whiteboard! You can write on it :3
 ## ===== Terminal =====
 The Terminal's upgrades exist thanks to the excellent assets Darmuh & Mrov!
 Open the "Other" page in the terminal to see new commands!
@@ -33,6 +34,7 @@ The newly formatted terminal makes sure you can easily find what you need on any
 Radar maps for the monitor and terminal operate independently now!
 ## ==== Cruiser =====
 A cruiser a day keeps the doctor away, for the gravedigger will receive their pay.
+The Cruiser should be more consistent for clients now!
 You can look over your shoulder when in the cruiser now!
 Maybe play a tune and see what it does...
 ## ===== Moons =====
@@ -89,7 +91,43 @@ The Forest's Keepers will now loose suspicion the longer it does not see you.
 Watch your step, always.
 ## ===== QoL =====
 Quality of Life decreases pain and keeps your strive.
+The stamina display now is accurate!
+If you happen to fall out of the map, you'll be teleported back, safely!
+Enjoy a better EXP system that is based on what you do and don't :3
+Scanning now gives you minor night vision!
+Press P as a spectator to see everything in 1st person!
+Most modded entities now have a death report!
+You always drop your items when killed, or eaten…
+Easter eggs only explode when thrown in LR.
+Did you notice that the main menu got spiced up a lil'?
+You can extend your deadline using the terminal!
+Displayed keybinds will more often display correctly :3
+The dropship can now deliver more items!
+Press F to toggle your flashlight!
+Cosmetic unlocks are kept past gameover!
+Kicking someone from a lobby is not an immediate ban now!
+You can have as many save files as you wish now :3
+Ultrawide monitors are now supported!
+For all those struggling to differentiate left and right, the radar icon of a player now has clear indicators!
+Toggle the display of current quests with K.
+You may notice the Discord presence for the game now includes more info!
+The lobby can be re-opened for late joining using 'lobby open'.
+Days on moons are marginally longer.
+You can play with up to 36 people!
+You regenerate health naturally over some time. The last player alive even get a small survival bonus…
+Baboon hawk nests now only spawn in resonable spots.
+Dying at the company now comes with no penalties.
+Jumping no longer has input delay!
+Press Q as a specator to switch to a freecam spectator mode; Poltergeist!
 When oxygen reaches 0 you receive damage until you die. Any damage taken will regenerate once you breathe fresh air again!
+Items in your inventory may now be displayed on your body when not in your hand!
+Every item has a new icon generated at runtime :3
+Your last day's scrap is safe in solo!
+Player volumes that you have set are now saved beyond a session!
+The shotgun tooltip is now more helpful.
+The ship is less cluttered.
+Press M to mute yourself! Please only do so if you are in a noisy environment or sth… Would be a shame if you cheated.
+The signal translator can now transmit punctuation!
 You have quick drop! Upon dropping anything the slot changes to one with something in it. Scrap is always dropped first!
 If you do not want your messages to be read by text-to-speech put a ! before it!
 ## ===== Equipment =====

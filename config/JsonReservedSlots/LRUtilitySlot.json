@@ -269,7 +269,13 @@
         "z": 0.0
       }
     },
-  {
+    {
+      "itemName": "Stun grenade"
+    },
+    {
+      "itemName": "Homemade flashbang"
+    },
+    { 
       "itemName": "Walkie-talkie",
       "bone": 4,
       "position": {
@@ -679,6 +685,104 @@
         "x": 90,
         "y": 90,
         "z": 0
+      }
+    },
+        {
+      "itemName": "Ammo",
+      "bone": 1,
+      "position": {
+        "x": -0.23,
+        "y": 0.05,
+        "z": 0.15
+      },
+      "rotation": {
+        "x": -110.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+	{
+      "itemName": "Magazine",
+      "bone": 1,
+      "position": {
+        "x": -0.23,
+        "y": 0.05,
+        "z": 0.15
+      },
+      "rotation": {
+        "x": -110.0,
+        "y": 0.0,
+        "z": -30
+      }
+    },
+	{
+      "itemName": "Bullet",
+      "bone": 1,
+      "position": {
+        "x": -0.23,
+        "y": 0.05,
+        "z": 0.15
+      },
+      "rotation": {
+        "x": -110.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+	{
+      "itemName": "Ammo Tin",
+      "bone": 1,
+      "position": {
+        "x": -0.28,
+        "y": 0.0,
+        "z": 0.25
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -35.0,
+        "z": 10.0
+      }
+    },
+	{
+      "itemName": "Shell",
+      "bone": 1,
+      "position": {
+        "x": -0.25,
+        "y": 0.05,
+        "z": 0.15
+      },
+      "rotation": {
+        "x": -110.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+	{
+      "itemName": "Shells",
+      "bone": 1,
+      "position": {
+        "x": -0.25,
+        "y": 0.05,
+        "z": 0.15
+      },
+      "rotation": {
+        "x": -110.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+	  {
+      "itemName": "Emergency Flare (ammo)",
+      "bone": 1,
+      "position": {
+        "x": -0.25,
+        "y": 0.05,
+        "z": 0.15
+      },
+      "rotation": {
+        "x": -20.0,
+        "y": 0.0,
+        "z": 90.0
       }
     }
   ],
